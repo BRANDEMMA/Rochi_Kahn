@@ -1,0 +1,1947 @@
+/*--==================== FUENTES ========================--*/
+@font-face {
+	font-family: "bell_regular";
+	src: url(../font/bell.ttf) format("truetype");
+}
+@font-face {
+	font-family: "bell_bold";
+	src: url(../font/BELLB.TTF) format("truetype");
+}
+@font-face {
+	font-family: "calibri_normal";
+	src: url(../font/calibri.ttf) format("truetype");
+}
+@font-face {
+	font-family: "calibri_light";
+	src: url(../font/calibril.ttf) format("truetype");
+}
+@font-face {
+	font-family: "calibri_bold";
+	src: url(../font/calibrib.ttf) format("truetype");
+}
+@font-face {
+	font-family: "my_riad_pro_bold";
+	src: url(../font/MyriadPro-Bold.otf) format("opentype");
+}
+@font-face {
+	font-family: "poiret_one_regular";
+	src: url(../font/PoiretOne-Regular.ttf) format("truetype");
+}
+
+/*--==================== ESTILOS GENERALES ========================--*/
+body{
+	color: black;
+	margin: 0;
+	width: 100%;
+}
+.clear{
+	clear: both;
+}
+.contenedor{
+	margin: 0 auto;
+	width: 90%;
+}
+
+/*--============    ESTILOS DEL MENU (INICIO)  ============--*/
+header{
+	font-family: 'Poiret one', cursive;
+	margin: 0 auto;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	width: 90%;
+}
+.menu-izquierda{
+	float: left;
+	font-size: 1.2em;
+	font-weight: bolder;
+	padding-top: 4%;
+	width: 42.5%;
+}
+nav ul{
+	display: flex;
+	list-style: none;
+	padding-left: 0;
+}
+nav li{
+	flex-grow: 1;
+	-webkit-flex-grow: 1;
+	text-align: center;
+}
+
+nav ul li a{
+	color: black;
+	display: block;
+	padding-right: 10%;
+	text-decoration: none;
+}
+.logo{
+	float: left;
+	width: 15%;
+}
+.logo img{
+	width: 100%;
+}
+.menu-derecha{
+	float: left;
+	font-size: 1.2em;
+	font-weight: bolder;
+	padding-top: 4%;
+	width: 42.5%;
+}
+.continuacion{
+	float: left;
+	width: 80%;
+}
+.redes-sociales{
+	float: left;
+	padding-top: 3%;
+	width: 20%;
+}
+.facebook{
+	background: url(../img/menu/facebook-rochikahn.gif) no-repeat left;
+	background-size: 200% 100%;
+	float: right;
+	height: 30px;
+	width: 30px;
+}
+.facebook:hover{
+	background: url(../img/menu/facebook-rochikahn.gif) no-repeat right;
+	background-size: 200% 100%;
+}
+.twitter{
+	background: url(../img/menu/twitter-rochikahn.gif) no-repeat left;
+	background-size: 200% 100%;
+	float: right;
+	height: 30px;
+	width: 30px;
+}
+.twitter:hover{
+	background: url(../img/menu/twitter-rochikahn.gif) no-repeat right;
+	background-size: 200% 100%;
+}
+.youtube{
+	background: url(../img/menu/youtube-rochikahn.gif) no-repeat left;
+	background-size: 200% 100%;
+	float: right;
+	height: 30px;
+	width: 30px;
+}
+.youtube:hover{
+	background: url(../img/menu/youtube-rochikahn.gif) no-repeat right;
+	background-size: 200% 100%;
+}
+/*--============    ESTILOS DEL MENU (FIN)  ============--*/
+
+/*--============    ESTILOS DEL SLIDER (INICIO)  ============--*/
+.contenedor-slider{
+	display: flex;
+	margin: 0 auto;
+	position: relative;
+	width: 90%;
+}
+#contenedor-slider{
+	margin: auto;
+	overflow: hidden;
+	position: relative;
+	width: 100%;
+}
+#slider{
+	display: flex;
+	width: 300%;
+}
+#slider section{
+	width: 100%;
+}
+#slider img{
+	display: block;
+	height: 100%;
+	width: 100%;
+}
+#btn-next, #btn-prev{
+	cursor: pointer;
+	height: 5%;
+	position: absolute;
+	top: 45%;
+	width: 2.5%;
+	transform: translateY(-50%);
+}
+#btn-prev{
+	left: -60px;
+}
+#btn-next{
+	right: -60px;
+}
+#btn-next img, #btn-prev img{
+	width: 100%;
+}
+.nueva-coleccion{
+	margin: 0 auto;
+	position: absolute;
+	top: 30px;
+	width: 100%;
+}
+.texto-nueva{
+	display: flex;
+	justify-content: flex-end;
+}
+.img-nueva-1{
+	padding-left: 200px;
+	height: 16px;
+	margin-top: 4px;
+	width: 16px;
+}
+
+.texto-nueva a{
+text-decoration: none;
+color: black;
+}
+
+.texto-nueva a:hover{
+
+color: gray;
+}
+
+.p-nueva{
+	font-family: "bell_regular";
+	font-size: 0.8em;
+	letter-spacing: 0.2em;
+	margin: 0;
+	padding-top: 5px;
+	text-align: center;
+	width: 15%;
+}
+.img-nueva-2{
+	height: 22px;
+	margin-right: -150px;
+}
+.fecha-nueva{
+	display: flex;
+	justify-content: center;
+	
+}
+.fecha-nueva img{
+	height: 16px;
+	padding-left:250px;
+}
+.fecha-nueva p{
+	font-family: "calibri_light";
+	font-size: 0.8em;
+	letter-spacing: 0.2em;
+	margin: 0;
+	padding-left: 1%;
+}
+/*--============    ESTILOS DEL SLIDER (FIN)  ============--*/
+
+/*--============    ESTILOS DEL CUERPO INDEX (INICIO)  ============--*/
+.edicion-limitada{
+	margin: 0 auto;
+	width: 90%;
+}
+#izquierda-edicion{
+	float: left;
+	width: 60%;
+}
+.espacio-edicion{
+	padding-top: 45%;
+	width: 100%;
+}
+.titulo-edicion{
+	display: flex;
+	float: right;
+	width: 80%
+}
+.img-edicion-1{
+	height:25px;
+	float:left;
+	width:25px;
+}
+#izquierda-edicion .titulo-edicion .p-edicion{
+	float:left;
+	margin:0;
+	padding:0;
+	text-align:center;
+	width:60%;
+}
+.img-edicion-2{
+	float:left;
+	height:25px;
+}
+#izquierda-edicion p{
+	font-family: "bell_regular";
+	font-size: 1.5em;
+	letter-spacing: 0.5em;
+	margin-bottom: 0;
+	margin-left: 30%;
+}
+#izquierda-edicion ul{
+	font-size: 1.5em;
+	list-style: none;
+	margin-left: 30%;
+	padding: 0;
+}
+#izquierda-edicion ul li{
+	padding: 35px;
+	padding-left: 0;
+}
+#izquierda-edicion ul li i{
+	padding-right: 15px;
+}
+#izquierda-edicion ul li a{
+	color: black;
+	font-family: "calibri_light";
+	letter-spacing: 0.3em;
+	text-decoration: none;
+}
+
+#izquierda-edicion ul li a:hover{
+	color: #ea4a94;
+	
+}
+
+#derecha-edicion{
+	background: url(../img/index/edicion-limitada-rochi-kahn.jpg) no-repeat left;
+	background-size: 200% 100%;
+	float: left;
+	width: 40%;
+}
+#derecha-edicion:hover{
+	background: url(../img/index/edicion-limitada-rochi-kahn.jpg) no-repeat right;
+	background-size: 200.4% 100%;
+}
+#derecha-edicion img{
+	width: 100%;
+}
+.experiencias{
+	margin: 0 auto;
+	width: 90%;
+}
+.espacio-experiencias{
+	padding-top: 70%;
+	width: 100%;
+}
+.titulo-experiencias{
+	display: flex;
+	float: left;
+	width: 80%
+}
+.img-experiencias-1{
+	float:left; 
+	height:25px;
+}
+#derecha-experiencias .titulo-experiencias .p-experiencias{
+	margin:0;
+	padding:0;
+	text-align:center;
+	width:60%;
+}
+.img-experiencias-2{
+	height:25px;
+	margin-top:-0.7%;
+	width:25px;
+}
+#izquierda-experiencias{
+	background: url(../img/index/experiencias-rochi-kahn.jpg) no-repeat left;
+	background-size: 200% 100%;
+	float: left;
+	width: 60%
+}
+#izquierda-experiencias:hover{
+	background: url(../img/index/experiencias-rochi-kahn.jpg) no-repeat right;
+	background-size: 200.3% 100%;
+}
+#izquierda-experiencias img{
+	width: 100%;
+}
+#derecha-experiencias{
+	float: left;
+	width: 40%;
+}
+#derecha-experiencias p{
+	font-family: "bell_regular";
+	font-size: 1.5em;
+	letter-spacing: 0.5em;
+	margin-bottom: 0;
+	margin-left: 30%;
+}
+#derecha-experiencias ul{
+	font-size: 1.5em;
+	list-style: none;
+	margin-bottom: 0;
+	margin-left: 30%;
+	margin-top: 0;
+	padding: 0;
+}
+#derecha-experiencias ul li{
+	padding: 35px;
+	padding-left: 0;
+}
+#derecha-experiencias ul li i{
+	padding-right: 15px;
+}
+#derecha-experiencias ul li a{
+	color: black;
+	font-family: "calibri_light";
+	letter-spacing: 0.3em;
+	text-decoration: none;
+}
+#derecha-experiencias ul li ul{
+	font-size: 0.8em;
+	margin-left: 7%;
+}
+.accordion .link {
+	cursor: pointer;
+	display: block;
+	font-family: "calibri_light";
+	letter-spacing: 0.3em;
+	position: relative;
+	-webkit-transition: all 0.4s ease;
+	-o-transition: all 0.4s ease;
+	transition: all 0.4s ease;
+}
+
+.accordion .link:hover {
+	color:#ea4a94;
+}
+
+.accordion li.open i.fa-caret-right{
+	-webkit-transform: rotate(90deg);
+	-ms-transform: rotate(90deg);
+	-o-transform: rotate(90deg);
+	transform: rotate(90deg);
+}
+.submenu{
+	display: none;
+}
+
+
+
+.titulo-trayectoria-2{
+	background: url(../img/trayectoria/linea.gif);
+	background-size: 100% 100%;
+	background-repeat: repeat-x;
+	margin: 0 auto;
+	width: 100%;
+}
+.texto-titulo-trayectoria-2{
+	background: url(../img/trayectoria/circulos.gif);
+	background-size: 100% 16px;
+	margin: 0 auto;
+	width: 20%;
+	height: auto;
+}
+.texto-titulo-trayectoria-2 p{
+	text-align: center;
+	font-size: 1.1em;
+}
+/*--============    ESTILOS DEL CUERPO INDEX (FIN)  ============--*/
+
+/*--============    ESTILOS DE TRAYECTORIA (INICIO)  ============--*/
+.trayectoria{
+	margin: 0 auto;
+	margin-top: 3%;
+	width: 90%;
+}
+.titulo-trayectoria{
+	display: flex;
+	overflow: hidden;
+	width: 100%;
+}
+.img-trayectoria-1{
+	height:27px;
+}
+.p-trayectoria{
+	font-family: "bell_regular";
+	font-size:1em;
+	letter-spacing:0.2em;
+	margin:0;padding:0;
+	padding-top:3px;
+	text-align:center; 
+	width:20%;
+}
+.img-trayectoria-2{
+	height:27px;
+}
+.rochi{
+	border: 1px solid black;
+	margin:0 auto;
+	width:9%;
+}
+.rochi p{
+	font-family: "calibri_light";
+	font-size:0.9em;
+	letter-spacing:0.2em;
+	margin:0;padding:5%;
+	text-align:center;
+}
+.contenido-trayectoria{
+	border-bottom: 1px solid rgba(132,129,129,0.2);
+	margin-top: 25px;
+	padding-bottom: 5%;
+	width: 100%;
+}
+.izquierda-trayectoria{
+	float: left;
+	width: 55%;
+
+	padding-top: 14%;
+}
+.derecha-trayectoria{
+	float: left;
+	width: 45%;
+}
+.derecha-trayectoria img{
+	width: 90%;
+}
+.contenedor-cuadrados{
+	border-bottom: 1px solid rgba(132,129,129,0.2);
+	padding-bottom: 2%;
+	padding-left: 5px;
+	padding-right: 10px;
+	width: 100%;
+}
+.contenedor-cuadrados2{
+	margin-top: 4%;
+	padding-left: 5px;
+	padding-right: 10px;
+	width: 100%;
+}
+.cuadro-trayectoria{
+	display: block;
+	float: left;
+	width: 25%;
+}
+
+/*EFECTO DE FILTRO ESCALA DE GRISES (INICIO)*/
+.cuadro-trayectoria img{
+	filter: url('#grayscale'); /* Versión SVG para IE10, Chrome 17, FF3.5, Safari 5.2 and Opera 11.6 */
+	-webkit-filter: grayscale(100%);
+	-moz-filter: grayscale(100%);
+	-ms-filter: grayscale(100%);
+	-o-filter: grayscale(100%);
+	filter: grayscale(100%); /* Para cuando es estándar funcione en todos */
+	filter: Gray(); /* IE4-8 and 9 */
+	width: 100%;
+}
+.cuadro-trayectoria img:hover{
+	-webkit-filter: grayscale(0%);
+	-moz-filter: grayscale(0%);
+	-ms-filter: grayscale(0%);
+	-o-filter: grayscale(0%);
+	filter: none;
+
+	-webkit-transition: all 0.7s ease;
+	-moz-transition: all 0.7s ease;
+	-ms-transition: all 0.7s ease;
+	-o-transition: all 0.7s ease;
+	transition: all 0.7s ease;
+}
+/*EFECTO DE FILTRO ESCALA DE GRISES (TERMINA)*/
+
+.cuadro-trayectoria p{
+	font-family: "calibri_light";
+	font-size:0.6em;
+	letter-spacing: 0.1em;
+	width:100%;
+}
+.margenes{
+	padding-left:6%;
+	padding-right:6%;
+}
+/*--============    ESTILOS DE TRAYECTORIA (FIN)  ============--*/
+
+/*--============    ESTILOS DE PRENSA (INICIO)  ============--*/
+.prensa{
+	border-bottom: 1px solid rgba(132,129,129,0.2);
+	margin: 0 auto;
+	margin-top: 2%;
+	width: 90%;
+}
+.titulo-prensa{
+	display: flex;
+	overflow: hidden;
+	width: 100%;
+}
+.img-prensa-1{
+	height:27px;
+}
+.p-prensa{
+	font-family: "bell_regular";
+	font-size:1em;
+	letter-spacing:0.2em;
+	margin:0;padding:0;
+	padding-top:3px;
+	text-align:center; 
+	width:15%;
+}
+.img-prensa-2{
+	height:27px;
+}
+.contenido-prensa{
+	margin: 0 auto;
+	margin-top: 2%;
+	width: 95%;
+}
+#galeria-prensa{
+	display: none;
+	justify-content: center;
+	flex-wrap: wrap;
+	padding-top: 15px;
+	width: 100%;
+}
+#galeria-prensa article{
+	border-bottom: 1px solid rgba(132,129,129,0.8);;
+	margin: 20px;
+	width: 16%;
+}
+#galeria-prensa img{
+	width: 100%;
+}
+#galeria-prensa p{
+	font-family: "calibri_light";
+	font-size: 0.6em;
+	letter-spacing: 0.1em;
+}
+#galeria-prensa a{
+	color: black;
+	text-decoration: none;
+}
+/*ESTILOS SLIDER MINIATURA (INICIO)*/
+#contenedor-slider-total{
+	margin: 0 auto;
+	position: relative;
+	width: 100%;
+}
+#contenedor-slider2{
+	margin: auto;
+	overflow: hidden;
+	width: 70%;
+}
+#slider2{
+	display: flex;
+	margin: auto;
+	overflow: hidden;
+	width: 300%;
+}
+#slider2 section{
+	display: flex;
+	justify-content: center;
+	width: 100%;
+}
+.miniatura{
+	margin: 8px;
+	width: 14.5%;
+}
+.miniatura img{
+	width: 100%;
+}
+#btn-prev2, #btn-next2{
+	cursor: pointer;
+	height: 5%;
+	position: absolute;
+	top: 35%;
+	width: 1.5%;
+	transform: translateY(-50%);
+}
+#btn-prev2{
+	left: 13%;
+}
+#btn-next2{
+	right: 13%;
+}
+#btn-prev2 img, #btn-next2 img{
+	width: 100%;
+}
+#ver-mas{
+	display: flex;
+	justify-content: flex-end;
+	margin-bottom: 1%;
+	width: 100%;
+}
+#ver-mas a{
+	color:black;
+	cursor: pointer;
+	display: flex;
+	float: right;
+	justify-content: flex-end;
+	text-decoration: none;
+	width: 7%;
+}
+#ver-mas p{
+	font-family: "calibri_light";
+	font-size: 0.7em;
+	letter-spacing: 0.1em;
+	margin: 0;
+	margin-right: 0.4%;
+}
+#ver-mas img{
+	height: 15px;
+	width: 15px;
+}
+#ver-menos{
+	display: none;
+	justify-content: flex-end;
+	margin-top: 2%;
+	width: 100%;
+}
+#ver-menos a{
+	color:black;
+	cursor: pointer;
+	display: flex;
+	justify-content: flex-end;
+	text-decoration: none;
+	width: 100%;
+}
+#ver-menos p{
+	font-family: "calibri_light";
+	font-size: 0.7em;
+	letter-spacing: 0.1em;
+	margin: 0;
+	margin-right: 0.4%;
+}
+#ver-menos img{
+	height: 15px;
+	width: 15px;
+}
+/*ESTILOS SLIDER MINIATURA (FIN)*/
+/*--============    ESTILOS DE PRENSA (FIN)  ============--*/
+
+/*--============    ESTILOS DE CONTACTO (INICIO)  ============--*/
+.contacto{
+	border-bottom: 1px solid rgba(132,129,129,0.2);
+	margin: 0 auto;
+	margin-top: 3%;
+	padding-bottom: 6%;
+	width: 90%;
+}
+.titulo-contacto{
+	display: flex;
+}
+.img-contacto-1{
+	height: 27px;
+}
+.p-contacto{
+	font-family: "bell_regular";
+	font-size:1em;
+	letter-spacing:0.2em;
+	margin:0;padding:0;
+	padding-top:3px;
+	text-align:center; 
+	width:15%;
+}
+.img-contacto-2{
+	height: 15px;
+	padding-top: 4px;
+	width: 15px;
+}
+.texto-contacto{
+	display: flex;
+	margin-left: 12%;
+}
+.texto-contacto img{
+	height: 15px;
+}
+.texto-contacto p{
+	font-family: "calibri_light";
+	font-size: 0.8em;
+	letter-spacing: 0.2em;
+	margin: 0;
+	margin-left: 1%;
+}
+.actualizaciones{
+	margin-left: 12%;
+
+}
+.actualizaciones p{
+	font-family: "calibri_light";
+	font-size: 0.7em;
+}
+.actualizaciones a{
+	color: black;
+	font-family: "calibri_bold";
+	text-decoration: none;
+}
+.formulario{
+	margin-top: 8%;
+	text-align: right;
+	width: 100%;
+}
+.formulario label{
+	font-family: "calibri_light";
+	font-size: 0.8em;
+	letter-spacing: 0.3em;
+}
+.formulario input{
+	border: 0.5px solid black;
+	margin-left: 3%;
+	padding: 5px;
+	width: 30%;
+}
+.formulario textarea{
+	border: 0.5px solid black;
+	margin-left: 3%;
+	width: 30.5%;
+}
+.formulario form .boton-enviar{
+	background-color: black;
+	border: none;
+	color: white;
+	font-family: "calibri_light";
+	font-size: 0.8em;
+	letter-spacing: 0.5em;
+	padding: 5px;
+	width: 31%;
+}
+/*--============    ESTILOS DE CONTACTO (FIN)  ============--*/
+
+/*--============    ESTILOS DE PIE DE PÁGINA (INICIO)  ============--*/
+.pie-pagina{
+	margin: 0 auto;
+	margin-top: 1%;
+	padding-bottom: 5%;
+	text-align: center;
+	width: 90%
+}
+.pie-pagina p{
+	font-family: "calibri_light";
+	font-size: 0.8em;
+	margin: 0;
+}
+.pie-pagina a{
+	color: black;
+	text-decoration: none;
+}
+.pie-pagina img{
+	margin-bottom: -0.5%;
+	width: 8%;
+}
+/*--============    ESTILOS DE PIE DE PÁGINA (FIN)  ============--*/
+
+/*--============================================================
+	ESTILOS DE LA SECCION "PRODUCTOS" (INICIA)
+=============================================================--*/
+.slider-productos{
+	border-top: 1px solid rgba(132,129,129,0.8);
+	padding-top: 1.5%;
+}
+.titulo-productos{
+	display: flex;
+	margin: 0 auto;
+	margin-top: 4%;
+	width: 90%;
+}
+.img-productos-1{
+	height: 22px;
+}
+.p-productos{
+	font-family: "bell_regular";
+	letter-spacing: 0.2em;
+	font-family: 1.2em;
+	margin: 0;
+	text-align: center;
+	width: 25%;
+}
+.img-productos-2{
+	height: 15px;
+	width: 15px;
+}
+.contenedor-productos{
+	margin: 0 auto;
+	width: 90%;
+}
+.contenedor-productos ul{
+	list-style: none;
+	padding: 0;
+}
+.contenedor-productos ul li{
+	padding-top: 1.3%;
+	padding-bottom: 1.3%;
+}
+.contenedor-productos .link{
+	padding-left: 19%;
+}
+.contenedor-productos .link i{
+	padding-right: 10px;
+}
+.contenedor-productos .submenu{
+	padding: 0;
+}
+.contenedor-productos .submenu li{
+	border-bottom: 1px solid rgba(132,129,129,0.8);
+	float: left;
+	font-family: "calibri_light";
+	margin-left: 3%;
+	margin-right: 3%;
+	margin-top: 6%;
+	padding-bottom: 2%;
+	padding-top: 0;
+	width: 19%;
+}
+.contenedor-productos .submenu li a{
+	color: black;
+	text-decoration: none;
+}
+.contenedor-productos .submenu li img{
+	width: 100%;
+}
+.contenedor-productos .submenu li .titulo-articulo-producto{
+	font-family: "calibri_bold";
+	font-size: 0.8em;
+	letter-spacing: 0.2em;
+	margin-bottom: 0;
+	padding-bottom: 4%;
+}
+.contenedor-productos .submenu li .subtitulo-articulo-producto{
+	float: left;
+	font-family: "calibri_light";
+	font-size: 0.8em;
+	letter-spacing: 0.2em;
+	margin: 0;
+}
+/*--============================================================
+	ESTILOS DE LA SECCION "PRODUCTOS" (FIN)
+=============================================================--*/
+
+/*--============================================================
+	ESTILOS DE LA SECCION "DISEÑA TU MOMENTO" (INICIA)
+=============================================================--*/
+.disena-tu-momento{
+	border-bottom: 1px solid rgba(132,129,129,0.8);
+	display: flex;
+	justify-content: center;
+	margin: 0 auto;
+	width: 90%;
+}
+.logo2{
+	padding-bottom: 1%;
+	width: 95%;
+}
+.logo2 img{
+	width: 20%;
+}
+.logo2 #ver-mas2{
+	display: flex;
+	justify-content: flex-end;
+	width: 100%;
+}
+.logo2 #ver-mas2 p{
+	font-family: "calibri_light";
+	font-size: 0.8em;
+	letter-spacing: 0.1em;
+	margin: 0;
+	padding-top: 1%;
+}
+.logo2 #ver-mas2 a{
+	color:black;
+	cursor: pointer;
+	display: flex;
+	float: right;
+	justify-content: flex-end;
+	text-decoration: none;
+	width: 23%;
+}
+.logo2 #ver-mas2 img{
+	height: 20px;
+	margin-left: 4%;
+	width: 20px;
+}
+.logo2 #ver-menos2{
+	display: none;
+	justify-content: flex-end;
+	width: 100%;
+}
+.logo2 #ver-menos2 p{
+	font-family: "calibri_light";
+	font-size: 0.8em;
+	letter-spacing: 0.1em;
+	margin: 0;
+	padding-top: 1%;
+}
+.logo2 #ver-menos2 a{
+	color:black;
+	cursor: pointer;
+	display: flex;
+	float: right;
+	justify-content: flex-end;
+	text-decoration: none;
+	width: 23%;
+}
+.logo2 #ver-menos2 img{
+	height: 20px;
+	margin-left: 4%;
+	width: 20px;
+}
+#consideraciones-generales{
+	display: none;
+	border-bottom: 1px solid rgba(132,129,129,0.8);
+	margin: 0 auto;
+	width: 90%;
+}
+.texto-consideraciones{
+	margin: 0 auto;
+	margin-top: 5%;
+	padding-bottom: 7%;
+	width: 95%;
+}
+.titulo-consideraciones{
+	display: flex;
+	width: 100%;
+}
+.titulo-consideraciones img{
+	height: 23px;
+	margin-right: 2%;
+	width: 23px;
+}
+.titulo-consideraciones p{
+	font-family: "bell_bold";
+	letter-spacing: 0.2em;
+	margin: 0;
+	margin-top: 0.3%;
+}
+.p-consideraciones p{
+	font-family: "calibri_light";
+	font-size: 0.8em;
+	letter-spacing: 0.2em;
+	margin-left: 4%;
+}
+.img-disena{
+	border-bottom: 1px solid rgba(132,129,129,0.8);
+	display: flex;
+	justify-content: center;
+	margin: 0 auto;
+	margin-top: 1%;
+	padding-bottom: 1%;
+	width: 90%;
+}
+.img-disena img{
+	width: 95%;
+}
+#locacion{
+	border-bottom: 1px solid rgba(132,129,129,0.2);
+	margin: 0 auto;
+	padding-bottom: 1%;
+	width: 90%;
+}
+.presentacion{
+	margin: 0 auto;
+	width: 95%;
+}
+.presentacion img{
+	cursor: pointer; 
+	float: left;
+	width: 50%;
+}
+#locacion-detalles{
+	border-bottom: 1px solid rgba(132,129,129,0.6);
+	display: none;
+	margin: 0 auto;
+	width: 90%;
+}
+.titulo-locacion{
+	display: flex;
+	margin-top: 3%;
+	width: 100%;
+}
+.titulo-locacion .img-locacion-1{
+	height: 15px;
+}
+.titulo-locacion .p-locacion{
+	font-family: "bell_regular";
+	letter-spacing: 0.5em;
+	margin: 0;
+	text-align: center;
+	width: 20%;
+}
+.titulo-locacion .img-locacion-2{
+	height: 19px;
+	margin-top: -0.2%;
+	width: 19px;
+}
+#locacion-detalles ul{
+	list-style: none;
+	padding: 0;
+}
+#locacion-detalles .link{
+	padding-left: 14%;
+	margin-bottom: 2%;
+	margin-top: 2%; 
+}
+#locacion-detalles .link i{
+	margin-right: 1%;
+}
+#locacion-detalles .submenu{
+	border-bottom: 1px solid rgba(132,129,129,0.2);
+	padding-bottom: 3%;
+	width: 100%;
+}
+.submenu li{
+	margin: 0 auto;
+	width: 95%;
+}
+.submenu #img-grande-velero{
+	float: left;
+	width: 75%;
+}
+.submenu #img-grande-velero img{
+	width: 100%;
+}
+.submenu #img-miniatura-velero{
+	float: left;
+	margin-left: 5%;
+	width: 20%
+}
+.submenu #img-miniatura-velero img{
+	cursor: pointer;
+	width: 91%;
+
+	filter: url('#grayscale'); /* Versión SVG para IE10, Chrome 17, FF3.5, Safari 5.2 and Opera 11.6 */
+	-webkit-filter: grayscale(100%);
+	-moz-filter: grayscale(100%);
+	-ms-filter: grayscale(100%);
+	-o-filter: grayscale(100%);
+	filter: grayscale(100%); /* Para cuando es estándar funcione en todos */
+	filter: Gray(); /* IE4-8 and 9 */
+}
+.submenu #img-miniatura-velero img:hover{
+	-webkit-filter: grayscale(0%);
+	-moz-filter: grayscale(0%);
+	-ms-filter: grayscale(0%);
+	-o-filter: grayscale(0%);
+	filter: none;
+
+	-webkit-transition: all 0.7s ease;
+	-moz-transition: all 0.7s ease;
+	-ms-transition: all 0.7s ease;
+	-o-transition: all 0.7s ease;
+	transition: all 0.7s ease;
+}
+.submenu #img-grande-hotel{
+	float: left;
+	width: 75%;
+}
+.submenu #img-grande-hotel img{
+	width: 100%;
+}
+.submenu #img-miniatura-hotel{
+	float: left;
+	margin-left: 5%;
+	width: 20%
+}
+.submenu #img-miniatura-hotel img{
+	cursor: pointer;
+	width: 91%;
+
+	filter: url('#grayscale'); /* Versión SVG para IE10, Chrome 17, FF3.5, Safari 5.2 and Opera 11.6 */
+	-webkit-filter: grayscale(100%);
+	-moz-filter: grayscale(100%);
+	-ms-filter: grayscale(100%);
+	-o-filter: grayscale(100%);
+	filter: grayscale(100%); /* Para cuando es estándar funcione en todos */
+	filter: Gray(); /* IE4-8 and 9 */
+}
+.submenu #img-miniatura-hotel img:hover{
+	-webkit-filter: grayscale(0%);
+	-moz-filter: grayscale(0%);
+	-ms-filter: grayscale(0%);
+	-o-filter: grayscale(0%);
+	filter: none;
+
+	-webkit-transition: all 0.7s ease;
+	-moz-transition: all 0.7s ease;
+	-ms-transition: all 0.7s ease;
+	-o-transition: all 0.7s ease;
+	transition: all 0.7s ease;
+}
+/*--============================================================
+	ESTILOS DE LA SECCION "DISEÑA TU MOMENTO" (FIN)
+=============================================================--*/
+
+/*--============================================================
+	ESTILOS DE LA SECCION "GALERIA TRAYECTORIA" (INICIA)
+=============================================================--*/
+.titulo-trayectoria2{
+	display: flex;
+	margin: 0 auto;
+	margin-bottom: 1%;
+	width: 90%;
+}
+.trayectoria-img-1{
+	height: 25px;
+}
+.trayectoria-p{
+	font-family: "bell_regular";
+	letter-spacing: 0.2em;
+	margin: 0;
+	margin-top: 0.4%;
+	text-align: center;
+	width: 18%;
+}
+.trayectoria-img-2{
+	height: 25px;
+}
+.lineas{
+	border-bottom: 1px solid rgba(132,129,129,0.2);
+	border-top: 1px solid rgba(132,129,129,0.2);
+	padding-top: 2%;
+	padding-bottom: 2%;
+}
+.contenedor-galeria-trayectoria{
+	margin: 0 auto;
+	width: 90%;
+}
+.galeria-trayectoria{
+	margin: 0 auto;
+	width: 95%;
+}
+.galeria-trayectoria ul{
+	list-style: none;
+	padding: 0;
+}
+.galeria-trayectoria .link{
+	font-family: "calibri_normal";
+	margin-bottom: 2%;
+	margin-left: 7%;
+	margin-top: 2%;
+}
+.galeria-trayectoria .link i{
+	margin-right: 1.5%;
+}
+.titulo-galeria-trayectoria{
+	display: flex;
+	margin-left: 8%;
+	width: 100%;
+}
+.titulo-galeria-trayectoria img{
+	height: 20px;
+	margin-right: 1.5%;
+	margin-top: -0.2%;
+}
+.titulo-galeria-trayectoria p{
+	font-family: "calibri_light";
+	font-size: 0.8em;
+	letter-spacing: 0.2em;
+	margin: 0;
+}
+.img-trayectoria-galeria{
+	margin-top: 3%;
+	margin-bottom: 3%;
+	width: 100%;
+}
+.img-trayectoria-galeria img{
+	width: 100%;
+}
+/*--============================================================
+	ESTILOS DE LA SECCION "GALERIA TRAYECTORIA" (FIN)
+=============================================================--*/
+
+/*--============================================================
+	ESTILOS DE LA SECCION "ARTICULOS" (INICIA)
+=============================================================--*/
+.contenedor-articulo{
+	border-top: 1px solid rgba(132,129,129,0.8);
+	margin: 0 auto;
+	padding-bottom: 10%;
+	width: 90%;
+}
+.izquierda-articulo{
+	float: left;
+	padding-top: 2%;
+	width: 55%;
+}
+.presentacion-articulo{
+	margin: 0 auto;
+	width: 95%;
+}
+.presentacion-articulo img{
+	width: 100%;
+}
+.miniaturas-articulos{
+	margin: 0 auto;
+	width: 70%;
+}
+.miniaturas-articulos img{
+	float: left;
+	width: 25%;
+}
+.miniaturas-articulos a:nth-child(2) img{
+	margin-left: 12%;
+	margin-right: 12%;
+}
+.texto-articulos-izquierda{
+	margin: 0 auto;
+	width: 70%;
+}
+.texto-articulos-izquierda p:nth-child(1){
+	font-family: "calibri_normal";
+	letter-spacing: 0.1em;
+	margin-top: 5%;
+}
+.texto-articulos-izquierda p:nth-child(2){
+	font-family: "bell_bold";
+	margin-top: 15%;
+	letter-spacing: 0.2em;
+}
+.otros-articulos{
+	margin: 0 auto;
+	margin-bottom: 10%;
+	margin-top: 8%;
+	width: 70%;
+}
+.otros-articulos img{
+	float: left;
+	width: 25%;
+}
+.otros-articulos a:nth-child(2) img{
+	margin-left: 12%;
+	margin-right: 12%;
+}
+.izquierda-articulo a{
+	color: black;
+	font-family: "bell_bold";
+	letter-spacing: 0.2em;
+	text-decoration: none;
+}
+.boton{
+	border: 1px solid black;
+	padding: 10px;
+}
+.boton i{
+	margin-right: 10px;
+}
+.derecha-articulo{
+	float: left;
+	padding-top: 10%;
+	width: 45%;
+}
+.titulo-derecha-articulo{
+	font-family: "bell_bold";
+	letter-spacing: 0.4em;
+}
+.descripcion-articulo{
+	border-top: 1px solid rgba(132,129,129,0.8);
+	border-bottom: 1px solid rgba(132,129,129,0.8);
+}
+.descripcion-articulo p{
+	font-family: "calibri_normal";
+	margin-left: 2%;
+	margin-top: 5%;
+	width: 70%;
+}
+.descripcion-articulo span{
+	font-family: "bell_bold";
+	font-size: 1.2em;
+}
+.botones{
+	margin-left: 2%;
+	padding-bottom: 8%;
+	padding-top: 12%;
+	width: 100%;
+}
+.botones a:nth-child(1){
+	border: 1px solid black;
+	color: black;
+	font-family: "bell_bold";
+	letter-spacing: 0.2em;
+	margin-right: 1%;
+	padding: 10px;
+	text-decoration: none;
+}
+.botones a:nth-child(1) i{
+	margin-right: 1%;
+}
+.botones a:nth-child(2){
+	border: 1px solid black;
+	color: black;
+	font-family: "bell_bold";
+	letter-spacing: 0.2em;
+	padding: 10px;
+	text-decoration: none;
+}
+.botones a:nth-child(2) i{
+	margin-right: 1%;
+}
+.botones a:nth-child(3) i{
+	color: black;
+	margin-left: 0.5%;
+	margin-right: 0.5%;
+}
+.botones a:nth-child(4) i{
+	color: black;
+	margin-left: 0.5%;
+	margin-right: 0.5%;
+}
+.botones a:nth-child(5) i{
+	color: black;
+	margin-left: 0.5%;
+	margin-right: 0.5%;
+}
+.texto-articulo{
+	border-bottom: 1px solid rgba(132,129,129,0.8);
+	padding-bottom: 3%;
+}
+.texto-articulo p{
+	font-family: "calibri_normal";
+	margin-left: 2%;
+}
+.texto-articulo a{
+	color: black;
+	font-family: "bell_bold";
+	font-size: 1.5em;
+	margin-left: 2%;
+	text-decoration: none;
+}
+.texto-articulo a i{
+	margin-right: 1%;
+}
+.formulario-articulo{
+	width: 100%;
+}
+.formulario-articulo p{
+	font-family: "bell_bold";
+	letter-spacing: 0.4em;
+	margin-left: 2%;
+}
+.formulario-articulo form{
+	margin-top: 12%;
+	text-align: right;
+}
+.formulario-articulo form label{
+	font-family: "calibri_light";
+	font-size: 0.8em;
+	letter-spacing: 0.3em;
+	margin-right: 5%;
+}
+.formulario-articulo form input{
+	border: 0.5px solid black;
+	padding: 5px;
+	width: 50%;
+}
+.formulario-articulo form textarea{
+	border: 0.5px solid black;
+	width: 51.5%;
+}
+.formulario-articulo .boton-enviar-2{
+	background-color: black;
+	border: none;
+	color: white;
+	font-family: "calibri_light";
+	letter-spacing: 0.3em;
+	width: 52.5%;
+}
+/*--============================================================
+	ESTILOS DE LA SECCION "ARTICULOS" (FIN)
+=============================================================--*/
+
+/*--============    ESTILOS DEL RESPONSIVE (INICIO)  ============--*/
+@media(max-width: 2240px){
+	#izquierda-edicion .titulo-edicion .p-edicion{
+		font-size: 1.3em;
+	}
+	#izquierda-edicion ul{
+		font-size: 1.3em;
+		margin-left: 24%;
+	}
+	#izquierda-edicion ul li{
+		padding: 3%;
+	}
+	#derecha-experiencias .titulo-experiencias .p-experiencias{
+		font-size: 1.3em;
+	}
+	#derecha-experiencias ul{
+		font-size: 1.3em;
+		margin-left: 31%;
+	}
+	#derecha-experiencias ul li{
+		padding: 5.5%;
+	}
+}
+@media(max-width: 2120px){
+	#izquierda-edicion .titulo-edicion .p-edicion{
+		font-size: 1.1em;
+	}
+	#izquierda-edicion ul{
+		font-size: 1.1em;
+	}
+	#derecha-experiencias .titulo-experiencias .p-experiencias{
+		font-size: 1.1em;
+	}
+	#derecha-experiencias ul{
+		font-size: 1.1em;
+	}
+	#btn-prev{
+		left: -55px;
+	}
+	#btn-next{
+		right: -55px;
+	}
+}
+@media(max-width: 1900px){
+	.menu-izquierda{
+		font-size: 1.2em;
+		padding-top: 2%;
+	}
+	.menu-derecha{
+		font-size: 1.2em;
+		padding-top: 2%;
+	}
+	#izquierda-edicion .titulo-edicion .p-edicion{
+		font-size: 1.3em;
+	}
+	#izquierda-edicion ul{
+		font-size: 1.3em;
+		margin-left: 25%;
+	}
+	.img-edicion-2{
+		margin-right: -350px;
+	}
+	#derecha-experiencias{
+		overflow: hidden;
+	}
+	.img-experiencias-1{
+		margin-left: -80px;
+	}
+	#derecha-experiencias .titulo-experiencias .p-experiencias{
+		font-size: 1.3em;
+		width: 70%;
+	}
+	#derecha-experiencias ul{
+		font-size: 1.3em;
+		margin-left: 21%;
+	}
+}
+@media(max-width: 1850px){
+	#izquierda-edicion{
+		width: 55%;
+	}
+	#derecha-edicion{
+		width: 45%;
+	}
+	#izquierda-experiencias{
+		width: 55%;
+	}
+	#derecha-experiencias{
+		width: 45%;
+	}
+	#izquierda-edicion ul{
+		margin-left: 23%;
+	}
+	.img-experiencias-1{
+		margin-left: -40px;
+	}
+	#derecha-experiencias ul{
+		margin-left: 28%;
+	}
+	#btn-prev{
+		left: -40px;
+	}
+	#btn-next{
+		right: -40px;
+	}
+	#izquierda-edicion .titulo-edicion .p-edicion{
+		font-size: 1.1em;
+	}
+	#izquierda-edicion ul{
+		font-size: 1.1em;
+	}
+	#derecha-experiencias .titulo-experiencias .p-experiencias{
+		font-size: 1.1em;
+	}
+	#derecha-experiencias ul{
+		font-size: 1.1em;
+	}
+}
+@media(max-width: 1530px){
+	.img-edicion-1{
+		height: 15px;
+		width: 15px;
+	}
+	.img-edicion-2{
+		height: 15px;
+	}
+	.img-experiencias-1{
+		height: 15px;
+		margin-left: 0;
+	}
+	.img-experiencias-2{
+		height: 15px;
+		margin-top: 0;
+		width: 15px;
+	}
+	#izquierda-edicion .titulo-edicion .p-edicion{
+		font-size: 1em;
+	}
+	#izquierda-edicion ul{
+		font-size: 1em;
+	}
+	#derecha-experiencias .titulo-experiencias .p-experiencias{
+		font-size: 1em;
+	}
+	#derecha-experiencias ul{
+		font-size: 1em;
+	}
+}
+@media(max-width: 1450px){
+	.menu-izquierda{
+		font-size: 1em;
+		padding-top: 1.5%;
+	}
+	.menu-derecha{
+		font-size: 1em;
+		padding-top: 1.5%;
+	}
+}
+@media(max-width: 1380px){
+	#derecha-experiencias ul li ul{
+		font-size: 0.7em;
+		font-weight: 600;
+	}
+	#btn-prev{
+		left: -30px;
+	}
+	#btn-next{
+		right: -30px;
+	}
+}
+@media(max-width: 1312px){
+	.continuacion{
+		width: 75%;
+	}
+	.redes-sociales{
+		width: 25%;
+	}
+	.facebook{
+		height: 25px;
+		width: 25px;
+	}
+	.twitter{
+		height: 25px;
+		width: 25px;
+	}
+	.youtube{
+		height: 25px;
+		width: 25px;
+	}
+	.p-nueva{
+			width: 20%;
+
+	}
+	.img-nueva-2{
+	height: 22px;
+	margin-right: -250px;
+}
+}
+@media(max-width: 1290px){
+	#izquierda-edicion .titulo-edicion .p-edicion{
+		font-size: 0.9em;
+	}
+	#izquierda-edicion ul{
+		font-size: 0.9em;
+	}
+	#derecha-experiencias .titulo-experiencias .p-experiencias{
+		font-size: 0.9em;
+	}
+	#derecha-experiencias ul{
+		font-size: 0.9em;
+	}
+}
+@media(max-width: 1200px){
+	.espacio-edicion{
+		padding-top: 60%;
+	}
+	.espacio-experiencias{
+		padding-top: 60%;
+	}
+	.img-experiencias-1{
+		margin-left: -15px;
+	}
+}
+@media(max-width: 1162px){
+	#izquierda-edicion .titulo-edicion .p-edicion{
+		font-size: 0.8em;
+	}
+	#izquierda-edicion ul{
+		font-size: 0.8em;
+	}
+	.img-experiencias-2{
+		margin-top: -2px;
+	}
+	#derecha-experiencias .titulo-experiencias .p-experiencias{
+		font-size: 0.8em;
+	}
+	#derecha-experiencias ul{
+		font-size: 0.8em;
+	}
+}
+@media(max-width: 1100px){
+	.menu-izquierda{
+		font-size: 0.8em;
+	}
+	.menu-derecha{
+		font-size: 0.8em;
+	}
+}
+@media(max-width: 1024px){
+	#btn-prev{
+		left: -22px;
+	}
+	#btn-next{
+		right: -22px;
+	}
+	.img-edicion-1{
+		height: 13px;
+		margin-top: -1px;
+		width: 13px;
+	}
+	.img-edicion-2{
+		height: 13px;
+	}
+	#izquierda-edicion .titulo-edicion .p-edicion{
+		font-size: 0.7em;
+	}
+	#izquierda-edicion ul{
+		font-size: 0.7em;
+	}
+	.img-experiencias-1{
+		height: 13px;
+		margin-left: -15px;
+	}
+	.img-experiencias-2{
+		height: 13px;
+		width: 13px;
+	}
+	#derecha-experiencias .titulo-experiencias .p-experiencias{
+		font-size: 0.7em;
+	}
+	#derecha-experiencias ul{
+		font-size: 0.7em;
+	}
+	.img-trayectoria-1{
+		margin-left: -145px;
+		margin-right: 20px;
+	}
+	.img-trayectoria-2{
+		margin-left: 15px;
+	}
+	.rochi{
+		width: 10%;
+	}
+	.img-prensa-1{
+		margin-left: -150px;
+		margin-right: 20px;
+	}
+	.img-prensa-2{
+		margin-left: 15px;
+	}
+	#ver-mas a{
+		width: 10%;
+	}
+	.p-contacto{
+		width: 20%;
+	}
+	.img-contacto-1{
+		margin-left: -30px;
+	}
+	.pie-pagina img{
+		margin-bottom: -0.7%;
+		width: 11%;
+	}
+}
+@media(max-width: 926px){
+
+}
+@media(max-width: 900px){
+	.menu-izquierda{
+		display: none;
+	}
+	.menu-derecha{
+		display: none;
+	}
+	.logo{
+		text-align: center;
+		width: 100%
+	}
+	.logo img{
+		width: 40%;
+	}
+}
+
+@media(max-width: 768px){
+	.titulo-edicion{
+		width: 90%;
+	}
+	#izquierda-edicion .titulo-edicion .p-edicion{
+		width: 70%;
+	}
+	#izquierda-edicion ul{
+		margin-left: 15%;
+	}
+	.img-experiencias-1{
+		margin-left:-45px;
+		margin-right: 10px;
+	}
+	#derecha-experiencias ul{
+		margin-left: 20%;
+	}
+	.img-trayectoria-1{
+		margin-left: -250px;
+	}
+	.p-trayectoria{
+		width: 40%;
+	}
+	.rochi{
+		width: 13%;
+	}
+	.img-prensa-1{
+		margin-left: -255px;
+	}
+	#ver-mas a{
+		width: 13%;
+	}
+	.img-contacto-1{
+		margin-left: -50px;
+	}
+	.p-contacto{
+		width: 30%;
+	}
+	.pie-pagina img{
+		margin-bottom: -0.8%;
+		width: 15%;
+	}
+	.formulario input{
+		width: 40%;
+	}
+	.formulario textarea{
+		width: 41%;
+	}
+	.formulario form .boton-enviar{
+		width: 42%;
+	}
+}
+@media(max-width:  736px){
+	.img-trayectoria-1{
+		margin-left: -260px;
+	}
+	.img-prensa-1{
+		margin-left: -265px;
+	}
+	#btn-prev{
+		left: -20px;
+	}
+	#btn-next{
+		right: -20px;
+	}
+}
+@media(max-width: 414px){
+	#btn-prev{
+		left: -12px;
+	}
+	#btn-next{
+		right: -12px;
+	}
+	#izquierda-edicion{
+		overflow: hidden;
+	}
+	.espacio-edicion{
+		padding-top: 30%;
+	}
+	.img-edicion-1{
+		margin-top: 2%;
+	}
+	.img-edicion-2{
+		margin-top: 2%;
+	}
+	#izquierda-edicion .titulo-edicion .p-edicion{
+		font-size: 0.6em;
+	}
+	#izquierda-edicion ul li i{
+		padding-right: 5px;
+	}
+	#izquierda-edicion ul{
+		font-size: 0.6em;
+	}
+	.espacio-experiencias{
+		padding-top: 50%;
+	}
+	.img-experiencias-1{
+		margin-left: -105px;
+		margin-right: 5px;
+	}
+	#derecha-experiencias .titulo-experiencias .p-experiencias{
+		font-size: 0.6em;
+		width: 100%;
+	}
+	#derecha-experiencias ul{
+		font-size: 0.6em;
+		margin-left: 10%;
+	}
+	#derecha-experiencias ul li i{
+		padding-right: 5px;
+	}
+	.img-trayectoria-1{
+		height: 24px;
+		margin-left: -310px;
+		margin-right: 5px;
+	}
+	.p-trayectoria{
+		font-size: 0.8em;
+		padding-top: 5px;
+	}
+	.img-trayectoria-2{
+		height: 24px;
+		margin-left: 5px;
+	}
+	.rochi{
+		width: 25%;
+	}
+	.img-prensa-1{
+		height: 24px;
+		margin-left: -320px;
+		margin-right: 10px;
+	}
+	.p-prensa{
+		font-size: 0.8em;
+		padding-top: 5px;
+		width: 25%;
+	}
+	.img-prensa-2{
+		height: 24px;
+		margin-left: 10px; 
+	}
+	#ver-mas a{
+		width: 22%;
+	}
+	.titulo-contacto{
+		overflow: hidden;
+	}
+	.img-contacto-1{
+		height: 24px;
+		margin-left: -70px;
+	}
+	.p-contacto{
+		font-size: 0.8em;
+		padding-top: 5px;
+		width: 40%;
+	}
+	.img-contacto-2{
+		height: 13px;
+		width: 13px;
+	}
+	.texto-contacto p{
+		font-size: 0.6em;
+	}
+	.actualizaciones p{
+		font-size: 0.6em;
+	}
+	.formulario input{
+		width: 60%;
+	}
+	.formulario textarea{
+		width: 62%;
+	}
+	.formulario form .boton-enviar{
+		width: 64%;
+	}
+	.pie-pagina img {
+		margin-bottom: 0;
+		width: 30%;
+	}
+}
