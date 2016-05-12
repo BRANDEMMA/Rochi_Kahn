@@ -33,6 +33,12 @@
 
 <body>
 	<div class="contenedor">
+		<header>
+			<?php
+				include 'menu.php'
+			?>
+		</header>
+
 		<div class="titulo-trayectoria2"><img class="trayectoria-img-1" src="img/trayectoria/linea-circulo2.1.gif"><p class="trayectoria-p">TRAYECTORIA</p><img class="trayectoria-img-2" src="img/trayectoria/circulo.gif"></div>
 
 		<div class="contenedor-slider lineas">
@@ -126,6 +132,10 @@
 				<script src="js/acordion.js"></script>
 			</div>
 		</div>
+
+		<?php
+			include 'pie-pagina.php'
+		?>
 	</div>
 </body>
 

@@ -67,6 +67,12 @@
 
 <body>
 	<div class="contenedor">
+		<header>
+			<?php
+				include 'menu.php'
+			?>
+		</header>
+		
 		<div class="contenedor-articulo">
 			<div class="izquierda-articulo">
 				<div class="presentacion-articulo">
@@ -126,6 +132,10 @@
 			</div>
 			<div class="clear"></div>
 		</div>
+
+		<?php
+			include 'pie-pagina.php'
+		?>
 	</div>
 </body>
 

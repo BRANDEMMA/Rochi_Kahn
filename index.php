@@ -153,34 +153,9 @@
 	<div class="contenedor">
 
 		<header>
-			<div class="menu-izquierda">
-				<nav>
-					<ul>
-						<li><a href="">EDICIÓN LIMITADA</a></li>
-						<li><a href="">EXPERIENCIAS</a></li>
-						<li><a href="">TRAYECTORIA</a></li>
-					</ul>
-				</nav>
-			</div>
-			<div class="logo">
-				<img src="img/menu/logo-rochikahn.gif">
-			</div>
-			<div class="menu-derecha">
-				<div class="continuacion">
-					<nav>
-						<ul>
-							<li><a href="">MEDIOS</a></li>
-							<li><a href="">CONTACTO</a></li>
-						</ul>
-					</nav>
-				</div>
-				<div class="redes-sociales">
-					<div class="youtube"></div>
-					<div class="twitter"></div>
-					<div class="facebook"></div>
-				</div>
-			</div>
-			<div class="clear"></div>
+			<?php
+				include 'menu.php'
+			?>
 		</header>
 
 		<div class="contenedor-slider">
@@ -219,12 +194,14 @@
 					<div class="titulo-edicion"><img class="img-edicion-1" src="img/index/circulo.jpg"><p class="p-edicion">EDICIÓN LIMITADA</p><img class="img-edicion-2" src="img/index/circulo-linea.gif"></div>
 					<div class="clear"></div>
 					<ul>
-						<li><a href="seduce-color.html#seduce-color-mostrar"><i class="fa fa-caret-right"></i>SEDUCE COLOR</a></li>
-						<li><a href="productos.html#peru-lujo-mostrar"><i class="fa fa-caret-right"></i>PERÚ DE LUJO</a></li>
-						<li><a href="viajeras.html#viajeras-mostrar"><i class="fa fa-caret-right"></i>VIAJERAS</a></li>
-						<li><a href="princesa.html#princesa-mostrar"><i class="fa fa-caret-right"></i>PRINCESA</a></li>
-						<li><a href="look-and-feel.html#look-and-feel-mostrar"><i class="fa fa-caret-right"></i>LOOK AND FEEL</a></li>
-						<li><a href="versatil.html#versatil-mostrar"><i class="fa fa-caret-right"></i>VERSATIL</a></li>
+						<li><a href="seduce-color.php#seduce-color-mostrar"><i class="fa fa-caret-right"></i>SEDUCE COLOR</a></li>
+						<li><a href="peru-de-lujo.php#peru-lujo-mostrar"><i class="fa fa-caret-right"></i>PERÚ DE LUJO</a></li>
+						<li><a href="viajeras.php#viajeras-mostrar"><i class="fa fa-caret-right"></i>VIAJERAS</a></li>
+						<li><a href="princesa.php#princesa-mostrar"><i class="fa fa-caret-right"></i>PRINCESA</a></li>
+						<li><a href="look-and-feel.php#look-and-feel-mostrar"><i class="fa fa-caret-right"></i>LOOK AND FEEL</a></li>
+						<li><a href="versatil.php#versatil-mostrar"><i class="fa fa-caret-right"></i>VERSATIL</a></li>
+						<li><a href="intervenidas.php#intervenidas-mostrar"><i class="fa fa-caret-right"></i>INTERVENIDAS</a></li>
+						<li><a href="petit-ro.php#petit-mostrar"><i class="fa fa-caret-right"></i>PETIT Ro</a></li>
 					</ul>
 				</div>
 			</div>
@@ -344,36 +321,9 @@
 				</div>
 			</div>
 		</div>
-		<div class="contacto">
-			<div class="titulo-contacto"><img class="img-contacto-1" src="img/contacto/linea-circulo4.gif"><p class="p-contacto">CONTÁCTANOS</p><img class="img-contacto-2" src="img/contacto/circulo.gif"></div>
-			<div class="texto-contacto"><img src="img/contacto/linea-corta.gif"><p>NOS ENCANTARÍA SABER DE USTED</p></div>
-			<div class="actualizaciones"><p>Síguenos en <a href="">Twitter</a>, <a href="">Facebook</a> o <a href="">Instagram +</a> para  más actualizaciones</p></div>
-			<div class="formulario">
-				<form class="form-main" name="ajax-form" id="ajax-form" method="POST" action="enviar.php">
-					<div id="ajaxsuccess">*El Email ha sido enviado satisfactoriamente.*</div><br>
-					<label>NOMBRE</label><input name="nombre" id="nombre" type="text"><br>
-					<div class="error" id="err-nombre">*Por favor introduce tu nombre*</div><br>
-					<label>TELÉFONO</label><input name="telf" id="telefono" type="tel"><br>
-					<div class="error" id="err-telefono">*Por favor introduce tu número teléfonico*</div><br>
-					<label>EMAIL</label><input name="email" id="telefono" type="email"><br>
-					<div class="error" id="err-email">*Por favor introduce tu e-mail*</div>
-	            	<div class="error" id="err-emailvld">*El formato de E-mail no es valido*</div><br>
-					<label>MENSAJE</label><textarea name="mensaje" id="mensaje" rows="4"></textarea><br>
-					<div class="error" id="err-mensaje">*Por favor escribe un mensaje*</div><br>
-					<div class="error" id="err-form">*Hubo un problema al validar el formulario por favor verifica!*</div>
-					<div class="error" id="err-timedout">*El tiempo de conexión con el servidor a expirado!*</div>
-					<div class="error" id="err-state"></div><br>
-					<button id="send" class="btn btn-primary boton-enviar">ENVIAR</button>
-					<!-- <input class="boton-enviar" type="submit" value="ENVIAR"> -->
-				</form>
-				<script type="text/javascript" src="js/jquery-1.8.3.min.js"></script>
-				<script type="text/javascript" src="js/bootstrap.min.js"></script>
-	  			<script type="text/javascript" src="js/functions.js"></script>
-			</div>
-		</div>
-		<div class="pie-pagina">
-			<p>&copy; 	&nbsp; ROCHI KAHN &nbsp; &#8226; &nbsp; Tel: <a href="tel: 985047810" onClick="return (navigator.userAgent.match(/Android|iPhone|iPad|iPod|Mobile/i))!=null;">+985 047 810</a> &nbsp; &#8226; &nbsp; Desarrollado por <a href="http://brandemma.com/" target="_blank"><img src="img/brandemma.gif"></a></p>
-		</div>
+		<?php
+			include 'pie-pagina.php'
+		?>
 	<!--
 		<div class="trayectoria">
 			<div></div>

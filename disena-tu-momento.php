@@ -179,6 +179,12 @@
 
 <body>
 	<div class="contenedor">
+		<header>
+			<?php
+				include 'menu.php'
+			?>
+		</header>
+
 		<div class="disena-tu-momento">
 			<div class="logo2">
 				<img src="img/disena-tu-momento/disena-tu-momento-logo.jpg">
@@ -257,7 +263,9 @@
 			<script src="js/acordion.js"></script>
 		</div>
 
-		<div style="padding-top:100px;"></div>
+		<?php
+			include 'pie-pagina.php'
+		?>
 	</div>
 </body>
 
