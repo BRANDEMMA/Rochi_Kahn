@@ -915,6 +915,7 @@ color: gray;
 	letter-spacing: 0.2em;
 	margin-bottom: 0;
 	padding-bottom: 4%;
+	text-align: center;
 }
 .contenedor-productos .submenu li .subtitulo-articulo-producto{
 	float: left;
