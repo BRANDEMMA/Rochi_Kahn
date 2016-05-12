@@ -10,9 +10,9 @@
 		</ul>
 	</nav>
 </div>
-<div class="logo">
+<a href="index.php"><div class="logo">
 	<img src="img/menu/logo-rochikahn.gif">
-</div>
+</div></a>
 <div class="menu-derecha">
 	<div class="continuacion">
 		<nav>

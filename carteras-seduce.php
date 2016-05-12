@@ -2,9 +2,9 @@
 ?>
 	
 					<div class="link"><i class="fa fa-caret-right"></i>SEDUCE COLOR</div>
-					<ul class="submenu" id="seduce-mostrar">
+					<ul class="submenu" id="seduce-color-mostrar">
 						<li>
-							<a href="#"><img src="img/productos/seduce-color-1.jpg">
+							<a href="#"><img src="img/productos/004rk.jpg">
 								<p class="titulo-articulo-producto">LOREM IPSUM</p>
 								<i class="fa fa-caret-right" style="transform:none;font-size:0.8em;float:left;margin-right:5px;"></i><p class="subtitulo-articulo-producto">LOREM IPSUM</p>
 							</a>

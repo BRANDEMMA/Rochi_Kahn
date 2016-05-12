@@ -29,6 +29,30 @@
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
 
 <!--================== 	ENLACE ICONO (TERMINA)  =====================-->
+
+
+<!-- FAVICON-->
+
+
+
+<link rel="apple-touch-icon" sizes="57x57" href="favicon/rk57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="favicon/rk60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="favicon/rk72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="favicon/rk76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="favicon/rk114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="favicon/rk120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="favicon/rk144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="favicon/rk152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="favicon/rk180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="favicon/rk192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="favicon/rk32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="favicon/rk96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="favicon/rk32.png">
+
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="favicon/rk144.png">
+<meta name="theme-color" content="#ffffff">
+
 </head>
 
 <body>
