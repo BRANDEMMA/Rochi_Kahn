@@ -74,6 +74,9 @@ nav ul li a{
 	padding-right: 10%;
 	text-decoration: none;
 }
+nav ul li a:hover{
+	color: #ea4a94;
+}
 .logo{
 	float: left;
 	width: 15%;
@@ -384,9 +387,15 @@ color: gray;
 	letter-spacing: 0.3em;
 	text-decoration: none;
 }
+#derecha-experiencias ul li a:hover{
+	color: #ea4a94;
+}
 #derecha-experiencias ul li ul{
 	font-size: 0.8em;
 	margin-left: 7%;
+}
+.menu-experiencias #accordion{
+	margin-top: 15px;
 }
 .accordion .link {
 	cursor: pointer;
@@ -430,8 +439,9 @@ color: gray;
 	height: auto;
 }
 .texto-titulo-trayectoria-2 p{
-	text-align: center;
 	font-size: 1.1em;
+	margin-bottom: 5px;
+	text-align: center;
 }
 /*--============    ESTILOS DEL CUERPO INDEX (FIN)  ============--*/
 
@@ -464,13 +474,14 @@ color: gray;
 .rochi{
 	border: 1px solid black;
 	margin:0 auto;
-	width:9%;
+	width: 120px;
 }
 .rochi p{
 	font-family: "calibri_light";
 	font-size:0.9em;
 	letter-spacing:0.2em;
-	margin:0;padding:5%;
+	margin:0;
+	padding: 0 5%;
 	text-align:center;
 }
 .contenido-trayectoria{
@@ -761,7 +772,7 @@ color: gray;
 	text-decoration: none;
 }
 .formulario{
-	margin-top: 8%;
+	margin-top: 4%;
 	text-align: right;
 	width: 100%;
 }
@@ -791,13 +802,28 @@ color: gray;
 	padding: 5px;
 	width: 31%;
 }
+.error {
+	color: red;
+	display: none;
+	font-family: "calibri_light";
+}
+
+#ajaxsuccess {
+	clear:both;
+	color: green;
+	display: none;
+	font-family: "calibri_light";
+	font-size:18px;
+	font-weight:bold;
+	width: 100%;
+}
 /*--============    ESTILOS DE CONTACTO (FIN)  ============--*/
 
 /*--============    ESTILOS DE PIE DE PÁGINA (INICIO)  ============--*/
 .pie-pagina{
 	margin: 0 auto;
 	margin-top: 1%;
-	padding-bottom: 5%;
+	padding-bottom: 1%;
 	text-align: center;
 	width: 90%
 }
@@ -1451,7 +1477,7 @@ color: gray;
 		margin-left: 31%;
 	}
 	#derecha-experiencias ul li{
-		padding: 5.5%;
+		padding: 3%;
 	}
 }
 @media(max-width: 2120px){
