@@ -1032,15 +1032,161 @@ color: gray;
 }
 .img-disena{
 	border-bottom: 1px solid rgba(132,129,129,0.8);
-	display: flex;
-	justify-content: center;
 	margin: 0 auto;
 	margin-top: 1%;
 	padding-bottom: 1%;
+	position: relative;
+	text-align: center;
 	width: 90%;
 }
 .img-disena img{
 	width: 95%;
+}
+.texto-descriptivo{
+	color: white;
+	font-family: "calibri_light";
+	left: 8%;
+	position: absolute;
+	text-align: left;
+	top: 47.5px;
+	width: 20%;
+}
+.texto-descriptivo h5{
+	font-family: "bell_regular";
+	font-size: 1em;
+	letter-spacing: 0.2em;
+	margin: 0;
+}
+.texto-descriptivo p{
+	font-size: 0.9em;
+	margin-top: 5px;
+	padding-left: 14px;
+}
+.img-disena #ver-mas3{
+	display: flex;
+	justify-content: flex-end;
+	margin: 0 auto;
+	width: 95%;
+}
+.img-disena #ver-mas3 p{
+	font-family: "calibri_light";
+	font-size: 0.8em;
+	letter-spacing: 0.1em;
+	margin: 0;
+	padding-top: 1%;
+}
+.img-disena #ver-mas3 a{
+	color:black;
+	cursor: pointer;
+	display: flex;
+	float: right;
+	justify-content: flex-end;
+	text-decoration: none;
+	width: 23%;
+}
+.img-disena #ver-mas3 img{
+	height: 20px;
+	margin-left: 4%;
+	width: 20px;
+}
+.img-disena #ver-menos3{
+	display: none;
+	justify-content: flex-end;
+	margin: 0 auto;
+	width: 95%;
+}
+.img-disena #ver-menos3 p{
+	font-family: "calibri_light";
+	font-size: 0.8em;
+	letter-spacing: 0.1em;
+	margin: 0;
+	padding-top: 1%;
+}
+.img-disena #ver-menos3 a{
+	color:black;
+	cursor: pointer;
+	display: flex;
+	float: right;
+	justify-content: flex-end;
+	text-decoration: none;
+	width: 23%;
+}
+.img-disena #ver-menos3 img{
+	height: 20px;
+	margin-left: 4%;
+	width: 20px;
+}
+.img-disena #ver-mas4{
+	display: flex;
+	justify-content: flex-end;
+	margin: 0 auto;
+	width: 95%;
+}
+.img-disena #ver-mas4 p{
+	font-family: "calibri_light";
+	font-size: 0.8em;
+	letter-spacing: 0.1em;
+	margin: 0;
+	padding-top: 1%;
+}
+.img-disena #ver-mas4 a{
+	color:black;
+	cursor: pointer;
+	display: flex;
+	float: right;
+	justify-content: flex-end;
+	text-decoration: none;
+	width: 23%;
+}
+.img-disena #ver-mas4 img{
+	height: 20px;
+	margin-left: 4%;
+	width: 20px;
+}
+.img-disena #ver-menos4{
+	display: none;
+	justify-content: flex-end;
+	margin: 0 auto;
+	width: 95%;
+}
+.img-disena #ver-menos4 p{
+	font-family: "calibri_light";
+	font-size: 0.8em;
+	letter-spacing: 0.1em;
+	margin: 0;
+	padding-top: 1%;
+}
+.img-disena #ver-menos4 a{
+	color:black;
+	cursor: pointer;
+	display: flex;
+	float: right;
+	justify-content: flex-end;
+	text-decoration: none;
+	width: 23%;
+}
+.img-disena #ver-menos4 img{
+	height: 20px;
+	margin-left: 4%;
+	width: 20px;
+}
+#texto-desarrollo1{
+	display: none;
+	margin: 0 auto;
+	text-align: justify;
+	width: 90%;
+}
+#texto-desarrollo1 p{
+	font-family: "calibri_light";
+}
+#texto-desarrollo2{
+	display: none;
+	margin: 0 auto;
+	text-align: justify;
+	width: 90%;
+}
+#texto-desarrollo2 p{
+	font-family: "calibri_light";
 }
 #locacion{
 	border-bottom: 1px solid rgba(132,129,129,0.2);
@@ -1177,6 +1323,26 @@ color: gray;
 	-ms-transition: all 0.7s ease;
 	-o-transition: all 0.7s ease;
 	transition: all 0.7s ease;
+}
+
+.galeria-disena{
+	border-bottom: 1px solid rgba(132,129,129,0.2);
+	margin: 0 auto;
+	width: 90%;
+}
+.galeria-disena h3{
+	font-family: "bell_bold";
+	font-weight: lighter;
+    letter-spacing: 0.2em;
+    margin-bottom: 0;
+    margin-top: 3%;
+}
+.galeria-disena a{
+	width: 20%;
+}
+.galeria-disena img{
+	margin: 2.3%;
+	width: 20%;
 }
 /*--============================================================
 	ESTILOS DE LA SECCION "DISEÑA TU MOMENTO" (FIN)

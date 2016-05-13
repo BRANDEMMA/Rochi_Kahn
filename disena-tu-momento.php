@@ -9,6 +9,7 @@
 <!--================== 	ENLACE HOJA DE ESTILOS (INICIA)  =====================-->
 
 	<link rel="stylesheet" type="text/css" href="css/estilo.css">
+	<link rel="stylesheet" href="css/lightbox.min.css">
 
 <!--================== 	ENLACE HOJA DE ESTILOS (TERMINA)  =====================-->
 
@@ -54,6 +55,52 @@
 	</script>
 
 <!--================== 	SCRIPT PARA MOSTRAR Y OCULTAR "CONSIDERACIONES GENERALES" (TERMINA)  =====================-->
+
+<!--================== 	SCRIPT PARA MOSTRAR Y OCULTAR "VER MAS" (INICIA)  =====================-->
+
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$('#mas3').on('click', function(){
+				$('#texto-desarrollo1').slideDown('slow');
+				$('#ver-menos3').show();
+				$('#ver-menos3').css({'display':'flex'});
+				$('#ver-mas3').hide();
+			});
+		});
+	</script>
+
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$('#menos3').on('click', function(){
+				$('#texto-desarrollo1').slideUp('slow');
+				$('#ver-mas3').show();
+				$('#ver-menos3').hide();
+			});
+		});
+	</script>
+
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$('#mas4').on('click', function(){
+				$('#texto-desarrollo2').slideDown('slow');
+				$('#ver-menos4').show();
+				$('#ver-menos4').css({'display':'flex'});
+				$('#ver-mas4').hide();
+			});
+		});
+	</script>
+
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$('#menos4').on('click', function(){
+				$('#texto-desarrollo2').slideUp('slow');
+				$('#ver-mas4').show();
+				$('#ver-menos4').hide();
+			});
+		});
+	</script>
+
+<!--================== 	SCRIPT PARA MOSTRAR Y OCULTAR "VER MAS" (TERMINA)  =====================-->
 
 <!--================== 	SCRIPT PARA MOSTRAR Y OCULTAR "LOCACION" (INICIA)  =====================-->
 
@@ -228,8 +275,39 @@
 				</div>
 			</div>
 		</div>
-		<div class="img-disena"><img src="img/disena-tu-momento/diseno.jpg"></div>
-		<div class="img-disena"><img src="img/disena-tu-momento/traslado.jpg"></div>
+		<div class="img-disena">
+			<img src="img/disena-tu-momento/diseno.jpg">
+			<div class="texto-descriptivo">
+				<h5>EL TRASLADO</h5>
+				<p>De la persona que queremos sorprendera bordo de un auto exclusivo para el momento BMW</p>
+			</div>
+			<div class="clear"></div>
+			<div id="ver-mas3"><a id="mas3"><p>CONSIDERACIONES GENERALES</p><img src="img/prensa/ver-mas.gif"></a></div>
+			<div id="ver-menos3"><a id="menos3"><p>CONSIDERACIONES GENERALES</p><img src="img/prensa/ver-menos.gif"></a></div>
+			<div id="texto-desarrollo1">
+				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc mattis quam sit amet lacus interdum porttitor. Nunc nec ex non enim mollis lobortis. Curabitur tristique varius diam non ullamcorper. Pellentesque vel ipsum id elit pharetra sagittis. Fusce et ultrices lectus. Fusce purus eros, malesuada eget bibendum eu, tempor non tortor. In hac habitasse platea dictumst. Proin ut turpis non neque lobortis porta. Donec fringilla ante et sem consequat venenatis id ac purus. In orci purus, tempus ac iaculis vitae, luctus at orci.<br><br>
+
+				Maecenas purus diam, sollicitudin vel scelerisque ac, posuere nec felis. Suspendisse mattis nisl sed dolor vestibulum vestibulum. Mauris pulvinar vel metus nec tempor. In mattis dignissim sem, ut euismod sapien fermentum ac. Vestibulum bibendum nisl sed velit sollicitudin interdum dictum a arcu. Mauris pharetra tellus at porta vehicula. Vestibulum ut nibh sed justo scelerisque tincidunt sit amet ut libero. Suspendisse maximus magna nunc, sit amet rhoncus nunc auctor eget. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.<br><br>
+
+				Suspendisse a ipsum non erat eleifend blandit vel et enim. Vivamus varius tellus eros, id aliquam neque ultricies nec. Suspendisse ultrices mauris in est laoreet pretium in a turpis. Ut vitae diam tincidunt, sodales mi ultricies, dictum orci. Aliquam nunc risus, aliquet eget justo a, dignissim sollicitudin lacus. Praesent pellentesque nisi tristique urna laoreet vulputate. Vestibulum eu enim bibendum, efficitur enim mollis, blandit sapien. Nam quis nulla porta, pharetra turpis eu, gravida ante. In facilisis pellentesque arcu non pretium. Fusce eros magna, congue nec ornare non, euismod eget lacus. Vivamus at commodo nisl.</p>
+			</div>
+		</div>
+		<div class="img-disena">
+			<img src="img/disena-tu-momento/traslado.jpg">
+			<div class="texto-descriptivo">
+				<h5>EL TRASLADO</h5>
+				<p>De la persona que queremos sorprendera bordo de un auto exclusivo para el momento BMW</p>
+			</div>
+			<div id="ver-mas4"><a id="mas4"><p>CONSIDERACIONES GENERALES</p><img src="img/prensa/ver-mas.gif"></a></div>
+			<div id="ver-menos4"><a id="menos4"><p>CONSIDERACIONES GENERALES</p><img src="img/prensa/ver-menos.gif"></a></div>
+			<div id="texto-desarrollo2">
+				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc mattis quam sit amet lacus interdum porttitor. Nunc nec ex non enim mollis lobortis. Curabitur tristique varius diam non ullamcorper. Pellentesque vel ipsum id elit pharetra sagittis. Fusce et ultrices lectus. Fusce purus eros, malesuada eget bibendum eu, tempor non tortor. In hac habitasse platea dictumst. Proin ut turpis non neque lobortis porta. Donec fringilla ante et sem consequat venenatis id ac purus. In orci purus, tempus ac iaculis vitae, luctus at orci.<br><br>
+
+				Maecenas purus diam, sollicitudin vel scelerisque ac, posuere nec felis. Suspendisse mattis nisl sed dolor vestibulum vestibulum. Mauris pulvinar vel metus nec tempor. In mattis dignissim sem, ut euismod sapien fermentum ac. Vestibulum bibendum nisl sed velit sollicitudin interdum dictum a arcu. Mauris pharetra tellus at porta vehicula. Vestibulum ut nibh sed justo scelerisque tincidunt sit amet ut libero. Suspendisse maximus magna nunc, sit amet rhoncus nunc auctor eget. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.<br><br>
+		
+				Suspendisse a ipsum non erat eleifend blandit vel et enim. Vivamus varius tellus eros, id aliquam neque ultricies nec. Suspendisse ultrices mauris in est laoreet pretium in a turpis. Ut vitae diam tincidunt, sodales mi ultricies, dictum orci. Aliquam nunc risus, aliquet eget justo a, dignissim sollicitudin lacus. Praesent pellentesque nisi tristique urna laoreet vulputate. Vestibulum eu enim bibendum, efficitur enim mollis, blandit sapien. Nam quis nulla porta, pharetra turpis eu, gravida ante. In facilisis pellentesque arcu non pretium. Fusce eros magna, congue nec ornare non, euismod eget lacus. Vivamus at commodo nisl.</p>
+			</div>
+		</div>
 		<div id="locacion">
 			<div class="presentacion">
 				<img id="mas-detalles-locacion-1" src="img/disena-tu-momento/velero-presentacion.jpg">
@@ -283,6 +361,19 @@
 						</li>
 					</ul>
 			<script src="js/acordion.js"></script>
+		</div>
+
+		<div class="galeria-disena">
+			<h3>Nuestros DTM</h3>
+			<a href="img/disena-tu-momento/velero.jpg" data-lightbox="example-set"><img src="img/disena-tu-momento/velero.jpg"></a>
+			<a href="img/disena-tu-momento/velero.jpg" data-lightbox="example-set"><img src="img/disena-tu-momento/velero.jpg"></a>
+			<a href="img/disena-tu-momento/velero.jpg" data-lightbox="example-set"><img src="img/disena-tu-momento/velero.jpg"></a>
+			<a href="img/disena-tu-momento/velero.jpg" data-lightbox="example-set"><img src="img/disena-tu-momento/velero.jpg"></a>
+			<a href="img/disena-tu-momento/velero.jpg" data-lightbox="example-set"><img src="img/disena-tu-momento/velero.jpg"></a>
+			<a href="img/disena-tu-momento/velero.jpg" data-lightbox="example-set"><img src="img/disena-tu-momento/velero.jpg"></a>
+			<a href="img/disena-tu-momento/velero.jpg" data-lightbox="example-set"><img src="img/disena-tu-momento/velero.jpg"></a>
+			<a href="img/disena-tu-momento/velero.jpg" data-lightbox="example-set"><img src="img/disena-tu-momento/velero.jpg"></a>
+			<script src="js/lightbox-plus-jquery.min.js"></script>
 		</div>
 
 		<?php
