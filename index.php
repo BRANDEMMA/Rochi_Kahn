@@ -262,7 +262,8 @@
 			</div>
 		</div>
 		<div class="prensa">
-			<div class="titulo-prensa"><img class="img-prensa-1" src="img/prensa/linea-circulo3.gif"><p class="p-prensa">PRENSA</p><img class="img-prensa-2" src="img/prensa/circulo-linea3.gif"></div>
+			<div class="titulo-prensa-2"><div class="texto-titulo-prensa-2"><p>PRENSA</p></div></div>
+			<!-- <div class="titulo-prensa"><img class="img-prensa-1" src="img/prensa/linea-circulo3.gif"><p class="p-prensa">PRENSA</p><img class="img-prensa-2" src="img/prensa/circulo-linea3.gif"></div> -->
 			<div class="rochi"><p>ROCHI KAHN</p></div>
 			<div class="contenido-prensa">
 				<iframe id="video1" width="100%" height="400" src="https://www.youtube.com/embed/-SisfymY9lI" frameborder="0" allowfullscreen></iframe>

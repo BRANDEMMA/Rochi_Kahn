@@ -133,6 +133,59 @@ nav ul li a:hover{
 	background: url(../img/menu/youtube-rochikahn.gif) no-repeat right;
 	background-size: 200% 100%;
 }
+
+
+.menu-responsive{
+	display: none;
+	position: relative;
+	width: 100%;
+}
+.menu-responsive label{
+	display: block;
+	height: 30px;
+	width: 30px;
+}
+.menu-responsive label:hover{
+	background-color: rgba(0,0,0,0.2);
+	cursor: pointer;
+}
+.menu-responsive img{
+	margin: 0;
+	padding: 0;
+	width: 30px;
+}
+#btn-menu{
+	display: none;
+}
+.menu{
+	background-color: rgba(255,255,255,0.5);
+	left: -500px;
+	position: absolute;
+	transition: all 0.5s;
+	-moz-transition: all 0.5s;
+	-webkit-transition: all 0.5s;
+	-o-transition: all 0.5s;
+	width: 200px;
+	z-index: 1000;
+}
+.menu ul{
+	display: flex;
+	flex-direction: column;
+  	list-style: none;
+  	margin: 0;
+  	padding: 0;	
+}
+.menu li a{
+	color: black;
+ 	display: block;
+  	font-size: 1em;
+  	padding: 15px 20px 15px 0;
+  	text-align: left;
+  	text-decoration: none;  	
+}
+#btn-menu:checked ~ .menu{
+	left: 0;
+} 
 /*--============    ESTILOS DEL MENU (FIN)  ============--*/
 
 /*--============    ESTILOS DEL SLIDER (INICIO)  ============--*/
@@ -433,7 +486,7 @@ color: gray;
 }
 .texto-titulo-trayectoria-2{
 	background: url(../img/trayectoria/circulos.gif);
-	background-size: 100% 16px;
+	background-size: 100% 19px;
 	margin: 0 auto;
 	width: 20%;
 	height: auto;
@@ -567,7 +620,26 @@ color: gray;
 	margin-top: 2%;
 	width: 90%;
 }
-.titulo-prensa{
+.titulo-prensa-2{
+	background: url(../img/trayectoria/linea.gif);
+	background-size: 100% 100%;
+	background-repeat: repeat-x;
+	margin: 0 auto;
+	width: 100%;
+}
+.texto-titulo-prensa-2{
+	background: url(../img/trayectoria/circulos.gif);
+	background-size: 100% 19px;
+	margin: 0 auto;
+	width: 15%;
+	height: auto;
+}
+.texto-titulo-prensa-2 p{
+	font-size: 1.1em;
+	margin-bottom: 5px;
+	text-align: center;
+}
+/*.titulo-prensa{
 	display: flex;
 	overflow: hidden;
 	width: 100%;
@@ -586,7 +658,7 @@ color: gray;
 }
 .img-prensa-2{
 	height:27px;
-}
+}*/
 .contenido-prensa{
 	margin: 0 auto;
 	margin-top: 2%;
@@ -726,6 +798,7 @@ color: gray;
 }
 .titulo-contacto{
 	display: flex;
+	overflow: hidden;
 }
 .img-contacto-1{
 	height: 27px;
@@ -1836,6 +1909,17 @@ color: gray;
 		font-size: 0.9em;
 	}
 }
+@media(max-width: 1260px){
+	.logo2 #ver-mas2 a{
+		width: 26%;
+	}
+	.logo2 #ver-menos2 a{
+		width: 26%;
+	}
+	.p-contacto{
+		width: 20%;
+	}
+}
 @media(max-width: 1200px){
 	.espacio-edicion{
 		padding-top: 60%;
@@ -1845,6 +1929,9 @@ color: gray;
 	}
 	.img-experiencias-1{
 		margin-left: -15px;
+	}
+	.texto-descriptivo{
+		top: 41px;
 	}
 }
 @media(max-width: 1162px){
@@ -1864,12 +1951,32 @@ color: gray;
 		font-size: 0.8em;
 	}
 }
+@media(max-width: 1112px){
+	.logo2 #ver-mas2 a{
+		width: 28%;
+	}
+	.texto-descriptivo{
+		top: 39px;
+	}
+}
 @media(max-width: 1100px){
 	.menu-izquierda{
 		font-size: 0.8em;
 	}
 	.menu-derecha{
 		font-size: 0.8em;
+	}
+}
+@media(max-width: 1032px){
+	.logo2 #ver-mas2 a{
+		width: 32%;
+	}
+	.texto-descriptivo{
+		top: 34px;
+	}
+	.texto-descriptivo p{
+		font-size: 0.8em;
+		margin-top: 2px;
 	}
 }
 @media(max-width: 1024px){
@@ -1915,7 +2022,7 @@ color: gray;
 		margin-left: 15px;
 	}
 	.rochi{
-		width: 10%;
+		width: 15%;
 	}
 	.img-prensa-1{
 		margin-left: -150px;
@@ -1938,8 +2045,48 @@ color: gray;
 		width: 11%;
 	}
 }
-@media(max-width: 926px){
-
+@media(max-width: 1000px){
+	.titulo-productos{
+		overflow: hidden;
+	}
+	.img-productos-1{
+		margin-left: -30px;
+	}
+	.p-productos{
+		width: 28%;
+	}
+	.trayectoria-p{
+		width: 22%;
+	}
+}
+@media(max-width: 970px){
+	.p-nueva{
+		width: 25%;
+	}
+	.img-nueva-2{
+		margin-right: -40%;
+	}
+	.fecha-nueva img{
+		padding-left: 45%;
+	}
+}
+@media(max-width: 940px){
+	.rochi p{
+		font-size: 0.7em;
+	}
+}
+@media(max-width: 920px){
+	.p-contacto{
+		width: 25%;
+	}
+	.img-nueva-2{
+		margin-right: -45%;
+	}
+}
+@media(max-width: 905px){
+	#izquierda-edicion .titulo-edicion .p-edicion{
+		width: 65%;
+	}
 }
 @media(max-width: 900px){
 	.menu-izquierda{
@@ -1955,8 +2102,73 @@ color: gray;
 	.logo img{
 		width: 40%;
 	}
+	.menu-responsive{
+		display: block;
+	}
+	.img-productos-1{
+		margin-left: -40px;
+	}
+	.p-productos{
+		width: 32%;
+	}
+	.logo2 #ver-mas2 a{
+		width: 34%;
+	}
+	.texto-descriptivo{
+		top: 32px;
+	}
+	.texto-descriptivo h5{
+		font-size: 0.8em;
+	}
+	.galeria-disena img{
+		width: 28%;
+	}
 }
-
+@media(max-width: 850px){
+	.espacio-edicion{
+		padding-top: 50%;
+	}
+	#izquierda-edicion .titulo-edicion .p-edicion{
+		width: 70%;
+	}
+	.texto-titulo-trayectoria-2{
+		width: 25%;
+	}
+	.texto-titulo-prensa-2{
+		width: 25%;
+	}
+	#ver-mas a{
+		width: 12%;
+	}
+	.img-nueva-2{
+		margin-right: -52%;
+	}
+	.logo2 #ver-mas2 a{
+		width: 36%;
+	}
+	.texto-descriptivo{
+		top: 28px;
+		width: 25%;
+	}
+}
+@media(max-width: 800px){
+	.img-experiencias-1{
+		margin-left: -25px;
+		margin-right: 10px;
+	}
+	.img-nueva-2{
+		margin-right: -55%;
+	}
+	.p-productos{
+		width: 35%;
+	}
+	.img-productos-1{
+		margin-left: -60px;
+	}
+	.trayectoria-p{
+		width: 25%;
+	}
+}
 @media(max-width: 768px){
 	.titulo-edicion{
 		width: 90%;
@@ -1979,9 +2191,6 @@ color: gray;
 	}
 	.p-trayectoria{
 		width: 40%;
-	}
-	.rochi{
-		width: 13%;
 	}
 	.img-prensa-1{
 		margin-left: -255px;
@@ -2008,6 +2217,15 @@ color: gray;
 	.formulario form .boton-enviar{
 		width: 42%;
 	}
+	.p-nueva{
+		width: 30%;
+	}
+	.img-nueva-2{
+		margin-right: -65%;
+	}
+	.fecha-nueva img{
+		padding-left: 62%;
+	}
 }
 @media(max-width:  736px){
 	.img-trayectoria-1{
@@ -2023,13 +2241,228 @@ color: gray;
 		right: -20px;
 	}
 }
-@media(max-width: 414px){
+@media(max-width: 730px){
+	.espacio-edicion{
+		padding-top: 35%;
+	}
+	.img-nueva-2{
+		margin-right: -70%;
+	}
+	.rochi{
+		width: 18%;
+	}
+	.img-experiencias-1{
+		margin-left: -50px;
+	}
+	#btn-prev2{
+		left: 6%;
+	}
+	#btn-next2{
+		right: 6%;
+	}
+	#contenedor-slider2{
+		width: 85%;
+	}
+	.p-productos{
+		width: 40%;
+	}
+}
+@media(max-width: 700px){
+	.img-productos-1{
+		margin-left: -70px;
+	}
+	.p-productos{
+		width: 42%;
+	}
+	.trayectoria-p{
+		width: 28%;
+	}
+}
+@media(max-width: 690px){
+	#izquierda-edicion .titulo-edicion .p-edicion{
+		width: 75%;
+	}
+	.texto-titulo-trayectoria-2{
+		width: 27%;
+	}
+	.img-experiencias-1{
+		margin-left: -60px;
+	}
+	#derecha-experiencias .titulo-experiencias .p-experiencias{
+		width: 75%;
+	}
+}
+@media(max-width: 660px){
+	.img-nueva-2{
+		margin-right: -78%;
+	}
+	.titulo-trayectoria2{
+		overflow: hidden;
+	}
+	.trayectoria-img-1{
+		margin-left: -30px;
+	}
+	.trayectoria-p{
+		width: 32%;
+	}
+}
+@media(max-width: 645px){
+	#izquierda-edicion .titulo-edicion .p-edicion{
+		width: 80%;
+	}
+	.texto-titulo-trayectoria-2{
+		width: 30%;
+	}
+	#derecha-experiencias .titulo-experiencias .p-experiencias{
+		width: 80%;
+	}
+	.img-experiencias-1{
+		margin-left: -80px;
+	}
+	.p-nueva{
+		width: 20%;
+	}
+	#ver-mas a{
+		width: 14%;
+	}
+}
+@media(max-width: 600px){
+	#izquierda-edicion .titulo-edicion .p-edicion{
+		width: 85%;
+	}
+	.titulo-edicion{
+		float: left;
+	}
+	.rochi{
+		width: 20%;
+	}
+	.p-contacto{
+		width: 35%;
+	}
+	#ver-mas a{
+		width: 15%;
+	}
+	.img-experiencias-1{
+		margin-left: -95px;
+	}
+	#derecha-experiencias .titulo-experiencias .p-experiencias{
+		width: 85%;
+	}
+	.texto-titulo-trayectoria-2{
+		width: 32%;
+	}
+	.img-productos-1{
+		margin-left: -80px;
+	}
+	.p-productos{
+		width: 46%;
+	}
+}
+@media(max-width: 570px){
+	#izquierda-edicion .titulo-edicion .p-edicion{
+		width: 95%;
+	}
+	.img-experiencias-1{
+		margin-left: -100px;
+	}
+	#derecha-experiencias .titulo-experiencias .p-experiencias{
+		width: 90%;
+	}
+	.espacio-edicion{
+		padding-top: 30%;
+	}
+}
+@media(max-width: 550px){
+	.texto-nueva{
+		display: none;
+	}
+	.fecha-nueva{
+		display: none;
+	}
+	#ver-mas a{
+		width: 17%;
+	}
+	#contenedor-slider2{
+		width: 95%;
+	}
+	#btn-prev2{
+		left: 1%;
+	}
+	#btn-next2{
+		right: 1%;
+	}
+	.rochi{
+		width: 22%;
+	}
+	.p-contacto{
+		width: 38%;
+	}
+	.p-productos{
+		width: 50%;
+	}
+	.contenedor-productos .submenu li{
+		width: 44%;
+	}
+	.trayectoria-p{
+		width: 36%;
+	}
+}
+@media(max-width: 500px){
+	.logo img{
+		width: 60%;
+	}
+	.titulo-edicion{
+		float: right;
+	}
+	#izquierda-edicion .titulo-edicion .p-edicion{
+		width: 55%;
+	}
+	.espacio-edicion{
+		padding-top: 20%;
+	}
+	.texto-titulo-trayectoria-2{
+		width: 37%;
+	}
+	#derecha-experiencias .titulo-experiencias .p-experiencias{
+		width: 100%;
+	}
+	.rochi{
+		width: 24%;
+	}
+	#ver-mas a{
+		width: 19%;
+	}
+	.img-productos-1{
+		margin-left: -90px;
+	}
+	.p-productos{
+		width: 55%;
+	}
+	.trayectoria-p{
+		width: 45%;
+	}
+}
+@media(max-width: 450px){
+	.contenedor{
+		width: 100%;
+	}
+	.formulario input{
+		width: 72%;
+	}
+	.formulario textarea{
+		width: 73.5%;
+	}
+	.formulario form .boton-enviar{
+		width: 75%;
+	}
 	#btn-prev{
 		left: -12px;
 	}
 	#btn-next{
 		right: -12px;
 	}
+}
+@media(max-width: 414px){
 	#izquierda-edicion{
 		overflow: hidden;
 	}
@@ -2136,5 +2569,126 @@ color: gray;
 	.pie-pagina img {
 		margin-bottom: 0;
 		width: 30%;
+	}
+	.texto-titulo-trayectoria-2{
+		width: 40%;
+	}
+	.izquierda-trayectoria{
+		padding-top: 0;
+	}
+	.texto-titulo-prensa-2{
+		width: 30%;
+	}
+}
+@media(max-width: 400px){
+	.espacio-edicion{
+		padding-top: 25%;
+	}
+	.texto-titulo-trayectoria-2{
+		width: 42%;
+	}
+	.rochi{
+		width: 28%;
+	}
+	.img-productos-1{
+		margin-left: -100px;
+	}
+	.p-productos{
+		width: 62%;
+	}
+	.contenedor-productos .submenu li{
+		width: 94%;
+	}
+	.trayectoria-img-1{
+		margin-left: -50px;
+	}
+	.trayectoria-p{
+		width: 50%;
+	}
+	.trayectoria-p{
+		width: 55%;
+	}
+}
+@media(max-width: 360px){
+	 .p-productos{
+	 	width: 65%;
+	 }
+}
+@media(max-width: 350px){
+	#izquierda-edicion .titulo-edicion .p-edicion{
+		width: 65%;
+	}
+	.texto-titulo-trayectoria-2{
+		width: 48%;
+	}
+	.rochi{
+		width: 30%;
+	}
+	.img-experiencias-1{
+		height: 0;
+		margin-left: 0;
+	}
+	.img-experiencias-2{
+		height: 0;
+	}
+	.texto-titulo-prensa-2{
+		width: 33%;
+	}
+	.espacio-edicion{
+		padding-top: 15%;
+	}
+	#ver-mas a{
+		width: 24%;
+	}
+	.img-productos-1{
+		margin-left: -110px;
+	}
+	.p-productos{
+		width: 68%;
+	}
+}
+@media(max-width: 330px){
+	.texto-titulo-trayectoria-2{
+		width: 50%;
+	}
+	.texto-titulo-prensa-2{
+		width: 35%;
+	}
+	.rochi{
+		width: 32%;
+	}
+	.p-contacto{
+		width: 45%;
+	}
+	.img-productos-1{
+		margin-left: -120px;
+	}
+	.p-productos{
+		width: 75%;
+	}
+}
+@media(max-width: 320px){
+	#derecha-experiencias p{
+		letter-spacing: 0.4em;
+	}
+	.texto-titulo-trayectoria-2{
+		width: 53%;
+	}
+	.texto-titulo-prensa-2{
+		width: 37%;
+	}
+	.espacio-experiencias{
+		padding-top: 45%;
+	}
+}
+@media(max-width: 310px){
+	.espacio-edicion{
+		padding-top: 10%;	
+	}
+	.rochi{
+		width: 34%;
+	}
+	#ver-mas a{
+		width: 26%;
 	}
 }
