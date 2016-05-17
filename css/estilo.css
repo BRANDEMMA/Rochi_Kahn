@@ -2164,6 +2164,11 @@ color: gray;
 		width: 35%;
 	}
 }
+@media(max-width: 802px){
+	.logo2 #ver-mas2 a, .logo2 #ver-menos2 a{
+		width: 38%;
+	}
+}
 @media(max-width: 800px){
 	.img-experiencias-1{
 		margin-left: -25px;
@@ -2241,6 +2246,9 @@ color: gray;
 	}
 	.fecha-nueva img{
 		padding-left: 62%;
+	}
+	.logo2 #ver-mas2 a, .logo2 #ver-menos2 a{
+		width: 39%;
 	}
 }
 @media(max-width: 760px){
