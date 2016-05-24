@@ -50,6 +50,59 @@ header{
 	padding-bottom: 30px;
 	width: 90%;
 }
+
+/*== ESTILOS VENTANA MODAL ROCHI KAHN VIDEO (INICIA) ==*/
+#cerrar{
+	display: none;
+}
+#cerrar + label{
+	animation: modal 1s 2s forwards;
+	color: white;
+	cursor: pointer;
+	font-size: 25px;
+	height: 40px;
+	line-height: 40px;
+	opacity: 0;
+	position: fixed;
+	right: 10px;
+	text-align: center;
+	visibility: hidden;
+	width: 40px;
+	z-index: 50;
+}
+.modal{
+	animation: modal 1s 2s forwards;
+	background-color: rgba(0,0,0,0.8);
+	display: flex;
+	height: 100vh;
+	left: 0;
+	opacity: 0;
+	position: fixed;
+	top: 0;
+	visibility: hidden;
+	width: 100%;
+	z-index: 30;
+}
+.contenido{
+	height: auto;
+	margin: auto;
+	text-align: center;
+	width: 70%;
+}
+.contenido video{
+	width: 100%;
+}
+#cerrar:checked + label, #cerrar:checked ~ .modal{
+	display: none;
+}
+@keyframes modal{
+	100%{
+		opacity: 1;
+		visibility: visible;
+	}
+}
+/*== ESTILOS VENTANA MODAL ROCHI KAHN VIDEO (TERMINA) ==*/
+
 .menu-izquierda{
 	float: left;
 	font-size: 1.2em;
@@ -663,6 +716,9 @@ color: gray;
 	margin: 0 auto;
 	margin-top: 2%;
 	width: 95%;
+}
+.contenido-prensa video{
+	width: 100%;
 }
 #galeria-prensa{
 	display: none;

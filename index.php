@@ -122,6 +122,14 @@
 
 <!--================== 	SCRIPT PARA MOSTRAR VIDEOS (TERMINA)  =====================-->
 
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$('#btn-cerrar').on('click', function(){
+			    $('#video')[0].pause();
+			});
+		});
+	</script>
+
 
 <!-- FAVICON-->
 
@@ -153,6 +161,19 @@
 	<div class="contenedor">
 
 		<header>
+
+		<!-- VENTANDA MODAL VIDEO ROCHI KAHN (INICIA) -->
+		<input type="checkbox" id="cerrar">
+		<label for="cerrar" id="btn-cerrar">X</label>
+		<div class="modal">
+			<div class="contenido">
+				<video id="video" autoplay controls>
+					<source src="video/rochikahn.mp4" type="video/mp4">
+				</video>
+			</div>
+		</div>
+		<!-- VENTANDA MODAL VIDEO ROCHI KAHN (TERMINA) -->
+
 			<?php
 				include 'menu.php'
 			?>
@@ -266,7 +287,10 @@
 			<!-- <div class="titulo-prensa"><img class="img-prensa-1" src="img/prensa/linea-circulo3.gif"><p class="p-prensa">PRENSA</p><img class="img-prensa-2" src="img/prensa/circulo-linea3.gif"></div> -->
 			<div class="rochi"><p>ROCHI KAHN</p></div>
 			<div class="contenido-prensa">
-				<iframe id="video1" width="100%" height="400" src="https://www.youtube.com/embed/-SisfymY9lI" frameborder="0" allowfullscreen></iframe>
+				<video id="video1" controls>
+					<source src="video/rochikahn.mp4" type="video/mp4">
+				</video>
+				<iframe style="display:none;" id="video-1" width="100%" height="400" src="https://www.youtube.com/embed/-SisfymY9lI" frameborder="0" allowfullscreen></iframe>
 				<iframe id="video2" style="display:none;" width="100%" height="400" src="https://www.youtube.com/embed/d05H46M4Ouc" frameborder="0" allowfullscreen></iframe>
 				<iframe id="video3" style="display:none;" width="100%" height="400" src="https://www.youtube.com/embed/J1TSzVqwxys" frameborder="0" allowfullscreen></iframe>
 				<div class="clear"></div>
