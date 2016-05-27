@@ -169,6 +169,8 @@
 			<div class="contenido">
 				<video id="video" autoplay controls>
 					<source src="video/rochikahn.mp4" type="video/mp4">
+					<source src="video/rochikahn.ov" type='video/ogg'>
+					<source src="video/rochikahn.webm" type='video/webm''>
 				</video>
 			</div>
 		</div>
