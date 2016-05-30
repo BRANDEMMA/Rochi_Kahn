@@ -269,15 +269,21 @@
 			<div class="contenido-trayectoria">
 				<div class="izquierda-trayectoria">
 					<div class="contenedor-cuadrados">
-						<div class="cuadro-trayectoria"><a href="#" style="text-decoration:none;color:black;"><img src="img/trayectoria/rochi-kahn-trayectoria-disena-tu-momento.jpg"><p>DISEÑA TU MOMENTO</p></a></div>
-						<div class="cuadro-trayectoria margenes"><a href="#" style="text-decoration:none;color:black;"><img src="img/trayectoria/rochi-kahn-trayectoria-disena-tu-momento.jpg"><p>PASARELA</p></a></div>
-						<div class="cuadro-trayectoria"><a href="#" style="text-decoration:none;color:black;"><img src="img/trayectoria/rochi-kahn-trayectoria-disena-tu-momento.jpg"><p>DISEÑA TU MOMENTO</p></a></div>
+
+						<div class="cuadro-trayectoria"><a href="#" style="text-decoration:none;color:black;"><img src="img/trayectoria/1/rk-trayectoria-arteymoda-thumbs.jpg"><p>PERÚ MODA Y TÉXTILES</p></a></div>
+
+						<div class="cuadro-trayectoria margenes"><a href="#" style="text-decoration:none;color:black;"><img src="img/trayectoria/2/arteymoda-thumbs.jpg"><p>ARTE Y MODA</p></a></div>
+
+						<div class="cuadro-trayectoria"><a href="#" style="text-decoration:none;color:black;"><img src="img/trayectoria/3/peru-moda-rk-2015-thumbs.jpg"><p>PASARELA MERCEDEZ BENZ PERÚ MODA</p></a></div>
 						<div class="clear"></div>
 					</div>
+
 					<div class="contenedor-cuadrados2">
-						<div class="cuadro-trayectoria"><a href="#" style="text-decoration:none;color:black;"><img src="img/trayectoria/rochi-kahn-trayectoria-disena-tu-momento.jpg"><p>PASARELA</p></a></div>
-						<div class="cuadro-trayectoria margenes"><a href="#" style="text-decoration:none;color:black;"><img src="img/trayectoria/rochi-kahn-trayectoria-disena-tu-momento.jpg"><p>HOTELES BELMOND</p></a></div>
-						<div class="cuadro-trayectoria"><a href="#" style="text-decoration:none;color:black;"><img src="img/trayectoria/rochi-kahn-trayectoria-disena-tu-momento.jpg"><p>DISEÑA TU MOMENTO</p></a></div>
+						<div class="cuadro-trayectoria"><a href="#" style="text-decoration:none;color:black;"><img src="img/trayectoria/4/ethical-rk-thumbs.jpg"><p>PASARELA ETHICAL FASHION PARIS</p></a></div>
+
+						<div class="cuadro-trayectoria margenes"><a href="#" style="text-decoration:none;color:black;"><img src="img/trayectoria/5/rk-lanzamiento-marca-thumbs.jpg"><p>LANZAMIENTO ROCHI KAHN</p></a></div>
+
+						
 					</div>
 				</div>
 				<div class="derecha-trayectoria"><img src="img/trayectoria/rochi-kahn-trayectoria.jpg"></div>
@@ -289,8 +295,8 @@
 			<!-- <div class="titulo-prensa"><img class="img-prensa-1" src="img/prensa/linea-circulo3.gif"><p class="p-prensa">PRENSA</p><img class="img-prensa-2" src="img/prensa/circulo-linea3.gif"></div> -->
 			<div class="rochi"><p>ROCHI KAHN</p></div>
 			<div class="contenido-prensa">
-				<video id="video1" controls>
-					<source src="video/rochikahn.mp4" type="video/mp4">
+				<video id="video1" poster="video/rk-video-principal.jpg" controls>
+					<source src="video/rochikahn.mp4"  type="video/mp4">
 				</video>
 				<iframe style="display:none;" id="video-1" width="100%" height="400" src="https://www.youtube.com/embed/-SisfymY9lI" frameborder="0" allowfullscreen></iframe>
 				<iframe id="video2" style="display:none;" width="100%" height="400" src="https://www.youtube.com/embed/d05H46M4Ouc" frameborder="0" allowfullscreen></iframe>
