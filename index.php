@@ -163,7 +163,7 @@
 		<header>
 
 		<!-- VENTANDA MODAL VIDEO ROCHI KAHN (INICIA) -->
-		<input type="checkbox" id="cerrar">
+		<!-- <input type="checkbox" id="cerrar">
 		<label for="cerrar" id="btn-cerrar">X</label>
 		<div class="modal">
 			<div class="contenido">
@@ -173,7 +173,7 @@
 					<source src="video/rochikahn.webm" type='video/webm''>
 				</video>
 			</div>
-		</div>
+		</div> -->
 		<!-- VENTANDA MODAL VIDEO ROCHI KAHN (TERMINA) -->
 
 			<?php
@@ -268,7 +268,18 @@
 			<div class="rochi"><p>ROCHI KAHN</p></div>
 			<div class="contenido-trayectoria">
 				<div class="izquierda-trayectoria">
-					<div class="contenedor-cuadrados">
+
+					<p>Rochi Kahn Marca y diseñadora peruana, destaca por su creatividad e innovación permanente, no solo en sus diseños plasmados dentro de un concepto de piezas únicas; y su tendencia a inusuales, inesperadas e irrepetibles combinaciones de materiales, colores e ideas en sus composiciones de edición limitada de cada colección de carteras.<br><br>
+
+					Dirige también una línea de conceptos que acompaña y tiene relación directa al desarrollo de sus diseños, a la compra y entrega de sus bolsos y carteras.<br><br>
+
+					Son experiencias y momentos para sus clientes (personas y corporaciones) que personaliza y sorprende, propuestas exclusivas de la marca en otros formatos.<br><br> 
+
+					Sus diseños resaltan en el mercado local e internacional, posicionando sus carteras en las vitrinas de espacios más exclusivos.</p>
+
+					<a href="trayectoria.php">Leer más</a>
+
+					<!-- <div class="contenedor-cuadrados">
 
 						<div class="cuadro-trayectoria"><a href="#" style="text-decoration:none;color:black;"><img src="img/trayectoria/1/rk-trayectoria-arteymoda-thumbs.jpg"><p>PERÚ MODA Y TÉXTILES</p></a></div>
 
@@ -284,10 +295,26 @@
 						<div class="cuadro-trayectoria margenes"><a href="#" style="text-decoration:none;color:black;"><img src="img/trayectoria/5/rk-lanzamiento-marca-thumbs.jpg"><p>LANZAMIENTO ROCHI KAHN</p></a></div>
 
 						
-					</div>
+					</div> -->
 				</div>
 				<div class="derecha-trayectoria"><img src="img/trayectoria/rochi-kahn-trayectoria.jpg"></div>
+
 				<div class="clear"></div>
+
+				<div class="contenedor-cuadro-trayectoria">
+
+					<div class="cuadro-trayectoria"><a href="#" style="text-decoration:none;color:black;"><img src="img/trayectoria/1/rk-trayectoria-arteymoda-thumbs.jpg"><p>PERÚ MODA Y TÉXTILES</p></a></div>
+
+					<div class="cuadro-trayectoria"><a href="#" style="text-decoration:none;color:black;"><img src="img/trayectoria/2/arteymoda-thumbs.jpg"><p>ARTE Y MODA</p></a></div>
+
+					<div class="cuadro-trayectoria"><a href="#" style="text-decoration:none;color:black;"><img src="img/trayectoria/3/peru-moda-rk-2015-thumbs.jpg"><p>PASARELA MERCEDEZ BENZ PERÚ MODA</p></a></div>
+					
+					<div class="cuadro-trayectoria"><a href="#" style="text-decoration:none;color:black;"><img src="img/trayectoria/4/ethical-rk-thumbs.jpg"><p>PASARELA ETHICAL FASHION PARIS</p></a></div>
+
+					<div class="cuadro-trayectoria"><a href="#" style="text-decoration:none;color:black;"><img src="img/trayectoria/5/rk-lanzamiento-marca-thumbs.jpg"><p>LANZAMIENTO ROCHI KAHN</p></a></div>
+					
+				</div>
+				
 			</div>
 		</div>
 		<div class="prensa">
