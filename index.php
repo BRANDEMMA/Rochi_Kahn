@@ -191,7 +191,7 @@
 						<img src="img/slider/rochikahn-banner2.jpg">
 					</section>
 					<section>
-						<img src="img/slider/rochikahn-banner3.jpg">
+						<img src="img/slider/rk-banner3.jpg">
 					</section>
 				</div>
 				<div class="nueva-coleccion">
