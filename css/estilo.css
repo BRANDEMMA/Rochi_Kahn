@@ -1582,6 +1582,16 @@ color: gray;
 .img-trayectoria-galeria img{
 	width: 100%;
 }
+.img-trayectoria-galeria .trayectoria-img1{
+	float: left;
+	width: 50%;
+}
+.trayectoria-p1{
+	float: left;
+	font-family: "calibri_light";
+	padding: 20% 5% 0 5%;
+	width: 40%;
+}
 /*--============================================================
 	ESTILOS DE LA SECCION "GALERIA TRAYECTORIA" (FIN)
 =============================================================--*/

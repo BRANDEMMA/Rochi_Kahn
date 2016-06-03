@@ -93,64 +93,24 @@
 			<div class="galeria-trayectoria">
 				<ul id="accordion" class="accordion">
 					<li>
-						<div class="link"><i class="fa fa-caret-right"></i>PASARELA MERCEDEZ BENZ</div>
-						<ul class="submenu">
-							<div class="titulo-galeria-trayectoria"><img src="img/contacto/linea-corta.gif"><p>PERÚ MODA 2014</p></div>
-							<div class="img-trayectoria-galeria">
-								<img src="img/trayectoria/peru-moda-2014.jpg">
-							</div>
-							<div class="img-trayectoria-galeria">
-								<img src="img/trayectoria/peru-moda-2014-2.jpg">
-							</div>
-						</ul>
+						<?php
+							include 'galeria-peru-moda.php'
+						?>
 					</li>
 					<li>
-						<div class="link"><i class="fa fa-caret-right"></i>LOPREM IPSUM</div>
-						<ul class="submenu">
-							<div class="titulo-galeria-trayectoria"><img src="img/contacto/linea-corta.gif"><p>PERÚ MODA 2014</p></div>
-							<div class="img-trayectoria-galeria">
-								<img src="img/trayectoria/peru-moda-2014.jpg">
-							</div>
-							<div class="img-trayectoria-galeria">
-								<img src="img/trayectoria/peru-moda-2014-2.jpg">
-							</div>
-						</ul>
+						<?php
+							include 'galeria-arte-moda.php'
+						?>
 					</li>
 					<li>
-						<div class="link"><i class="fa fa-caret-right"></i>LOPREM IPSUM</div>
-						<ul class="submenu">
-							<div class="titulo-galeria-trayectoria"><img src="img/contacto/linea-corta.gif"><p>PERÚ MODA 2014</p></div>
-							<div class="img-trayectoria-galeria">
-								<img src="img/trayectoria/peru-moda-2014.jpg">
-							</div>
-							<div class="img-trayectoria-galeria">
-								<img src="img/trayectoria/peru-moda-2014-2.jpg">
-							</div>
-						</ul>
+						<?php
+							include 'galeria-pasarela-ethical.php'
+						?>
 					</li>
 					<li>
-						<div class="link"><i class="fa fa-caret-right"></i>LOPREM IPSUM</div>
-						<ul class="submenu">
-							<div class="titulo-galeria-trayectoria"><img src="img/contacto/linea-corta.gif"><p>PERÚ MODA 2014</p></div>
-							<div class="img-trayectoria-galeria">
-								<img src="img/trayectoria/peru-moda-2014.jpg">
-							</div>
-							<div class="img-trayectoria-galeria">
-								<img src="img/trayectoria/peru-moda-2014-2.jpg">
-							</div>
-						</ul>
-					</li>
-					<li>
-						<div class="link"><i class="fa fa-caret-right"></i>LOPREM IPSUM</div>
-						<ul class="submenu">
-							<div class="titulo-galeria-trayectoria"><img src="img/contacto/linea-corta.gif"><p>PERÚ MODA 2014</p></div>
-							<div class="img-trayectoria-galeria">
-								<img src="img/trayectoria/peru-moda-2014.jpg">
-							</div>
-							<div class="img-trayectoria-galeria">
-								<img src="img/trayectoria/peru-moda-2014-2.jpg">
-							</div>
-						</ul>
+						<?php
+							include 'galeria-lanzamiento-rochi.php'
+						?>
 					</li>
 				</ul>
 				<script src="js/acordion.js"></script>
