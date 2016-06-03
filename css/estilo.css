@@ -606,14 +606,7 @@ color: gray;
 }
 .izquierda-trayectoria p{
 	font-family: "calibri_light";
-	margin-bottom: 10%;
-}
-.izquierda-trayectoria a{
-	border: 1px solid black;
-	color: black;
-	font-family: "calibri_bold";
-	padding: 2px 10px;
-	text-decoration: none;
+	margin-bottom: 12%;
 }
 .derecha-trayectoria{
 	float: left;
@@ -724,6 +717,40 @@ color: gray;
 .contenido-prensa video{
 	width: 100%;
 }
+.contenedor-miniaturas-videos{
+	display: flex;
+	justify-content: center;
+	width: 100%;
+}
+/*EFECTO DE FILTRO ESCALA DE GRISES (INICIO)*/
+.contenedor-miniaturas-videos img{
+	cursor: pointer;
+	filter: url('#grayscale'); /* Versión SVG para IE10, Chrome 17, FF3.5, Safari 5.2 and Opera 11.6 */
+	-webkit-filter: grayscale(100%);
+	-moz-filter: grayscale(100%);
+	-ms-filter: grayscale(100%);
+	-o-filter: grayscale(100%);
+	filter: grayscale(100%); /* Para cuando es estándar funcione en todos */
+	filter: Gray(); 
+	height: 100%;
+	margin: 2% 1%;
+	transition: all 0.5s;
+	width: 10%;
+}
+.contenedor-miniaturas-videos img:hover{
+	-webkit-filter: grayscale(0%);
+	-moz-filter: grayscale(0%);
+	-ms-filter: grayscale(0%);
+	-o-filter: grayscale(0%);
+	filter: none;
+
+	-webkit-transition: all 0.7s ease;
+	-moz-transition: all 0.7s ease;
+	-ms-transition: all 0.7s ease;
+	-o-transition: all 0.7s ease;
+	transition: all 0.7s ease;
+}
+/*EFECTO DE FILTRO ESCALA DE GRISES (TERMINA)*/
 #galeria-prensa{
 	display: none;
 	justify-content: center;

@@ -64,8 +64,12 @@
 		$(document).ready(function(){
 			$('#mostrar-video1').on('click', function(){
 				$('#video1').show();
+				$('#video2')[0].pause();
 				$('#video2').hide();
+				$('#video3')[0].pause();
 				$('#video3').hide();
+				$('#video4')[0].pause();
+				$('#video4').hide();
 			});
 		});
 	</script>
@@ -74,8 +78,12 @@
 		$(document).ready(function(){
 			$('#mostrar-video2').on('click', function(){
 				$('#video2').show();
+				$('#video1')[0].pause();
 				$('#video1').hide();
+				$('#video3')[0].pause();
 				$('#video3').hide();
+				$('#video4')[0].pause();
+				$('#video4').hide();
 			});
 		});
 	</script>
@@ -84,8 +92,26 @@
 		$(document).ready(function(){
 			$('#mostrar-video3').on('click', function(){
 				$('#video3').show();
+				$('#video1')[0].pause();
 				$('#video1').hide();
+				$('#video2')[0].pause();
 				$('#video2').hide();
+				$('#video4')[0].pause();
+				$('#video4').hide();
+			});
+		});
+	</script>
+
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$('#mostrar-video4').on('click', function(){
+				$('#video4').show();
+				$('#video1')[0].pause();
+				$('#video1').hide();
+				$('#video2')[0].pause();
+				$('#video2').hide();
+				$('#video3')[0].pause();
+				$('#video3').hide();
 			});
 		});
 	</script>
@@ -277,8 +303,6 @@
 
 					Sus diseños resaltan en el mercado local e internacional, posicionando sus carteras en las vitrinas de espacios más exclusivos.</p>
 
-					<a href="trayectoria.php">Leer más</a>
-
 					<!-- <div class="contenedor-cuadrados">
 
 						<div class="cuadro-trayectoria"><a href="#" style="text-decoration:none;color:black;"><img src="img/trayectoria/1/rk-trayectoria-arteymoda-thumbs.jpg"><p>PERÚ MODA Y TÉXTILES</p></a></div>
@@ -312,7 +336,7 @@
 					<div class="cuadro-trayectoria"><a href="#" style="text-decoration:none;color:black;"><img src="img/trayectoria/4/ethical-rk-thumbs.jpg"><p>PASARELA ETHICAL FASHION PARIS</p></a></div>
 
 					<div class="cuadro-trayectoria"><a href="#" style="text-decoration:none;color:black;"><img src="img/trayectoria/5/rk-lanzamiento-marca-thumbs.jpg"><p>LANZAMIENTO ROCHI KAHN</p></a></div>
-					
+
 				</div>
 				
 			</div>
@@ -325,11 +349,28 @@
 				<video id="video1" poster="video/rk-video-principal.jpg" controls>
 					<source src="video/rochikahn.mp4"  type="video/mp4">
 				</video>
-				<iframe style="display:none;" id="video-1" width="100%" height="400" src="https://www.youtube.com/embed/-SisfymY9lI" frameborder="0" allowfullscreen></iframe>
-				<iframe id="video2" style="display:none;" width="100%" height="400" src="https://www.youtube.com/embed/d05H46M4Ouc" frameborder="0" allowfullscreen></iframe>
-				<iframe id="video3" style="display:none;" width="100%" height="400" src="https://www.youtube.com/embed/J1TSzVqwxys" frameborder="0" allowfullscreen></iframe>
+
+				<video id="video2" style="display:none;" poster="video/2/empire-collection-thumbs.jpg" controls>
+					<source src="video/2/video2.mp4"  type="video/mp4">
+				</video>
+
+				<video id="video3" style="display:none;" poster="video/3/bodayestilo-thumbs.jpg" controls>
+					<source src="video/3/video3.mp4"  type="video/mp4">
+				</video>
+
+				<video id="video4" style="display:none;" poster="video/2/empire-collection-thumbs.jpg" controls>
+					<source src="video/2/video2.mp4"  type="video/mp4">
+				</video>
 				<div class="clear"></div>
-				<div id="contenedor-slider-total">
+
+				<div class="contenedor-miniaturas-videos">
+					<img id="mostrar-video1" src="video/1/artesanos-cajamarca-thumbs.jpg">
+					<img id="mostrar-video2" src="video/2/empire-collection-thumbs.jpg">
+					<img id="mostrar-video3" src="video/3/bodayestilo-thumbs.jpg">
+					<img id="mostrar-video4" src="video/2/empire-collection-thumbs.jpg">
+				</div>
+
+				<!-- <div id="contenedor-slider-total">
 					<div id="contenedor-slider2">
 						<div id="slider2">
 							<section>
@@ -378,7 +419,8 @@
 					<article><img src="img/trayectoria/rochi-kahn-trayectoria-disena-tu-momento.jpg"><p>TITULO</p></article>
 					<article><img src="img/trayectoria/rochi-kahn-trayectoria-disena-tu-momento.jpg"><p>TITULO</p></article>
 					<article><img src="img/trayectoria/rochi-kahn-trayectoria-disena-tu-momento.jpg"><p>TITULO</p></article>
-				</div>
+				</div> -->
+
 			</div>
 		</div>
 		<?php
