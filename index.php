@@ -267,7 +267,7 @@
 				<div class="menu-experiencias">
 					<div class="titulo-experiencias"><img class="img-experiencias-1" src="img/index/linea-circulo.gif"><p class="p-experiencias">EXPERIENCIAS</p><img class="img-experiencias-2" src="img/index/circulo.jpg"></div>
 					<div class="clear"></div>
-					<ul id="accordion" class="accordion">
+					<!-- <ul id="accordion" class="accordion">
 						<li>
 							<div class="link"><i class="fa fa-caret-right"></i>DISEÑA TU MOMENTO</div>
 							<ul class="submenu">
@@ -278,8 +278,9 @@
 								<li><a href="#">- ACTIVACIONES CORPORATIVAS</a></li>
 							</ul>
 						</li>
-					</ul>
+					</ul> -->
 					<ul>
+						<li><a href="disena-tu-momento.php"><i class="fa fa-caret-right"></i>DISEÑA TU MOMENTO</a></li>
 						<li><a href="#"><i class="fa fa-caret-right"></i>MUESTRA PRIVADA</a></li>
 						<li><a href="#"><i class="fa fa-caret-right"></i>HECHA A LA MEDIDA</a></li>
 					</ul>
@@ -288,7 +289,7 @@
 			</div>
 		</div>
 		<div class="clear"></div>
-		<div class="trayectoria">
+		<div class="trayectoria" id="trayectoria">
 			<div class="titulo-trayectoria-2"><div class="texto-titulo-trayectoria-2"><p>TRAYECTORIA</p></div></div>
 			
 			<div class="rochi"><p>ROCHI KAHN</p></div>
@@ -327,15 +328,15 @@
 
 				<div class="contenedor-cuadro-trayectoria">
 
-					<div class="cuadro-trayectoria"><a href="#" style="text-decoration:none;color:black;"><img src="img/trayectoria/1/rk-trayectoria-arteymoda-thumbs.jpg"><p>PERÚ MODA Y TÉXTILES</p></a></div>
+					<div class="cuadro-trayectoria"><a href="trayectoria-peru-moda-textiles.php#galeria-peru-moda-mostrar" style="text-decoration:none;color:black;"><img src="img/trayectoria/1/rk-trayectoria-arteymoda-thumbs.jpg"><p>PERÚ MODA Y TÉXTILES</p></a></div>
 
-					<div class="cuadro-trayectoria"><a href="#" style="text-decoration:none;color:black;"><img src="img/trayectoria/2/arteymoda-thumbs.jpg"><p>ARTE Y MODA</p></a></div>
+					<div class="cuadro-trayectoria"><a href="trayectoria-arte-moda.php#galeria-arte-moda-mostrar" style="text-decoration:none;color:black;"><img src="img/trayectoria/2/arteymoda-thumbs.jpg"><p>ARTE Y MODA</p></a></div>
 
 					<div class="cuadro-trayectoria"><a href="#" style="text-decoration:none;color:black;"><img src="img/trayectoria/3/peru-moda-rk-2015-thumbs.jpg"><p>PASARELA MERCEDEZ BENZ PERÚ MODA</p></a></div>
 					
-					<div class="cuadro-trayectoria"><a href="#" style="text-decoration:none;color:black;"><img src="img/trayectoria/4/ethical-rk-thumbs.jpg"><p>PASARELA ETHICAL FASHION PARIS</p></a></div>
+					<div class="cuadro-trayectoria"><a href="trayectoria-pasarela-ethical.php#galeria-pasarela-ethical-mostrar" style="text-decoration:none;color:black;"><img src="img/trayectoria/4/ethical-rk-thumbs.jpg"><p>PASARELA ETHICAL FASHION PARIS</p></a></div>
 
-					<div class="cuadro-trayectoria"><a href="#" style="text-decoration:none;color:black;"><img src="img/trayectoria/5/rk-lanzamiento-marca-thumbs.jpg"><p>LANZAMIENTO ROCHI KAHN</p></a></div>
+					<div class="cuadro-trayectoria"><a href="trayectoria-lanzamiento-rochi.php#galeria-lanzamiento-rochi-mostrar" style="text-decoration:none;color:black;"><img src="img/trayectoria/5/rk-lanzamiento-marca-thumbs.jpg"><p>LANZAMIENTO ROCHI KAHN</p></a></div>
 
 				</div>
 				

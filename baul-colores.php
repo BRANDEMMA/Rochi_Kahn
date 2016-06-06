@@ -99,43 +99,48 @@
 		<div class="contenedor-articulo">
 			<div class="izquierda-articulo">
 				<div class="presentacion-articulo">
-					<img id="tentacion-presentacion-1" src="img/articulos/articulos.jpg" >
-					<img id="tentacion-presentacion-2" style="display:none;" src="img/articulos/articulos2.jpg">
-					<img id="tentacion-presentacion-3" style="display:none;" src="img/articulos/articulos3.jpg">
+					<img src="img/productos/versatil/cartera-rk-versatil-0001.jpg">
+					<!-- <img id="tentacion-presentacion-2" style="display:none;" src="img/articulos/articulos2.jpg">
+					<img id="tentacion-presentacion-3" style="display:none;" src="img/articulos/articulos3.jpg"> -->
+
 				</div>
+				<!--
 				<div class="miniaturas-articulos">
-					<a id="tentacion-miniatura-1" style="cursor:pointer;"><img src="img/articulos/articulos-tentacion-1.jpg"></a>
-					<a id="tentacion-miniatura-2" style="cursor:pointer;"><img src="img/articulos/articulos-tentacion-2.jpg"></a>
-					<a id="tentacion-miniatura-3" style="cursor:pointer;"><img src="img/articulos/articulos-tentacion-3.jpg"></a>
+					<a id="tentacion-miniatura-1" style="cursor:pointer;"><img src="img/productos/seduce-color/cartera-rk-seduce-color-0004.jpg"></a>
+					<a id="tentacion-miniatura-2" style="cursor:pointer;"><img src="img/productos/seduce-color/cartera-rk-seduce-color-0004.jpg"></a>
+					<a id="tentacion-miniatura-3" style="cursor:pointer;"><img src="img/productos/seduce-color/cartera-rk-seduce-color-0004.jpg"></a>
 					<div class="clear"></div>
 				</div>
+				-->
 				<div class="clear"></div>
 				<div class="texto-articulos-izquierda">
 					<p>* Texto que explica que la cara y la contrata cara nunca son iguales.</p>
 					<p>COMPLETA LA COLECCIÓN</p>
 				</div>
 				<div class="otros-articulos">
-					<a href=""><img src="img/articulos/articulos-tentacion-4.jpg"></a>
-					<a href=""><img src="img/articulos/articulos-tentacion-5.jpg"></a>
-					<a href=""><img src="img/articulos/articulos-tentacion-6.jpg"></a>
+					<a href="flores-tonos-romanticos-verdes.php"><img src="img/productos/seduce-color/cartera-rk-seduce-color-0001.jpg"></a>
+					<a href="dorado-negro-italiano.php"><img src="img/productos/seduce-color/cartera-rk-seduce-color-0002.jpg"></a>
+					<a href="flores-encendidas-italiano.php"><img src="img/productos/seduce-color/cartera-rk-seduce-color-0003.jpg"></a>
 					<div class="clear"></div>
 				</div>
-				<a class="boton" href=""><i class="fa fa-caret-left"></i>VOLVER</a>								
+				<a class="boton" href="javascript:history.back(-1);"><i class="fa fa-caret-left"></i>VOLVER</a>								
 			</div>
 			<div class="derecha-articulo">
-				<p class="titulo-derecha-articulo">FLORES Y TONOS ROMATICOS VERDES</p>
+				<p class="titulo-derecha-articulo">BAUL COLORES</p>
 				<div class="descripcion-articulo">
-					<p>35.0 x 28.0 x 15 (largo x alto x ancho)<br>
-					Inmaculados paños de cuero blanco en complicidad con cuero foreado en tonos, un romantico duo de estacion con sol.<br>
-					Broche imantado en bronce<br>
-					Doble asa para el hombro o mano<br>
-					Argollas redondas en bronce<br>
-					Forro interior tono hueso<br>
-					3 bolcillos interinos, 1 con cierre.</p>
+					<p>Medidas: 35x 20x 15 y 20 (largo x alto x ancho y asas)<br>
+					Precio: 1000 soles – asa adicionales 300 soles<br>
+					Opciones en cueros color entero.<br>
+					Cierre en boca principal.<br>
+					Doble asa para el hombro o mano.<br>
+					Salidas de asas en niquel o bronce<br>
+					Forro interior en tono color.<br>
+					3 bolcillos internos, 1 con cierre.<br>
+					Placa marca niquel o bronce</p>
 					<p><span>S/ 1000 Soles</span></p>
 					<div class="botones">
-						<a href=""><i class="fa fa-shopping-cart"></i>COMPRAR</a>
-						<a href=""><i class="fa fa-share-alt"></i>COMPARTE</a>
+						<a href="#solicitar"><i class="fa fa-shopping-cart"></i>COMPRAR</a>
+						<a href=""><i class="fa fa-scissors" aria-hidden="true"></i>HACER</a>
 						<a href=""><i class="fa fa-facebook"></i></a>
 						<a href=""><i class="fa fa-twitter"></i></a>
 						<a href=""><i class="fa fa-whatsapp"></i></a>
@@ -148,22 +153,35 @@
 					</p>
 					<a href=""><i class="fa fa-mobile"></i>(511) 985 047 810</a>
 				</div>
-				<div class="formulario-articulo">
+				<div class="formulario-articulo" id="solicitar">
 					<p>SOLICÍTALA AHORA.</p>
-					<form method="POST" action="enviar.php">
-						<label>NOMBRE</label><input name="nombre" type="text" required><br><br>
-						<label>TELÉFONO</label><input name="telf" type="tel" required><br><br>
-						<label>EMAIL</label><input name="email" type="email" required><br><br>
-						<label>MENSAJE</label><textarea name="mensj" rows="4" required></textarea><br><br>
-						<input class="boton-enviar-2" type="submit" value="ENVIAR">
+					<form class="form-main" name="ajax-form" id="ajax-form" method="POST" action="enviar.php">
+						<div id="ajaxsuccess">*El Email ha sido enviado satisfactoriamente.*</div><br>
+						<label>NOMBRE</label><input name="nombre" id="nombre" type="text"><br>
+						<div class="error" id="err-nombre">*Por favor introduce tu nombre*</div><br>
+						<label>TELÉFONO</label><input name="telf" id="telefono" type="tel"><br>
+						<div class="error" id="err-telefono">*Por favor introduce tu número teléfonico*</div><br>
+						<label>EMAIL</label><input name="email" id="telefono" type="email"><br>
+						<div class="error" id="err-email">*Por favor introduce tu e-mail*</div>
+				       	<div class="error" id="err-emailvld">*El formato de E-mail no es valido*</div><br>
+						<label>MENSAJE</label><textarea name="mensaje" id="mensaje" rows="4"></textarea><br>
+						<div class="error" id="err-mensaje">*Por favor escribe un mensaje*</div><br>
+						<div class="error" id="err-form">*Hubo un problema al validar el formulario por favor verifica!*</div>
+						<div class="error" id="err-timedout">*El tiempo de conexión con el servidor a expirado!*</div>
+						<div class="error" id="err-state"></div><br>
+						<button id="send" class="btn btn-primary boton-enviar-2">ENVIAR</button>
+						<!-- <input class="boton-enviar" type="submit" value="ENVIAR"> -->
 					</form>
+					<script type="text/javascript" src="js/jquery-1.8.3.min.js"></script>
+					<script type="text/javascript" src="js/bootstrap.min.js"></script>
+					<script type="text/javascript" src="js/functions.js"></script>
 				</div>
 			</div>
 			<div class="clear"></div>
 		</div>
 
 		<?php
-			include 'pie-pagina.php'
+			include 'pie-pagina2.php'
 		?>
 	</div>
 </body>

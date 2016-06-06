@@ -52,6 +52,7 @@
 <meta name="msapplication-TileColor" content="#ffffff">
 <meta name="msapplication-TileImage" content="favicon/rk144.png">
 <meta name="theme-color" content="#ffffff">
+
 </head>
 
 <body>

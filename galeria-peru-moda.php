@@ -1,7 +1,7 @@
 <?php
 ?>	
 	<div class="link"><i class="fa fa-caret-right"></i>PERÚ MODA Y TÉXTILES</div>
-	<ul class="submenu">
+	<ul class="submenu" id="galeria-peru-moda-mostrar">
 		<div class="titulo-galeria-trayectoria"><img src="img/contacto/linea-corta.gif"><p>PERÚ MODA 2014</p></div>
 		<div class="img-trayectoria-galeria">
 			<img src="img/trayectoria//1/rk-arteymoda-promperu.jpg">

@@ -982,7 +982,7 @@ color: gray;
 
 /*--============     ESTILOS DE EDICIÓN LIMITADA EEH ============--*/
 p.edicion{
-	width: 60%;
+	width: 90%;
 	text-align: center;
     font-family: "calibri_light";
     font-style: italic;
@@ -1067,7 +1067,9 @@ p.edicion{
 	padding-right: 10px;
 }
 .contenedor-productos .submenu{
+	margin: 0 auto;
 	padding: 0;
+	width: 70%;
 }
 .contenedor-productos .submenu li{
 	border-bottom: 1px solid rgba(132,129,129,0.8);
@@ -1567,6 +1569,10 @@ p.edicion{
 	list-style: none;
 	padding: 0;
 }
+.galeria-trayectoria .submenu{
+	margin: 0 auto;
+	width: 85%;
+}
 .galeria-trayectoria .link{
 	font-family: "calibri_normal";
 	margin-bottom: 2%;
@@ -1578,7 +1584,6 @@ p.edicion{
 }
 .titulo-galeria-trayectoria{
 	display: flex;
-	margin-left: 8%;
 	width: 100%;
 }
 .titulo-galeria-trayectoria img{
@@ -1644,8 +1649,8 @@ p.edicion{
 	width: 25%;
 }
 .miniaturas-articulos a:nth-child(2) img{
-	margin-left: 12%;
-	margin-right: 12%;
+	margin-left: 5%;
+	margin-right: 5%;
 }
 .texto-articulos-izquierda{
 	margin: 0 auto;
@@ -1669,11 +1674,11 @@ p.edicion{
 }
 .otros-articulos img{
 	float: left;
-	width: 25%;
+	width: 30%;
 }
 .otros-articulos a:nth-child(2) img{
-	margin-left: 12%;
-	margin-right: 12%;
+	margin-left: 5%;
+	margin-right: 5%;
 }
 .izquierda-articulo a{
 	color: black;

@@ -4,9 +4,9 @@
 <div class="menu-izquierda">
 	<nav>
 		<ul>
-			<li><a href="edicion-limitada.php">EDICIÓN LIMITADA</a></li>
-			<li><a href="">EXPERIENCIAS</a></li>
-			<li><a href="trayectoria.php">TRAYECTORIA</a></li>
+			<li><a href="index.php#izquierda-edicion">EDICIÓN LIMITADA</a></li>
+			<li><a href="index.php#derecha-experiencias">EXPERIENCIAS</a></li>
+			<li><a href="index.php#trayectoria">TRAYECTORIA</a></li>
 		</ul>
 	</nav>
 </div>
@@ -17,7 +17,7 @@
 	<div class="continuacion">
 		<nav>
 			<ul>
-				<li><a href="">MEDIOS</a></li>
+				<li><a href="medios.php">MEDIOS</a></li>
 				<li><a href="#contacto">CONTACTO</a></li>
 			</ul>
 		</nav>
@@ -38,10 +38,10 @@
 	</label>
 	<nav class="menu">
 		<ul class="re">
-			<li><a href="edicion-limitada.php">EDICIÓN LIMITADA</a></li>
-			<li><a href="">EXPERIENCIAS</a></li>
-			<li><a href="trayectoria.php">TRAYECTORIA</a></li>
-			<li><a href="">MEDIOS</a></li>
+			<li><a href="index.php#izquierda-edicion">EDICIÓN LIMITADA</a></li>
+			<li><a href="index.php#derecha-experiencias">EXPERIENCIAS</a></li>
+			<li><a href="index.php#trayectoria">TRAYECTORIA</a></li>
+			<li><a href="medios.php">MEDIOS</a></li>
 			<li><a href="#contacto">CONTACTO</a></li>
 		</ul>
 	</nav>

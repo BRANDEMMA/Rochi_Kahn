@@ -10,25 +10,25 @@
 
 					</p>
 						<li>
-							<a href="#"><img src="img/productos/versatil/cartera-rk-versatil-0001.jpg">
+							<a href="baul-colores.php"><img src="img/productos/versatil/cartera-rk-versatil-0001.jpg">
 								<p class="titulo-articulo-producto">BAUL COLORES </p>
 								<i class="fa fa-caret-right" style="transform:none;font-size:0.8em;float:left;margin-right:5px;"></i><p class="subtitulo-articulo-producto">001RK-VE</p>
 							</a>
 						</li>
 						<li>
-							<a href="#"><img src="img/productos/versatil/cartera-rk-versatil-0002.jpg">
+							<a href="baul-bolas-r-a.php"><img src="img/productos/versatil/cartera-rk-versatil-0002.jpg">
 								<p class="titulo-articulo-producto">BAUL BOLAS R Y A</p>
 								<i class="fa fa-caret-right" style="transform:none;font-size:0.8em;float:left;margin-right:5px;"></i><p class="subtitulo-articulo-producto">002RK-VE</p>
 							</a>
 						</li>
 						<li>
-							<a href="#"><img src="img/productos/versatil/cartera-rk-versatil-0003.jpg">
+							<a href="baul-bolas-r.php"><img src="img/productos/versatil/cartera-rk-versatil-0003.jpg">
 								<p class="titulo-articulo-producto">BAUL BOLAS R</p>
 								<i class="fa fa-caret-right" style="transform:none;font-size:0.8em;float:left;margin-right:5px;"></i><p class="subtitulo-articulo-producto">003RK-VE</p>
 							</a>
 						</li>
 						<li>
-							<a href="#"><img src="img/productos/versatil/cartera-rk-versatil-0004.jpg">
+							<a href="baul-bolas-f-v.php"><img src="img/productos/versatil/cartera-rk-versatil-0004.jpg">
 								<p class="titulo-articulo-producto">BAUL BOLAS F Y V</p>
 								<i class="fa fa-caret-right" style="transform:none;font-size:0.8em;float:left;margin-right:5px;"></i><p class="subtitulo-articulo-producto">004RK-VE</p>
 							</a>
