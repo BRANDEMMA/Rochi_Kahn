@@ -1129,6 +1129,13 @@ p.edicion{
 /*--============================================================
 	ESTILOS DE LA SECCION "DISEÑA TU MOMENTO" (INICIA)
 =============================================================--*/
+
+
+.espacio-up-down{
+
+	padding-top: 25px;
+
+}
 .disena-tu-momento{
 	border-bottom: 1px solid rgba(132,129,129,0.8);
 	display: flex;

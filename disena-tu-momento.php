@@ -294,11 +294,13 @@
 				Suspendisse a ipsum non erat eleifend blandit vel et enim. Vivamus varius tellus eros, id aliquam neque ultricies nec. Suspendisse ultrices mauris in est laoreet pretium in a turpis. Ut vitae diam tincidunt, sodales mi ultricies, dictum orci. Aliquam nunc risus, aliquet eget justo a, dignissim sollicitudin lacus. Praesent pellentesque nisi tristique urna laoreet vulputate. Vestibulum eu enim bibendum, efficitur enim mollis, blandit sapien. Nam quis nulla porta, pharetra turpis eu, gravida ante. In facilisis pellentesque arcu non pretium. Fusce eros magna, congue nec ornare non, euismod eget lacus. Vivamus at commodo nisl.</p>
 			</div>
 		</div>
+
+	
 		<div class="img-disena">
 			<img src="img/disena-tu-momento/traslado.jpg">
 			<div class="texto-descriptivo">
 				<h5>EL TRASLADO</h5>
-				<p>De la persona que queremos sorprendera bordo de un auto exclusivo para el momento BMW</p>
+				<p>De la persona que queremos sorprender abordo de un auto exclusivo para el momento BMW</p>
 			</div>
 			<div id="ver-mas4"><a id="mas4"><p>CONSIDERACIONES GENERALES</p><img src="img/prensa/ver-mas.gif"></a></div>
 			<div id="ver-menos4"><a id="menos4"><p>CONSIDERACIONES GENERALES</p><img src="img/prensa/ver-menos.gif"></a></div>
@@ -315,8 +317,8 @@
 				<img id="mas-detalles-locacion-1" src="img/disena-tu-momento/velero-presentacion.jpg">
 				<img id="mas-detalles-locacion-2" src="img/disena-tu-momento/traslado-presentacion.jpg">
 				<div class="texto-descriptivo2">
-					<h5>LA LOCACIÓN</h5>
-					<p>De la persona que queremos sorprendera bordo de un auto exclusivo para el momento BMW</p>
+					<h5>EL LUGAR</h5>
+					<p>Te ofrecemos dos opciones; en la ciudad  HOTEL B, en alta mar navegando en un Velero</p>
 				</div>
 			</div>
 			<div class="clear"></div>
