@@ -335,9 +335,9 @@
 					<div class="cuadro-trayectoria"><a href="#" style="text-decoration:none;color:black;"><img src="img/trayectoria/3/peru-moda-rk-2015-thumbs.jpg"><p>PASARELA MERCEDEZ BENZ PERÚ MODA</p></a></div>
 					
 					<div class="cuadro-trayectoria"><a href="trayectoria-pasarela-ethical.php#galeria-pasarela-ethical-mostrar" style="text-decoration:none;color:black;"><img src="img/trayectoria/4/ethical-rk-thumbs.jpg"><p>PASARELA ETHICAL FASHION PARIS</p></a></div>
-
+<!--
 					<div class="cuadro-trayectoria"><a href="trayectoria-lanzamiento-rochi.php#galeria-lanzamiento-rochi-mostrar" style="text-decoration:none;color:black;"><img src="img/trayectoria/5/rk-lanzamiento-marca-thumbs.jpg"><p>LANZAMIENTO ROCHI KAHN</p></a></div>
-
+-->
 				</div>
 				
 			</div>
