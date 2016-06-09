@@ -257,20 +257,18 @@
 		<div class="disena-tu-momento">
 			<div class="logo2">
 				<img src="img/disena-tu-momento/disena-tu-momento-logo.gif">
-				<div id="ver-mas2"><a id="mas2"><p>CONSIDERACIONES GENERALES</p><img src="img/prensa/ver-mas.gif"></a></div>
-				<div id="ver-menos2"><a id="menos2"><p>CONSIDERACIONES GENERALES</p><img src="img/prensa/ver-menos.gif"></a></div>
+				<div id="ver-mas2"><a id="mas2"><p>DISEÑA TU MOMENTO</p><img src="img/prensa/ver-mas.gif"></a></div>
+				<div id="ver-menos2"><a id="menos2"><p>DISEÑA TU MOMENTO</p><img src="img/prensa/ver-menos.gif"></a></div>
 			</div>
 			<div class="clear"></div>
 		</div>
 		<div id="consideraciones-generales">
 			<div class="texto-consideraciones">
-				<div class="titulo-consideraciones"><img src="img/prensa/ver-menos.gif"><p>CONSIDERACIONES GENERALES</p></div>
+				<div class="titulo-consideraciones"><img src="img/prensa/ver-menos.gif"><p>DISEÑA TU MOMENTO</p></div>
 				<div class="p-consideraciones">
 					<p>
-						- Se realiza el diseño y reserva del servicio mínimo 20 días antes de la fecha de celebración. (Tiempo de  elaboración y coordinación).<br><br>
-						-  El diseño es elegido de propuestas presentadas por Rochi Kahn, colores, cueros, pieles y texturas pueden elegirse según catálogo de la diseñadora. (Uno o varios diseños).<br><br>
-						- El traslado es en un auto BMW.<br><br>
-						- El lugar elegido, ciudad (almuerzo o cena para dos) o alta mar (paquete especial 4 horas navegando, capacidad hasta 8 personas). 
+						Es un nuevo concepto de servicio, que involucra la experiencia de entregar y recibir un diseño de cartera o bolso hecho por Rochi Kahn como un regalo especial,  una propuesta diferente y única que permite sorprender a quien tu quieras.  Tienes:
+
 					</p>
 				</div>
 			</div>
@@ -287,11 +285,12 @@
 			<div id="ver-mas3"><a id="mas3"><p>CONSIDERACIONES GENERALES</p><img src="img/prensa/ver-mas.gif"></a></div>
 			<div id="ver-menos3"><a id="menos3"><p>CONSIDERACIONES GENERALES</p><img src="img/prensa/ver-menos.gif"></a></div>
 			<div id="texto-desarrollo1">
-				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc mattis quam sit amet lacus interdum porttitor. Nunc nec ex non enim mollis lobortis. Curabitur tristique varius diam non ullamcorper. Pellentesque vel ipsum id elit pharetra sagittis. Fusce et ultrices lectus. Fusce purus eros, malesuada eget bibendum eu, tempor non tortor. In hac habitasse platea dictumst. Proin ut turpis non neque lobortis porta. Donec fringilla ante et sem consequat venenatis id ac purus. In orci purus, tempus ac iaculis vitae, luctus at orci.<br><br>
-
-				Maecenas purus diam, sollicitudin vel scelerisque ac, posuere nec felis. Suspendisse mattis nisl sed dolor vestibulum vestibulum. Mauris pulvinar vel metus nec tempor. In mattis dignissim sem, ut euismod sapien fermentum ac. Vestibulum bibendum nisl sed velit sollicitudin interdum dictum a arcu. Mauris pharetra tellus at porta vehicula. Vestibulum ut nibh sed justo scelerisque tincidunt sit amet ut libero. Suspendisse maximus magna nunc, sit amet rhoncus nunc auctor eget. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.<br><br>
-
-				Suspendisse a ipsum non erat eleifend blandit vel et enim. Vivamus varius tellus eros, id aliquam neque ultricies nec. Suspendisse ultrices mauris in est laoreet pretium in a turpis. Ut vitae diam tincidunt, sodales mi ultricies, dictum orci. Aliquam nunc risus, aliquet eget justo a, dignissim sollicitudin lacus. Praesent pellentesque nisi tristique urna laoreet vulputate. Vestibulum eu enim bibendum, efficitur enim mollis, blandit sapien. Nam quis nulla porta, pharetra turpis eu, gravida ante. In facilisis pellentesque arcu non pretium. Fusce eros magna, congue nec ornare non, euismod eget lacus. Vivamus at commodo nisl.</p>
+				<p><br><br>
+						- Se realiza el diseño y reserva del servicio mínimo 20 días antes de la fecha de celebración. (Tiempo de  elaboración y coordinación).<br><br>
+						-  El diseño es elegido de propuestas presentadas por Rochi Kahn, colores, cueros, pieles y texturas pueden elegirse según catálogo de la diseñadora. (Uno o varios diseños).<br><br>
+						- El traslado es en un auto BMW.<br><br>
+						- El lugar elegido, ciudad (almuerzo o cena para dos) o alta mar (paquete especial 4 horas navegando, capacidad hasta 8 personas). 
+					</p>
 			</div>
 		</div>
 
@@ -302,15 +301,7 @@
 				<h5>EL TRASLADO</h5>
 				<p>De la persona que queremos sorprender abordo de un auto exclusivo para el momento BMW</p>
 			</div>
-			<div id="ver-mas4"><a id="mas4"><p>CONSIDERACIONES GENERALES</p><img src="img/prensa/ver-mas.gif"></a></div>
-			<div id="ver-menos4"><a id="menos4"><p>CONSIDERACIONES GENERALES</p><img src="img/prensa/ver-menos.gif"></a></div>
-			<div id="texto-desarrollo2">
-				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc mattis quam sit amet lacus interdum porttitor. Nunc nec ex non enim mollis lobortis. Curabitur tristique varius diam non ullamcorper. Pellentesque vel ipsum id elit pharetra sagittis. Fusce et ultrices lectus. Fusce purus eros, malesuada eget bibendum eu, tempor non tortor. In hac habitasse platea dictumst. Proin ut turpis non neque lobortis porta. Donec fringilla ante et sem consequat venenatis id ac purus. In orci purus, tempus ac iaculis vitae, luctus at orci.<br><br>
-
-				Maecenas purus diam, sollicitudin vel scelerisque ac, posuere nec felis. Suspendisse mattis nisl sed dolor vestibulum vestibulum. Mauris pulvinar vel metus nec tempor. In mattis dignissim sem, ut euismod sapien fermentum ac. Vestibulum bibendum nisl sed velit sollicitudin interdum dictum a arcu. Mauris pharetra tellus at porta vehicula. Vestibulum ut nibh sed justo scelerisque tincidunt sit amet ut libero. Suspendisse maximus magna nunc, sit amet rhoncus nunc auctor eget. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.<br><br>
-		
-				Suspendisse a ipsum non erat eleifend blandit vel et enim. Vivamus varius tellus eros, id aliquam neque ultricies nec. Suspendisse ultrices mauris in est laoreet pretium in a turpis. Ut vitae diam tincidunt, sodales mi ultricies, dictum orci. Aliquam nunc risus, aliquet eget justo a, dignissim sollicitudin lacus. Praesent pellentesque nisi tristique urna laoreet vulputate. Vestibulum eu enim bibendum, efficitur enim mollis, blandit sapien. Nam quis nulla porta, pharetra turpis eu, gravida ante. In facilisis pellentesque arcu non pretium. Fusce eros magna, congue nec ornare non, euismod eget lacus. Vivamus at commodo nisl.</p>
-			</div>
+			
 		</div>
 		<div id="locacion">
 			<div class="presentacion">

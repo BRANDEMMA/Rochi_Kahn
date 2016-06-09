@@ -1,10 +1,10 @@
 <!DOCTYPE HTML>
-<html>
+<html lang="es">
 
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-	<title>ROCHI KAHN</title>
+	<title>ROCHI KAHN - TRAYECTORIA</title>
 
 <!--================== 	ENLACE HOJA DE ESTILOS (INICIA)  =====================-->
 
@@ -100,7 +100,12 @@
 				<ul id="accordion" class="accordion">
 					<li>
 						<?php
-							include 'galeria-peru-moda.php'
+							include 'peru-moda-y-textiles.php'
+						?>
+					</li>
+					<li>
+						<?php
+							include 'pasarela-mercedez-benz-2014.php'
 						?>
 					</li>
 					<li>
@@ -113,11 +118,7 @@
 							include 'galeria-pasarela-ethical.php'
 						?>
 					</li>
-					<li>
-						<?php
-							include 'galeria-lanzamiento-rochi.php'
-						?>
-					</li>
+					
 				</ul>
 				<script src="js/acordion.js"></script>
 			</div>
