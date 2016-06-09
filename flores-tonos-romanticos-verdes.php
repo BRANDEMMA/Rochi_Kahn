@@ -30,6 +30,11 @@
 
 <!--================== 	ENLACE ICONO (TERMINA)  =====================-->
 
+
+
+
+
+
 <!--================== 	SCRIPT PARA MOSTRAR Y OCULTAR "GALERIA ARTICULO" (INICIA)  =====================-->
 
 	<script type="text/javascript">
@@ -98,10 +103,10 @@
 		
 		<div class="contenedor-articulo">
 			<div class="izquierda-articulo">
-				<div class="presentacion-articulo">
-					<img id="tentacion-presentacion-1" src="img/productos/seduce-color/cartera-rk-seduce-color-0001-1.jpg" >
-					<img id="tentacion-presentacion-2" style="display:none;" src="img/productos/seduce-color/cartera-rk-seduce-color-0001-2.jpg">
-					<img id="tentacion-presentacion-3" style="display:none;" src="img/productos/seduce-color/cartera-rk-seduce-color-0001-3.jpg">
+				<div  class="presentacion-articulo">
+					<img  id="tentacion-presentacion-1" src="img/productos/seduce-color/cartera-rk-seduce-color-0001-1.jpg" >
+					<img  id="tentacion-presentacion-2" style="display:none;" src="img/productos/seduce-color/cartera-rk-seduce-color-0001-2.jpg">
+					<img   id="tentacion-presentacion-3" style="display:none;" src="img/productos/seduce-color/cartera-rk-seduce-color-0001-3.jpg">
 				</div>
 				<div class="miniaturas-articulos">
 					<a id="tentacion-miniatura-1" style="cursor:pointer;"><img src="img/productos/seduce-color/cartera-rk-seduce-color-0001-1.jpg"></a>
@@ -111,27 +116,25 @@
 				</div>
 				<div class="clear"></div>
 				<div class="texto-articulos-izquierda">
-					<p>* Texto que explica que la cara y la contrata cara nunca son iguales.</p>
-					<p>COMPLETA LA COLECCIÓN</p>
-				</div>
-				<div class="otros-articulos">
-					<a href="dorado-negro-italiano.php"><img src="img/productos/seduce-color/cartera-rk-seduce-color-0002.jpg"></a>
-					<a href="flores-encendidas-italiano.php"><img src="img/productos/seduce-color/cartera-rk-seduce-color-0003.jpg"></a>
-					<a href="flores-tonos-romanticos-rojos-azules.php"><img src="img/productos/seduce-color/cartera-rk-seduce-color-0004.jpg"></a>
-					<div class="clear"></div>
+				<p>
+					
+					<br><br>
+				</p>
 				</div>
 				<a class="boton" href="javascript:history.back(-1);"><i class="fa fa-caret-left"></i>VOLVER</a>								
 			</div>
 			<div class="derecha-articulo">
 				<p class="titulo-derecha-articulo">FLORES Y TONOS ROMATICOS VERDES</p>
 				<div class="descripcion-articulo">
-					<p>35 x 28.0 x 15 y 20a(largo x alto x ancho y alto asas)<br>
-					Inmaculados paños de cuero blanco en complicidad con cuero foreado en tonos, un romantico duo de estacion con sol.<br>
-					Broche imantado en bronce<br>
-					Doble asa para el hombro o mano<br>
-					Argollas redondas en bronce<br>
-					Forro interior tono hueso<br>
-					3 bolcillos interinos, 1 con cierre.</p>
+					<p>
+					35 x 28 x 15 x 20 cm<br>
+					(Largo x Alto x Ancho x Alto Asas)<br><br>
+					Inmaculados paños de cuero blanco en complicidad con cuero floreado en tonos, un romántico dúo de estación con sol.<br><br>
+					- Broche imantado en bronce<br>
+					- Doble asa para el hombro o mano<br>
+					- Argollas redondas en bronce<br>
+					- Forro interior tono hueso<br>
+					- 3 bolcillos interinos, 1 con cierre.<br></p>
 					<p><span>S/ 1000 Soles</span></p>
 					<div class="botones">
 						<a href="#solicitar"><i class="fa fa-shopping-cart"></i>COMPRAR</a>

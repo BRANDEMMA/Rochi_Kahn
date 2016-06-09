@@ -4,7 +4,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-	<title>ROCHI KAHN - Bolso - Cartera - DORADO Y NEGRO ITALIANO</title>
+	<title>ROCHI KAHN</title>
 
 <!--================== 	ENLACE HOJA DE ESTILOS (INICIA)  =====================-->
 
@@ -20,7 +20,8 @@
 
 <!--================== 	SCRIPT PARA SLIDER (INICIA)  =====================-->
 
-	<script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
+		<script src='js/jquery-1.8.3.min.js'></script>
+	<script src='js/jquery.elevatezoom.js'></script>
 
 <!--================== 	SCRIPT PARA SLIDER (TERMINA)  =====================-->
 
@@ -29,6 +30,11 @@
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
 
 <!--================== 	ENLACE ICONO (TERMINA)  =====================-->
+
+
+
+
+
 
 <!--================== 	SCRIPT PARA MOSTRAR Y OCULTAR "GALERIA ARTICULO" (INICIA)  =====================-->
 
@@ -64,6 +70,7 @@
 
 <!--================== 	SCRIPT PARA MOSTRAR Y OCULTAR "GALERIA ARTICULO" (TERMINA)  =====================-->
 
+
 <!-- FAVICON-->
 
 
@@ -98,38 +105,67 @@
 		
 		<div class="contenedor-articulo">
 			<div class="izquierda-articulo">
-				<div class="presentacion-articulo">
-					<img id="tentacion-presentacion-1" src="img/productos/seduce-color/cartera-rk-seduce-color-0002-1.jpg" >
-					<img id="tentacion-presentacion-2" style="display:none;" src="img/productos/seduce-color/cartera-rk-seduce-color-0002-2.jpg">
-					<img id="tentacion-presentacion-3" style="display:none;" src="img/productos/seduce-color/cartera-rk-seduce-color-0002-3.jpg">
+
+
+			<img id="zoom_03"  id="img_01" src="img/productos/prueba/small/image1.png" data-zoom-image="img/productos/prueba/small/image1.jpg"/>
+
+				<div id="gal1">
+				 
+				  <a href="#" data-image="img/productos/prueba/small/image1.png" data-zoom-image="img/productos/prueba/large/image1.jpg">
+				    <img id="img_01" src="img/productos/prueba/small/image1.png" />
+				  </a>
+
+				  <a href="#" data-image="small/image2.jpg" data-zoom-image="large/image2.jpg">
+				    <img id="img_01" src="thumb/image2.jpg" />
+				  </a>
+
+				  <a href="#" data-image="small/image3.jpg" data-zoom-image="large/image3.jpg">
+				    <img id="img_01" src="thumb/image3.jpg" />
+				  </a>
+
+				  <a href="#" data-image="small/image4.jpg" data-zoom-image="large/image4.jpg">
+				    <img id="img_01" src="thumb/image4.jpg" />
+				  </a>
+
+				</div>
+
+
+
+
+				<div  class="presentacion-articulo">
+					<img  id="tentacion-presentacion-1" src="img/productos/seduce-color/cartera-rk-seduce-color-0001-1.jpg" >
+					<img  id="tentacion-presentacion-2" style="display:none;" src="img/productos/seduce-color/cartera-rk-seduce-color-0001-2.jpg">
+					<img   id="tentacion-presentacion-3" style="display:none;" src="img/productos/seduce-color/cartera-rk-seduce-color-0001-3.jpg">
 				</div>
 				<div class="miniaturas-articulos">
-					<a id="tentacion-miniatura-1" style="cursor:pointer;"><img src="img/productos/seduce-color/cartera-rk-seduce-color-0002-1.jpg"></a>
-					<a id="tentacion-miniatura-2" style="cursor:pointer;"><img src="img/productos/seduce-color/cartera-rk-seduce-color-0002-2.jpg"></a>
-					<a id="tentacion-miniatura-3" style="cursor:pointer;"><img src="img/productos/seduce-color/cartera-rk-seduce-color-0002-3.jpg"></a>
+					<a id="tentacion-miniatura-1" style="cursor:pointer;"><img src="img/productos/seduce-color/cartera-rk-seduce-color-0001-1.jpg"></a>
+					<a id="tentacion-miniatura-2" style="cursor:pointer;"><img src="img/productos/seduce-color/cartera-rk-seduce-color-0001-2.jpg"></a>
+					<a id="tentacion-miniatura-3" style="cursor:pointer;"><img src="img/productos/seduce-color/cartera-rk-seduce-color-0001-3.jpg"></a>
 					<div class="clear"></div>
 				</div>
 				<div class="clear"></div>
 				<div class="texto-articulos-izquierda">
-					<p><br><br></p>
-					
+					<p>* Texto que explica que la cara y la contrata cara nunca son iguales.</p>
+					<p>COMPLETA LA COLECCIÓN</p>
 				</div>
-				
+				<div class="otros-articulos">
+					<a href="dorado-negro-italiano.php"><img src="img/productos/seduce-color/cartera-rk-seduce-color-0002.jpg"></a>
+					<a href="flores-encendidas-italiano.php"><img src="img/productos/seduce-color/cartera-rk-seduce-color-0003.jpg"></a>
+					<a href="flores-tonos-romanticos-rojos-azules.php"><img src="img/productos/seduce-color/cartera-rk-seduce-color-0004.jpg"></a>
+					<div class="clear"></div>
+				</div>
 				<a class="boton" href="javascript:history.back(-1);"><i class="fa fa-caret-left"></i>VOLVER</a>								
 			</div>
 			<div class="derecha-articulo">
-				<p class="titulo-derecha-articulo">DORADO Y NEGRO ITALIANO</p>
+				<p class="titulo-derecha-articulo">FLORES Y TONOS ROMATICOS VERDES</p>
 				<div class="descripcion-articulo">
-					<p>35 x 38 x 30 x 15<br> 
-					(Largo x Alto x Ancho x Alto Asas)<br>
-					Destello en la oscuridad, elegantes y doradas flores resaltan en el enigmatico y siempre deseado color negro, dos tonos de rigos en un cuero seductor.<br><br>
-					- Boca de cartera que desliza una onda<br>
-					- Cierre interior de boca, metalico bronce oro<br>
-					- Doble asa para el hombro o mano en cuero negro<br>
-					- Argollas redondas en bronce oro<br>
-					- Forro interior en tono<br>
-					- Base inferior en cuero negro.<br>
-					- 3 bolcillos interinos, 1 con cierre.<br></p>
+					<p>35 x 28.0 x 15 y 20a(largo x alto x ancho y alto asas)<br>
+					Inmaculados paños de cuero blanco en complicidad con cuero foreado en tonos, un romantico duo de estacion con sol.<br>
+					Broche imantado en bronce<br>
+					Doble asa para el hombro o mano<br>
+					Argollas redondas en bronce<br>
+					Forro interior tono hueso<br>
+					3 bolcillos interinos, 1 con cierre.</p>
 					<p><span>S/ 1000 Soles</span></p>
 					<div class="botones">
 						<a href="#solicitar"><i class="fa fa-shopping-cart"></i>COMPRAR</a>
@@ -168,6 +204,23 @@
 					<script type="text/javascript" src="js/jquery-1.8.3.min.js"></script>
 					<script type="text/javascript" src="js/bootstrap.min.js"></script>
 					<script type="text/javascript" src="js/functions.js"></script>
+
+					<script>
+					   
+
+
+
+	$("#zoom_03").elevateZoom({constrainType:"height", constrainSize:274, zoomType: "lens", containLensZoom: true, gallery:'gallery_01', cursor: 'pointer', galleryActiveClass: "active"}); 
+
+			//pass the images to Fancybox
+			$("#zoom_03").bind("click", function(e) {  
+			  var ez =   $('#zoom_03').data('elevateZoom');	
+				$.fancybox(ez.getGalleryList());
+			  return false;
+			});
+
+					</script>
+
 				</div>
 			</div>
 			<div class="clear"></div>

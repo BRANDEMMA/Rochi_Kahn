@@ -4,7 +4,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-	<title>ROCHI KAHN</title>
+	<title>ROCHI KAHN - Diseña tu Momento</title>
 
 <!--================== 	ENLACE HOJA DE ESTILOS (INICIA)  =====================-->
 
@@ -256,7 +256,7 @@
 
 		<div class="disena-tu-momento">
 			<div class="logo2">
-				<img src="img/disena-tu-momento/disena-tu-momento-logo.jpg">
+				<img src="img/disena-tu-momento/disena-tu-momento-logo.gif">
 				<div id="ver-mas2"><a id="mas2"><p>CONSIDERACIONES GENERALES</p><img src="img/prensa/ver-mas.gif"></a></div>
 				<div id="ver-menos2"><a id="menos2"><p>CONSIDERACIONES GENERALES</p><img src="img/prensa/ver-menos.gif"></a></div>
 			</div>
@@ -278,8 +278,10 @@
 		<div class="img-disena">
 			<img src="img/disena-tu-momento/diseno.jpg">
 			<div class="texto-descriptivo">
-				<h5>EL TRASLADO</h5>
-				<p>De la persona que queremos sorprendera bordo de un auto exclusivo para el momento BMW</p>
+				<h5>EL DISEÑO</h5>
+				<p>El Diseño  personalizado de una Cartera o Bolso con los mejores cueros y pieles a eleccion del cliente con la diseñadora. 
+				Un regalo de unica y especial edicion.
+				</p>
 			</div>
 			<div class="clear"></div>
 			<div id="ver-mas3"><a id="mas3"><p>CONSIDERACIONES GENERALES</p><img src="img/prensa/ver-mas.gif"></a></div>

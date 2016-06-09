@@ -22,6 +22,13 @@
 
 	<script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
 
+
+	<style type="text/css">
+		body { margin: 0px; font-family: "Trebuchet MS", Arial, Sans-Serif; font-size: 14px; }
+		a { color: #0066CC; text-decoration: none; }
+		a:hover { color: #CC0000; text-decoration: underline; }
+	</style>
+
 <!--================== 	SCRIPT PARA SLIDER (TERMINA)  =====================-->
 
 <!--================== 	ENLACE ICONO (INICIA)  =====================-->
@@ -87,7 +94,7 @@
 			<script src="js/slider.js"></script>
 		</div>
 
-		<div class="titulo-productos"><img class="img-productos-1"src="img/productos/linea-circulo.gif"><p class="p-productos">EDICIÓN LIMITADA</p><img class="img-productos-2" src="img/productos/circulo.gif"></div>
+		<div class="titulo-productos"><img class="img-productos-1" src="img/productos/linea-circulo.gif"><p class="p-productos">EDICIÓN LIMITADA</p><img class="img-productos-2" src="img/productos/circulo.gif"></div>
 
 		<div class="contenedor-productos">
 			<ul id="accordion" class="accordion">

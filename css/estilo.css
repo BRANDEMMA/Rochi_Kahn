@@ -29,6 +29,7 @@
 }
 
 /*--==================== ESTILOS GENERALES ========================--*/
+
 body{
 	color: black;
 	margin: 0;
@@ -41,6 +42,23 @@ body{
 	margin: 0 auto;
 	width: 90%;
 }
+
+
+
+
+
+
+
+
+
+
+ #gallery_01 img{border:2px solid white;}
+ 
+ /*Change the colour*/
+ .active img{border:2px solid #333 !important;}
+
+
+
 
 /*--============    ESTILOS DEL MENU (INICIO)  ============--*/
 header{
