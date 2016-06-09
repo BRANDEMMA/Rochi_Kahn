@@ -267,9 +267,9 @@
 				<div class="titulo-consideraciones"><img src="img/prensa/ver-menos.gif"><p>CONSIDERACIONES GENERALES</p></div>
 				<div class="p-consideraciones">
 					<p>
-						- Se realiza el diseño y reserva del servicio min 20 días antes de la fecha de celebración. (Tiempo de  elaboración y coordinación).<br><br>
-						-  El diseño es elegido de propuestas presentadas por Rochi Kahn, colores, cueros, pieles y texturas pueden   elegirse según  catálogo de la diseñadora. (Uno o varios diseños).<br><br>
-						- El traslado en un auto BMW.<br><br>
+						- Se realiza el diseño y reserva del servicio mínimo 20 días antes de la fecha de celebración. (Tiempo de  elaboración y coordinación).<br><br>
+						-  El diseño es elegido de propuestas presentadas por Rochi Kahn, colores, cueros, pieles y texturas pueden elegirse según catálogo de la diseñadora. (Uno o varios diseños).<br><br>
+						- El traslado es en un auto BMW.<br><br>
 						- El lugar elegido, ciudad (almuerzo o cena para dos) o alta mar (paquete especial 4 horas navegando, capacidad hasta 8 personas). 
 					</p>
 				</div>
@@ -359,9 +359,9 @@
 									</div>
 									<div id="img-miniatura-hotel">
 										<img id="img-miniatura-hotel-1" src="img/disena-tu-momento/traslado-miniatura.jpg">
-										<img id="img-miniatura-hotel-2" src="img/disena-tu-momento/traslado-miniatura.jpg">
-										<img id="img-miniatura-hotel-3" src="img/disena-tu-momento/traslado-miniatura.jpg">
-										<img id="img-miniatura-hotel-4" src="img/disena-tu-momento/traslado-miniatura.jpg">
+										<img id="img-miniatura-hotel-2" src="img/disena-tu-momento/traslado-miniatura2.jpg">
+										<img id="img-miniatura-hotel-3" src="img/disena-tu-momento/traslado-miniatura3.jpg">
+										<img id="img-miniatura-hotel-4" src="img/disena-tu-momento/traslado-miniatura4.jpg">
 									</div>
 								</li>
 								<div class="clear"></div>
@@ -373,14 +373,14 @@
 
 		<div class="galeria-disena">
 			<h3>Nuestros DTM</h3>
-			<a href="img/disena-tu-momento/velero.jpg" data-lightbox="example-set"><img src="img/disena-tu-momento/velero.jpg"></a>
-			<a href="img/disena-tu-momento/velero.jpg" data-lightbox="example-set"><img src="img/disena-tu-momento/velero.jpg"></a>
-			<a href="img/disena-tu-momento/velero.jpg" data-lightbox="example-set"><img src="img/disena-tu-momento/velero.jpg"></a>
-			<a href="img/disena-tu-momento/velero.jpg" data-lightbox="example-set"><img src="img/disena-tu-momento/velero.jpg"></a>
-			<a href="img/disena-tu-momento/velero.jpg" data-lightbox="example-set"><img src="img/disena-tu-momento/velero.jpg"></a>
-			<a href="img/disena-tu-momento/velero.jpg" data-lightbox="example-set"><img src="img/disena-tu-momento/velero.jpg"></a>
-			<a href="img/disena-tu-momento/velero.jpg" data-lightbox="example-set"><img src="img/disena-tu-momento/velero.jpg"></a>
-			<a href="img/disena-tu-momento/velero.jpg" data-lightbox="example-set"><img src="img/disena-tu-momento/velero.jpg"></a>
+			<a href="img/disena-tu-momento/madrina-1.jpg" data-lightbox="example-set"><img src="img/disena-tu-momento/madrina-1.jpg"></a>
+			<a href="img/disena-tu-momento/madrina-2.jpg" data-lightbox="example-set"><img src="img/disena-tu-momento/madrina-2.jpg"></a>
+			<a href="img/disena-tu-momento/madrina-3.jpg" data-lightbox="example-set"><img src="img/disena-tu-momento/madrina-3.jpg"></a>
+			<a href="img/disena-tu-momento/madrina-4.jpg" data-lightbox="example-set"><img src="img/disena-tu-momento/madrina-4.jpg"></a>
+			<a href="img/disena-tu-momento/pareja-1.jpg" data-lightbox="example-set"><img src="img/disena-tu-momento/pareja-1.jpg"></a>
+			<a href="img/disena-tu-momento/pareja-2.jpg" data-lightbox="example-set"><img src="img/disena-tu-momento/pareja-2.jpg"></a>
+			<a href="img/disena-tu-momento/pareja-5.jpg" data-lightbox="example-set"><img src="img/disena-tu-momento/pareja-5.jpg"></a>
+			<a href="img/disena-tu-momento/pareja-3.jpg" data-lightbox="example-set"><img src="img/disena-tu-momento/pareja-3.jpg"></a>
 			<script src="js/lightbox-plus-jquery.min.js"></script>
 		</div>
 
