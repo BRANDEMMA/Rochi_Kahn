@@ -1394,7 +1394,28 @@ p.edicion{
 }
 .presentacion{
 	margin: 0 auto;
+	position: relative;
 	width: 95%;
+}
+.texto-descriptivo2{
+	color: white;
+	font-family: "calibri_light";
+	left: 2%;
+	position: absolute;
+	text-align: left;
+	top: 47.5px;
+	width: 20%;
+}
+.texto-descriptivo2 h5{
+	font-family: "bell_regular";
+	font-size: 1em;
+	letter-spacing: 0.2em;
+	margin: 0;
+}
+.texto-descriptivo2 p{
+	font-size: 0.9em;
+	margin-top: 5px;
+	padding-left: 14px;
 }
 .presentacion img{
 	cursor: pointer; 

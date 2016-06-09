@@ -314,6 +314,10 @@
 			<div class="presentacion">
 				<img id="mas-detalles-locacion-1" src="img/disena-tu-momento/velero-presentacion.jpg">
 				<img id="mas-detalles-locacion-2" src="img/disena-tu-momento/traslado-presentacion.jpg">
+				<div class="texto-descriptivo2">
+					<h5>LA LOCACIÓN</h5>
+					<p>De la persona que queremos sorprendera bordo de un auto exclusivo para el momento BMW</p>
+				</div>
 			</div>
 			<div class="clear"></div>
 		</div>
