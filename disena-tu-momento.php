@@ -267,7 +267,7 @@
 				<div class="titulo-consideraciones"><img src="img/prensa/ver-menos.gif"><p>DISEÑA TU MOMENTO</p></div>
 				<div class="p-consideraciones">
 					<p>
-						Es un nuevo concepto de servicio, que involucra la experiencia de entregar y recibir un diseño de cartera o bolso hecho por Rochi Kahn como un regalo especial,  una propuesta diferente y única que permite sorprender a quien tu quieras.  Tienes:
+						Es un nuevo concepto, que involucra la experiencia de entregar y recibir un diseño de cartera o bolso hecho por Rochi Kahn como un regalo especial,  una propuesta diferente y única que permite sorprender a quien tu quieras.
 
 					</p>
 				</div>
@@ -319,11 +319,11 @@
 			<div class="titulo-locacion"><img class="img-locacion-1" src="img/disena-tu-momento/linea-circulo.gif"><p class="p-locacion">LA LOCACIÓN</p><img class="img-locacion-2" src="img/disena-tu-momento/circulo.gif"></div>
 			<ul id="accordion" class="accordion">
 
-
+<!--
 						<li>
 							<div class="link"><i class="fa fa-caret-right"></i>VELERO</div>
 							
-						<!-- Reirar cuando la galeria este lista
+						 Reirar cuando la galeria este lista
 							<ul class="submenu" id="velero">
 								<li>
 									<div id="img-grande-velero">
@@ -340,8 +340,8 @@
 									</div>
 								</li>
 								<div class="clear"></div>
-							</ul>-->
-						</li> 
+							</ul>
+						</li> -->
 						<div class="clear"></div>
 						<li>
 							<div class="link"><i class="fa fa-caret-right"></i>HOTEL B</div>
@@ -366,7 +366,7 @@
 					</ul>
 			<script src="js/acordion.js"></script>
 		</div>
-
+<!--
 		<div class="galeria-disena">
 			<h3>Nuestros DTM</h3>
 			<a href="img/disena-tu-momento/madrina-1.jpg" data-lightbox="example-set"><img src="img/disena-tu-momento/madrina-1.jpg"></a>
@@ -379,7 +379,7 @@
 			<a href="img/disena-tu-momento/pareja-3.jpg" data-lightbox="example-set"><img src="img/disena-tu-momento/pareja-3.jpg"></a>
 			<script src="js/lightbox-plus-jquery.min.js"></script>
 		</div>
-
+-->
 		<?php
 			include 'pie-pagina.php'
 		?>
