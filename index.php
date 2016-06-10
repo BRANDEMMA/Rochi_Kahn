@@ -70,6 +70,7 @@
 				$('#video3').hide();
 				$('#video4')[0].pause();
 				$('#video4').hide();
+				
 			});
 		});
 	</script>
@@ -84,6 +85,7 @@
 				$('#video3').hide();
 				$('#video4')[0].pause();
 				$('#video4').hide();
+				
 			});
 		});
 	</script>
@@ -98,6 +100,7 @@
 				$('#video2').hide();
 				$('#video4')[0].pause();
 				$('#video4').hide();
+				
 			});
 		});
 	</script>
@@ -112,6 +115,7 @@
 				$('#video2').hide();
 				$('#video3')[0].pause();
 				$('#video3').hide();
+			
 			});
 		});
 	</script>
@@ -122,6 +126,7 @@
 				$('#video1').show();
 				$('#video2').hide();
 				$('#video3').hide();
+				
 			});
 		});
 	</script>
@@ -132,6 +137,7 @@
 				$('#video2').show();
 				$('#video1').hide();
 				$('#video3').hide();
+				
 			});
 		});
 	</script>
@@ -142,6 +148,7 @@
 				$('#video3').show();
 				$('#video1').hide();
 				$('#video2').hide();
+			
 			});
 		});
 	</script>
@@ -365,6 +372,9 @@
 				<video id="video3" style="display:none;" poster="video/4/rk-video-empire-collection.jpg" controls>
 					<source src="video/4/video2.mp4"  type="video/mp4">
 				</video>
+				<video id="video4" style="display:none;" poster="video/5/rk-video-madre-dios.jpg" controls>
+					<source src="video/5/madre-de-dios.mp4"  type="video/mp4">
+				</video>
 				<div class="clear"></div>
 
 				<div class="contenedor-miniaturas-videos">
@@ -372,6 +382,7 @@
 					<img id="mostrar-video1" src="video/2/rk-video-pasarela-thumbs.jpg">
 					<img id="mostrar-video2" src="video/3/artesanos-cajamarca-thumbs.jpg">
 					<img id="mostrar-video3" src="video/4/empire-collection-thumbs.jpg">
+					<img id="mostrar-video4" src="video/5/rk-video-madre-dios-thumbs.jpg">
 				</div>
 
 				<!-- <div id="contenedor-slider-total">

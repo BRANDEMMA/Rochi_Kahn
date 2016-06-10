@@ -4,7 +4,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-	<title>ROCHI KAHN</title>
+	<title>ROCHI KAHN - BOlSO - CARTERA TELAR BLANCO Y NEGRO</title>
 
 <!--================== 	ENLACE HOJA DE ESTILOS (INICIA)  =====================-->
 
@@ -174,12 +174,12 @@
 					<p>28 x 48 x 25 x 25 - 45 cm<br>
 					(Alto x Largo x Ancho x Alto Asa Corta - Alto Asa Larga)<br><br>
 					Telares diseñados y hechos en la tecnica ancestral, se unen con cuero liso y apliques de cuero con diseño, un viajero con detalles por donde lo mires.<br><br>
-					Cierre en boca principal.<br>
-					Asas cortas y asa larga.<br>
-					Salidas de asas en niquel italianas.<br>
-					Forro interior en tono color.<br>
-					3 bolcillos internos, 1 con cierre.<br>
-					Placa marca niquel.</p>
+					- Cierre en boca principal.<br>
+					- Asas cortas y asa larga.<br>
+					- Salidas de asas en niquel italianas.<br>
+					- Forro interior en tono color.<br>
+					- 3 bolcillos internos, 1 con cierre.<br>
+					- Placa marca niquel.</p>
 					<p><span>S/ 1500 Soles</span></p>
 					<div class="botones">
 						<a href="#solicitar"><i class="fa fa-shopping-cart"></i>COMPRAR</a>
