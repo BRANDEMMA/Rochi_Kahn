@@ -171,7 +171,7 @@
 			<div class="derecha-articulo">
 				<p class="titulo-derecha-articulo">TULLPO</p>
 				<div class="descripcion-articulo">
-					<p>40 x 30 x 12 x 15<br>
+					<p>40 x 30 x 12 x 15 cm<br>
 					(Largo x Alto x Ancho x Alto Asas)<br><br>
 					Cartera en texturas cospiradas, el arte del cuero chanel empalmado con la piel, cruzados por dos frentes de telares preprarados en diseño y produccion solo para la colección. Una combinacion del clasico negro, la sobervia del rojo y la elegancia de un hueso entremezclados entre si para una pieza irrepetible.<br><br>
 					- Broche imantado en boca.<br>

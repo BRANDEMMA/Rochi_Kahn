@@ -171,7 +171,7 @@
 			<div class="derecha-articulo">
 				<p class="titulo-derecha-articulo">TELAR NB</p>
 				<div class="descripcion-articulo">
-					<p>28 x 48 x 25 x 25 - 45 <br>
+					<p>28 x 48 x 25 x 25 - 45 cm<br>
 					(Alto x Largo x Ancho x Alto Asa Corta - Alto Asa Larga)<br><br>
 					Telares diseñados y hechos en la tecnica ancestral, se unen con cuero liso y apliques de cuero con diseño, un viajero con detalles por donde lo mires.<br><br>
 					Cierre en boca principal.<br>

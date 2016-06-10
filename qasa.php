@@ -171,7 +171,7 @@
 			<div class="derecha-articulo">
 				<p class="titulo-derecha-articulo">QASA</p>
 				<div class="descripcion-articulo">
-					<p>40 x 30 x 12 x 15<br>
+					<p>40 x 30 x 12 x 15 cm<br>
 					(Largo x Alto x Ancho x Alto Asas)<br><br>
 					Cartera de tonalidades blancas entre el telar desarollado de manera especial para la colección, entremesclado con piel del mismo tono con destellos de negro y detalles en un cuero azulino despertando el color.<br><br>
 					- Cierre en boca principal.<br>

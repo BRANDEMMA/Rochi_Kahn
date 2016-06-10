@@ -171,7 +171,7 @@
 			<div class="derecha-articulo">
 				<p class="titulo-derecha-articulo">YANA</p>
 				<div class="descripcion-articulo">
-					<p>40 x 30 x 12 x 15<br>
+					<p>40 x 30 x 12 x 15 cm<br>
 					(Largo x Alto x Ancho x Alto Asas)<br><br>
 					Cartera en cuero tramado negro empalmado con telar rombos amplios negro sobre crudo especialmente diseñado y elaborado para la colección, ademas del tallado a mano de la piedra marmolina haciendo una flor adorno centro de cartera y ribetre en cuero rojo. <br><br>
 					- Cierre en boca principal.<br>

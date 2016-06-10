@@ -171,7 +171,7 @@
 			<div class="derecha-articulo">
 				<p class="titulo-derecha-articulo">HANAQ PACHA</p>
 				<div class="descripcion-articulo">
-					<p>40 x 30 x 12 x 20<br>
+					<p>40 x 30 x 12 x 20 cm<br>
 					(Largo x Alto x Ancho y Alto Asas)<br><br>
 					Cartera en telar azulino degrade y apliques piel y cuero labrado con el acompañamiento en bolcillos de flores estilo botones en tallado piedra marmolina.<br><br>
 					- Cierre en boca principal.<br>

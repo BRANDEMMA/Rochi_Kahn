@@ -168,13 +168,13 @@
 			<div class="derecha-articulo">
 				<p class="titulo-derecha-articulo">FLORES DE VERANO</p>
 				<div class="descripcion-articulo">
-					<p>15 x 20 x 15 <br>
+					<p>15 x 20 x 15 cm<br>
 					(Alto x Largo x Alto Asa Corta)<br><br>
 					Un impresindible accesorio, pequeño con ganas de lucirse. Cuero blanco floreado, la estacion la eliges puede ser para cualquier lugar del mundo.<br><br>
 					- Tapa con imantado boca principal.<br>
 					- Asa corta de mano.<br>
 					- Forro interior en tono color.<br>
-					- 2 bolcillos internos 1 con cierre<br>
+					- 2 bolcillos internos 1 con cierre.<br>
 					- Placa marca bronce.</p>
 					<p><span>S/ 300 Soles</span></p>
 					<div class="botones">

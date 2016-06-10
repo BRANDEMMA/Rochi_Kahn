@@ -172,7 +172,7 @@
 				<p class="titulo-derecha-articulo">PUKA</p>
 				<div class="descripcion-articulo">
 					<p>
-					40 x 30 x 12 x 15<br>
+					40 x 30 x 12 x 15 cm<br>
 					(Largo x Alto x Ancho x Alto Asas)<br><br>
 					Cartera en destellante cuero rojo impactado al predominante telar geometrico en hueso y negro, hecho especialmente para la colección y especial aplicación de flor tallada a mano en piedra marmolina hecha por artersanos de Cajamarca-Peru.<br><br>
 					- Cierre en boca principal.<br>

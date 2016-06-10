@@ -175,10 +175,10 @@
 					35 x 28 x 15 x 20 cm<br>
 					(Largo x Alto x Ancho x Alto Asas)<br><br>
 					Inmaculados paños de cuero blanco en complicidad con cuero floreado en tonos, un romántico dúo de estación con sol.<br><br>
-					- Broche imantado en bronce<br>
-					- Doble asa para el hombro o mano<br>
-					- Argollas redondas en bronce<br>
-					- Forro interior tono hueso<br>
+					- Broche imantado en bronce.<br>
+					- Doble asa para el hombro o mano.<br>
+					- Argollas redondas en bronce.<br>
+					- Forro interior tono hueso.<br>
 					- 3 bolcillos interinos, 1 con cierre.<br></p>
 					<p><span>S/ 1000 Soles</span></p>
 					<div class="botones">

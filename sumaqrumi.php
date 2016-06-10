@@ -171,7 +171,7 @@
 			<div class="derecha-articulo">
 				<p class="titulo-derecha-articulo">SUMAQRUMI</p>
 				<div class="descripcion-articulo">
-					<p>55 x 40 x 90 y 25<br>
+					<p>55 x 40 x 90 y 25 cm<br>
 					(Largo x Alto x Ancho x Alto Asas)<br><br>
 					Cartera de tamaño grande en sobresaliente telar a cuadros en juegos con hueso, negro y cenefa entre rojos. Lleva al centro un flor  de piedra marmolina esculpida a mano.<br><br>
 					- Broche imantado en boca principal.<br>

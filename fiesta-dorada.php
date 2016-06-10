@@ -168,7 +168,7 @@
 			<div class="derecha-articulo">
 				<p class="titulo-derecha-articulo">FIESTA DORADA</p>
 				<div class="descripcion-articulo">
-					<p>15 x 28 x 8 x 15  <br>
+					<p>15 x 28 x 8 x 15 cm<br>
 					(Alto x Largo x Ancho x Alto Asa Corta)<br><br>
 					Competencia de elegantes texturas, encaje entretejido de flores negras cierra con el cuero italiano de doradados que dibujan flores en un fondo negro. Detalle borla flecos.<br><br>
 					- Tapa con broche imantado.<br>

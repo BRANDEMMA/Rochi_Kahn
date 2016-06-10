@@ -168,13 +168,13 @@
 			<div class="derecha-articulo">
 				<p class="titulo-derecha-articulo">BAUL BOLAS R</p>
 				<div class="descripcion-articulo">
-					<p>35 x 20 x 15 x 20 <br>
+					<p>35 x 20 x 15 x 20 cm<br>
 					(Largo x Alto x Ancho y Alto Asas)<br><br>
 					Diseño en denim crudo o especial lona bordada a mano con hilos 100% algodón, apliques y asas de cuero color.<br><br>
 					Asas adicionales: <STRONG>S/ 300 Soles.</STRONG><br><br>
 					- Cierre en boca principal.<br>
 					- Doble asa para el hombro o mano.<br>
-					- Salidas de asas en niquel o bronce<br>
+					- Salidas de asas en niquel o bronce.<br>
 					- Forro interior en tono color.<br>
 					- 3 bolcillos internos, 1 con cierre.</p>
 					<p><span>S/ 1000 Soles</span></p>

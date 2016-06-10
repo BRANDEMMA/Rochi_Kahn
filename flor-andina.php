@@ -171,13 +171,13 @@
 			<div class="derecha-articulo">
 				<p class="titulo-derecha-articulo">FLOR ANDINA</p>
 				<div class="descripcion-articulo">
-					<p>15 x 28 x 8 y 15  <br>
+					<p>15 x 28 x 8 y 15 cm<br>
 					(Alto x Largo x Ancho x Alto Asa Corta)<br><br>
 					Telar en sus propias caracteristicas, gamuza enmarcando la combinacion y la sonrisa de una flor en lana de oveja color naranja la hace sin igual.<br><br>
 					- Cierre boca principal.<br>
 					- Asa corta de mano.<br>
 					- Forro interior en tono color.<br>
-					- 2 bolcillos internos 1 con cierre<br>
+					- 2 bolcillos internos 1 con cierre.<br>
 					- Placa marca bronce.</p>
 					<p><span>S/ 500 Soles</span></p>
 					<div class="botones">

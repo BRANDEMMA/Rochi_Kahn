@@ -169,14 +169,14 @@
 			<div class="derecha-articulo">
 				<p class="titulo-derecha-articulo">FLORES Y TONOS SENSUALES Y ENAMORADOS</p>
 				<div class="descripcion-articulo">
-					<p>35 x 28 x 15<br>
+					<p>35 x 28 x 15 cm<br>
 					(Largo x Alto x Ancho)<br><br>
 					Un absoluto festival floral en cuero italiano y jaspez salpicados de combinaciones seductoras.<br><br>
-					- Filete envivado cuero rojo detalle a la mitad de la cartera<br>
-					- Broche imantado en bronce<br>
-					- Doble asa para el hombro o mano<br>
-					- Argollas redondas en bronce<br>
-					- Forro interior tono<br>
+					- Filete envivado cuero rojo detalle a la mitad de la cartera.<br>
+					- Broche imantado en bronce.<br>
+					- Doble asa para el hombro o mano.<br>
+					- Argollas redondas en bronce.<br>
+					- Forro interior tono.<br>
 					- 3 bolcillos interinos, 1 con cierre.</p>
 					<p><span>S/ 1000 Soles</span></p>
 					<div class="botones">

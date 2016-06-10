@@ -172,7 +172,7 @@
 			<div class="derecha-articulo">
 				<p class="titulo-derecha-articulo">ACHALAYKI</p>
 				<div class="descripcion-articulo">
-					<p>30 x 25 x 30 x 15<br>
+					<p>30 x 25 x 30 x 15 cm<br>
 					(Largo x Alto x Ancho y Alto Asas)<br><br>
 					Bolso con entremezcla de texturas y materiales entre cuero, piel, asas de telar en azul intenso y decorado con perlas. <br><br>
 					- Broche iman niquel en boca principal.<br>

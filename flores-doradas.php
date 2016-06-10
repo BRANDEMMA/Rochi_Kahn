@@ -168,7 +168,7 @@
 			<div class="derecha-articulo">
 				<p class="titulo-derecha-articulo">FLORES DORADAS</p>
 				<div class="descripcion-articulo">
-					<p>24 x 28 x 15 <br>
+					<p>24 x 28 x 15 cm<br>
 					(Alto x Largo y Alto Asa Corta)<br><br>
 					Sobre mediano en destello de flores doradas sobresalen en el cuero estampado de fondo negro.<br><br>
 					- Tapa con broche imantado.<br>

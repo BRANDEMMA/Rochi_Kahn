@@ -168,7 +168,7 @@
 			<div class="derecha-articulo">
 				<p class="titulo-derecha-articulo">FLORES ENCENDIDAS ITALIANO</p>
 				<div class="descripcion-articulo">
-					<p>35 x 32 x 30 x 10<br>
+					<p>35 x 32 x 30 x 10 cm<br>
 					(Largo x Alto x Ancho x Alto Asas)<br><br>
 					Casual y llena de energia, cuero italiano floreado en brillante naranja y pinceladas en tonos multicolor.<br><br>
 					- Broche interior de boca, metalico bronce oro.<br>

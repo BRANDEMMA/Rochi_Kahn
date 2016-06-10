@@ -171,7 +171,7 @@
 			<div class="derecha-articulo">
 				<p class="titulo-derecha-articulo">INTI</p>
 				<div class="descripcion-articulo">
-					<p>55 x 40 x 90 y 25<br>
+					<p>55 x 40 x 90 y 25 cm<br>
 					(Largo x Alto x Ancho x Alto Asas)<br><br>
 					Cartera grande hecha en cuero rojo estrellado en chispeante dorado cuero que continua y se unen con el  reinate accesorio central, un sol tallado en madera y espejo hecho 100% a mano por artesanos cusqueños.<br>
 					- Broche bronce imantado en boca.<br>

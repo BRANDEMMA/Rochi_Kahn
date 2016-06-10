@@ -171,7 +171,7 @@
 			<div class="derecha-articulo">
 				<p class="titulo-derecha-articulo">SUMAQSISA</p>
 				<div class="descripcion-articulo">
-					<p>55 x 40 x 90 x 25<br>
+					<p>55 x 40 x 90 x 25 cm<br>
 					(Largo x Alto x Ancho y Alto Asas)<br><br>
 					Cartera de tamaño grande en sobresaliente telar a cuadros en rojos y negros en cuero y lleva al centro una flor  de piedra marmolina esculpida a mano.<br><br>
 					- Cierre en boca principal.<br>

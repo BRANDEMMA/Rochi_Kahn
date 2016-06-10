@@ -171,7 +171,7 @@
 			<div class="derecha-articulo">
 				<p class="titulo-derecha-articulo">PIEL Y COLORES</p>
 				<div class="descripcion-articulo">
-					<p>26 x 48 x 15 x 15 - 45<br>
+					<p>26 x 48 x 15 x 15 - 45 cm<br>
 					(Alto x Largo x Ancho x Alto Asa Corta - Alto Asa Larga)<br><br>
 					Finas texturas de piel y gamusa en colores que destacan.<br><br>
 					- Cierre en boca principal.<br>

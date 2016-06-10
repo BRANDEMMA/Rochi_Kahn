@@ -171,7 +171,7 @@
 			<div class="derecha-articulo">
 				<p class="titulo-derecha-articulo">HUESPED</p>
 				<div class="descripcion-articulo">
-					<p>28 x 48 x 25 x 25 - 45<br>
+					<p>28 x 48 x 25 x 25 - 45 cm<br>
 					(Alto x Largo x Ancho x Alto Asa Corta - Alto Asa Larga)<br><br>
 					Textiles en complot, mesclilla y telar son los especiales para esta composicion viajera.<br><br>
 					- Cierre en boca principal.<br>

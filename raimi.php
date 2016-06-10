@@ -171,7 +171,7 @@
 			<div class="derecha-articulo">
 				<p class="titulo-derecha-articulo">RAIMI</p>
 				<div class="descripcion-articulo">
-					<p>55 x 40 x 90 x 25 <br>
+					<p>55 x 40 x 90 x 25 cm<br>
 					(Largo x Alto x Ancho x Alto Asas)<br><br>
 					Cartera de tamaño grande hecha en cuero tornasolado gris cruzado con telares especialmente trabajados en contraste de rojo, hueso y negro. Un accesorio adorna atrevidamente y despierta el arte del trabajo a mano en tallado de madera y espejo en una hermoza cruz.<br><br>
 					- Broche bronce imantado en boca principal.<br>

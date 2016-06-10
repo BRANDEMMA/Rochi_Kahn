@@ -168,17 +168,17 @@
 			<div class="derecha-articulo">
 				<p class="titulo-derecha-articulo">CAs CUERO JASPES</p>
 				<div class="descripcion-articulo">
-					<p>40 x 30 x 15 x 25 <br>
+					<p>40 x 30 x 15 x 25 cm<br>
 					(Largo x Alto x Ancho x Asas)<br><br>
 					Diseño casual en cuero negro jaspeado en elegante tono plata. Juego asas mismo color. <br>
 					Colores cueros a eleccion para cuerpo de cartera y asas. <br><br>
 					Asas adicionales: <strong>S/ 300 Soles.</strong><br><br>
 					- Cierre en boca principal.<br>
 					- Doble asa para el hombro o mano.<br>
-					- Salidas de asas en niquel o bronce<br>
+					- Salidas de asas en niquel o bronce.<br>
 					- Forro interior en tono color.<br>
 					- 3 bolcillos internos, 1 con cierre.<br>
-					- Placa marca niquel o bronce</p>
+					- Placa marca niquel o bronce.</p>
 					<p><span>S/ 1000 Soles</span></p>
 					<div class="botones">
 						<a href="#solicitar"><i class="fa fa-shopping-cart"></i>COMPRAR</a>

@@ -171,13 +171,13 @@
 			<div class="derecha-articulo">
 				<p class="titulo-derecha-articulo">PIEL LABRADA</p>
 				<div class="descripcion-articulo">
-					<p>15 x 20 x 15  <br>
+					<p>15 x 20 x 15 cm<br>
 					(Alto x Largo x Alto Asa Corta)<br><br>
 					Vanite  en piel especialmente labrada y pintada a mano entre verdes y marrones claros. Unica en su especie.<br><br>
 					- Tapa con imantado boca principal.<br>
-					- Asa corta<br>
+					- Asa corta.<br>
 					- Forro interior en tono color.<br>
-					- 2 bolcillos internos 1 con cierre<br>
+					- 2 bolcillos internos 1 con cierre.<br>
 					- Placa marca bronce.</p>
 					<p><span>S/ 900 Soles</span></p>
 					<div class="botones">

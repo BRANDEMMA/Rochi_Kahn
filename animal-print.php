@@ -171,13 +171,13 @@
 			<div class="derecha-articulo">
 				<p class="titulo-derecha-articulo">ANIMAL PRINT</p>
 				<div class="descripcion-articulo">
-					<p>15 x 20 x 40  <br>
+					<p>15 x 20 x 40 cm<br>
 					(Alto x Largo x Alto Asa Corta)<br><br>
 					Lista para ser la pieza que te complete el look, bolsito de elegante piel pinetada en animal print. Cadena bronce larga.<br><br>
 					- Tapa con imantado boca principal.<br>
 					- Asa larga.<br>
 					- Forro interior en tono color.<br>
-					- 2 bolcillos internos 1 con cierre<br>
+					- 2 bolcillos internos 1 con cierre.<br>
 					- Placa marca bronce.</p>
 					<p><span>S/ 900 Soles</span></p>
 					<div class="botones">

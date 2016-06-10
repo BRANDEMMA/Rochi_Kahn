@@ -171,7 +171,7 @@
 			<div class="derecha-articulo">
 				<p class="titulo-derecha-articulo">FLORES DE SOL</p>
 				<div class="descripcion-articulo">
-					<p>26 x 48 x 15 x 15 - 45<br>
+					<p>26 x 48 x 15 x 15 - 45 cm<br>
 					(Alto x Largo x Ancho x Alto Asa Corta - Alto Asa Larga)<br><br>
 					Brillante, alegre cuero italiano floreado evoca verano, juego de tonos naranjas amarillos y destellos de azules le dan la composicion perfecta para sonreir al llevarlo puesto.<br><br>
 					- Cierre en boca principal.<br>

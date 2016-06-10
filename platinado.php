@@ -171,7 +171,7 @@
 			<div class="derecha-articulo">
 				<p class="titulo-derecha-articulo">PLATINADO</p>
 				<div class="descripcion-articulo">
-					<p>24 x 28 x 15<br>
+					<p>24 x 28 x 15 cm<br>
 					(Alto x Largo y Alto Asa Corta)<br><br>
 					Sobre mediano en cuero platinado acero.<br><br>
 					- Tapa con broche imantado.<br>

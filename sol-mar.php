@@ -171,7 +171,7 @@
 			<div class="derecha-articulo">
 				<p class="titulo-derecha-articulo">SOL Y MAR</p>
 				<div class="descripcion-articulo">
-					<p>26 x 48 x 15 x 15 - 45<br>
+					<p>26 x 48 x 15 x 15 - 45 cm<br>
 					(Alto x Largo x Ancho x Alto Asa Corta - Alto Asa Larga)<br><br>
 					Entremezcla de texturas gamusa, cuero y telares trabajados a mano, combinacion de magicos y brillantes colores.<br><br>
 					- Cierre en boca principal.<br>
