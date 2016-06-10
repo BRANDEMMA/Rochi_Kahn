@@ -1267,6 +1267,7 @@ p.edicion{
 	font-size: 0.9em;
 	margin-top: 5px;
 	padding-left: 14px;
+	text-align: justify;
 }
 .img-disena #ver-mas3{
 	display: flex;
@@ -1424,6 +1425,7 @@ p.edicion{
 	font-size: 0.9em;
 	margin-top: 5px;
 	padding-left: 14px;
+	text-align: justify;
 }
 .presentacion img{
 	cursor: pointer; 
