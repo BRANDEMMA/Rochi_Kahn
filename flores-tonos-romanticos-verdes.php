@@ -200,7 +200,7 @@
 					- Minimice las marcas en el cuero evitando rozar el producto contra superficies filosas o ásperas.<br><br>
 					- Recuerde que cueros oscuros pueden desteñir si son rozados contra prendas de color claro y viceversa.<br><br>
 					- Para limpiar este producto utilice un paño suave y seco.</strong>
-<br><br>
+				<br><br>
 
 					</p>
 
@@ -209,7 +209,7 @@
 					<div style="display:none;" class="boton-mas-detalles" id="menos-elaboracion"><a id="menos-detalles2"><strong>Tiempo de elaboración</strong> &nbsp;&nbsp;&nbsp;&nbsp;<img src="img/prensa/ver-menos.gif"></a></div>
 					<p style="display:none;" class="contenido-mostrar" id="tiempo-elaboracion"><br>Cada cartera muchas veces es única y todas pertenecen a ediciones limitadas y numeradas, por esta razón y la personalización de sus diseños en materiales de composición pueden tomar cierto tiempo de elaboración y producción. <br><br>
 					<strong>Nuestro tiempo promedio son 20 días (puede ser antes o después) dependerá de la elección del material, el origen del mismo y el trabajo de su creación.</strong> <br><br>
-					Esta información será más precisa en el momento de la elección que hagan nuestros clientes.
+					Esta información será más precisa en el momento de la elección que hagan nuestros clientes.</p>
 					<br><br>
 
 					

@@ -220,11 +220,11 @@
 						<img src="img/slider/rk-banner3.jpg">
 					</section>
 				</div>
-				<div class="nueva-coleccion">
+				<!-- <div class="nueva-coleccion">
 					<div class="texto-nueva">
 						<img class="img-nueva-1" src="img/slider/circulo-slider.png"><p class="p-nueva"><a href="">NUEVA COLECCIÓN</a></p><img class="img-nueva-2" src="img/slider/circulo-linea-slider.png"></div>
 					<div class="fecha-nueva"><img src="img/slider/linea-corta-slider.png"><p>2016</p></div>
-				</div>
+				</div> -->
 				<div id="indicadores"></div>		
 			</div>
 			<div id="btn-prev">
@@ -344,7 +344,7 @@
 			</div>
 		</div>
 		<div class="prensa">
-			<div class="titulo-prensa-2"><div class="texto-titulo-prensa-2"><p>PRENSA</p></div></div>
+			<div class="titulo-prensa-2"><div class="texto-titulo-prensa-2"><p>VIDEOS</p></div></div>
 			<!-- <div class="titulo-prensa"><img class="img-prensa-1" src="img/prensa/linea-circulo3.gif"><p class="p-prensa">PRENSA</p><img class="img-prensa-2" src="img/prensa/circulo-linea3.gif"></div> -->
 			<div class="rochi"><p>ROCHI KAHN</p></div>
 			<div class="contenido-prensa">
