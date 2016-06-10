@@ -171,9 +171,9 @@
 			<div class="derecha-articulo">
 				<p class="titulo-derecha-articulo">PERÚ DE LUJO</p>
 				<div class="descripcion-articulo">
-					<p>26 x 48 x 15 x 15 - 45<br>
+					<p>26 x 48 x 15 x 15 x 45 cm<br>
 					(Alto x Largo x Ancho x Alto Asa Corta - Alto Asa Larga)<br><br>
-					Sobervia combinacion de texturas y colores en cada material que viste a este viajero, telares trabajados solo para esclusividad, cueros elegidos para la composicion especial y te lleve a lucir por donde vayas una pieza solo para ti.<br><br>
+					Sobervia combinacion de texturas y colores en cada material que viste a este viajero, telares trabajados solo para exclusividad, cueros elegidos para la composicion especial y te lleve a lucir por donde vayas una pieza solo para ti.<br><br>
 					- Cierre en boca principal.<br>
 					- Asas cortas y asa larga.<br>
 					- Salidas de asas niquel italianas.<br>

@@ -164,14 +164,14 @@
 			<div class="derecha-articulo">
 				<p class="titulo-derecha-articulo">DORADO Y NEGRO ITALIANO</p>
 				<div class="descripcion-articulo">
-					<p>35 x 38 x 30 x 15<br> 
-					(Largo x Alto x Ancho x Alto Asas)<br>
-					Destello en la oscuridad, elegantes y doradas flores resaltan en el enigmatico y siempre deseado color negro, dos tonos de rigos en un cuero seductor.<br><br>
-					- Boca de cartera que desliza una onda<br>
-					- Cierre interior de boca, metalico bronce oro<br>
-					- Doble asa para el hombro o mano en cuero negro<br>
-					- Argollas redondas en bronce oro<br>
-					- Forro interior en tono<br>
+					<p>35 x 38 x 30 x 15 cm<br> 
+					(Largo x Alto x Ancho x Alto Asas)<br><br>
+					Destello en la oscuridad, elegantes y doradas flores resaltan en el enigmatico y siempre deseado color negro, dos tonos de rigor en un cuero seductor.<br><br>
+					- Boca de cartera que desliza una onda.<br>
+					- Cierre interior de boca, metalico bronce oro.<br>
+					- Doble asa para el hombro o mano en cuero negro.<br>
+					- Argollas redondas en bronce oro.<br>
+					- Forro interior en tono.<br>
 					- Base inferior en cuero negro.<br>
 					- 3 bolcillos interinos, 1 con cierre.<br></p>
 					<p><span>S/ 1000 Soles</span></p>
