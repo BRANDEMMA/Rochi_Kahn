@@ -4,7 +4,8 @@
 					<div class="link"><i class="fa fa-caret-right"></i>SEDUCE COLOR - <span>"Edición a flor de piel"</span></div>
 
 					<ul class="submenu" id="seduce-color-mostrar">
-					<p class="edicion"></br>Tonalidades de cueros lisos complices de una mezcla floreada altamente femenina, perteneciente a una estación alegre para el día y la noche.
+					<p class="edicion"></br>Tonalidades de cueros lisos complices de una mezcla floreada altamente femenina, perteneciente a una estación alegre para el día y la noche.</br></br>
+					Todas y cada una de las piezas desarrolladas pertenecen a una edición limitada de pedidos y replicas.
 					</p>
 						<li>
 							<a href="flores-tonos-romanticos-verdes.php"><img src="img/productos/seduce-color/cartera-rk-seduce-color-0001.jpg">

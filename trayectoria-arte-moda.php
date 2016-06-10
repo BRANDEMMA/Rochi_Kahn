@@ -100,7 +100,12 @@
 				<ul id="accordion" class="accordion">
 					<li>
 						<?php
-							include 'galeria-peru-moda.php'
+							include 'peru-moda-y-textiles.php'
+						?>
+					</li>
+					<li>
+						<?php
+							include 'pasarela-mercedez-benz-2014.php'
 						?>
 					</li>
 					<li>
@@ -111,11 +116,6 @@
 					<li>
 						<?php
 							include 'galeria-pasarela-ethical.php'
-						?>
-					</li>
-					<li>
-						<?php
-							include 'galeria-lanzamiento-rochi.php'
 						?>
 					</li>
 				</ul>

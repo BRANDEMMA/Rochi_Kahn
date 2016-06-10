@@ -5,7 +5,8 @@
 					<ul class="submenu" id="petit-mostrar">
 					<p class="edicion"></br>Rochi Kahn, presenta su nueva línea de pequeñas y poderosas piezas prácticas, elegantes, imprecindibles y siempre únicas. Solo es el principio.</br></br>
 
-					Cada una de las piezas son una muestra del trabajo personalizado y único que desarrolla la diseñadora, al ser ediciones limitadas se renuevan constantemente y se replican especialmente solo a pedido hechas a la medida.
+					Cada una de las piezas son una muestra del trabajo personalizado y único que desarrolla la diseñadora, al ser ediciones limitadas se renuevan constantemente y se replican especialmente solo a pedido hechas a la medida.</br></br>
+					Todas y cada una de las piezas desarrolladas pertenecen a una edición limitada de pedidos y replicas.
 					</p>
 						<li>
 							<a href="flores-doradas.php"><img src="img/productos/petit-ro/cartera-rk-petit-ro-0001.jpg">
@@ -33,7 +34,7 @@
 						</li>
 						<li>
 							<a href="flores-de-verano.php"><img src="img/productos/petit-ro/cartera-rk-petit-ro-0005.jpg">
-								<p class="titulo-articulo-producto">FLORES DE VERANO</p>
+								<p class="titulo-articulo-producto">FLORES VERANO</p>
 								<i class="fa fa-caret-right" style="transform:none;font-size:0.8em;float:left;margin-right:5px;"></i><p class="subtitulo-articulo-producto">005RK-PR</p>
 							</a>
 						</li>

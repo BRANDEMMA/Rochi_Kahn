@@ -6,7 +6,7 @@
 		<ul>
 			<li><a href="index.php#izquierda-edicion">EDICIÓN LIMITADA</a></li>
 			<li><a href="index.php#derecha-experiencias">EXPERIENCIAS</a></li>
-			<li><a href="index.php#trayectoria">TRAYECTORIA</a></li>
+			
 		</ul>
 	</nav>
 </div>
@@ -17,15 +17,15 @@
 	<div class="continuacion">
 		<nav>
 			<ul>
-				<li><a href="medios.php">MEDIOS</a></li>
+				<li><a href="index.php#trayectoria">TRAYECTORIA</a></li>
 				<li><a href="#contacto">CONTACTO</a></li>
 			</ul>
 		</nav>
 	</div>
 	<div class="redes-sociales">
-		<div class="youtube"></div>
-		<div class="twitter"></div>
-		<div class="facebook"></div>
+		<a href="https://www.youtube.com/channel/UCwsUpFx6AXNkLBFIFVsAjzw" target="_blank"><div class="youtube"></div></a>
+		<a href="https://twitter.com/kahn_rochi" target="_blank"><div class="twitter"></div></a>
+		<a href="https://www.facebook.com/rochikahn/" target="_blank"><div class="facebook"></div></a>
 	</div>
 </div>
 <div class="clear"></div>

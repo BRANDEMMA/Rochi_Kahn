@@ -4,7 +4,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-	<title>ROCHI KAHN</title>
+	<title>ROCHI KAHN - Bolsos Versatil</title>
 
 <!--================== 	ENLACE HOJA DE ESTILOS (INICIA)  =====================-->
 
@@ -111,16 +111,7 @@
 						include 'carteras-viajeras.php';
 					?>
 				</li>
-				<li>
-					<?php
-						include 'carteras-princesa.php';
-					?>
-				</li>
-				<li>
-					<?php
-						include 'carteras-look.php';
-					?>
-				</li>
+				
 				<li>
 					<?php
 						include 'carteras-versatil.php';

@@ -3,7 +3,8 @@
 
 					<div class="link"><i class="fa fa-caret-right"></i>VIAJERAS - <span>"Para el mundo"</span></div>
 					<ul class="submenu" id="viajeras-mostrar">
-					<p class="edicion"></br>Rochi Kahn, presenta su linea viajera, aquella que ira creciendo en sus versiones y que hoy muestra un diseño que se deja llevar contigo y lucir,  ademas de tener cerca lo que mas necesitas.
+					<p class="edicion"></br>Rochi Kahn, presenta su linea viajera, aquella que ira creciendo en sus versiones y que hoy muestra un diseño que se deja llevar contigo y lucir,  ademas de tener cerca lo que mas necesitas.</br></br>
+					Todas y cada una de las piezas desarrolladas pertenecen a una edición limitada de pedidos y replicas.
 
 					</p>
 						<li>

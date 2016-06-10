@@ -64,6 +64,50 @@
 
 <!--================== 	SCRIPT PARA MOSTRAR Y OCULTAR "GALERIA ARTICULO" (TERMINA)  =====================-->
 
+<!--================== 	SCRIPT PARA MOSTRAR Y OCULTAR "DETALLES CUIDADO Y ELABORACION" (INICIA)  =====================-->
+
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$('#mas-detalles').on('click', function(){
+				$('#cuidados-productos').slideDown();
+				$('#mas-cuidados').hide();
+				$('#menos-cuidados').show();
+			});
+		});
+	</script>
+
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$('#menos-detalles').on('click', function(){
+				$('#cuidados-productos').slideUp();
+				$('#menos-cuidados').hide();
+				$('#mas-cuidados').show();
+			});
+		});
+	</script>
+
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$('#mas-detalles2').on('click', function(){
+				$('#tiempo-elaboracion').slideDown();
+				$('#mas-elaboracion').hide();
+				$('#menos-elaboracion').show();
+			});
+		});
+	</script>
+
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$('#menos-detalles2').on('click', function(){
+				$('#tiempo-elaboracion').slideUp();
+				$('#menos-elaboracion').hide();
+				$('#mas-elaboracion').show();
+			});
+		});
+	</script>
+
+<!--================== 	SCRIPT PARA MOSTRAR Y OCULTAR "DETALLES CUIDADO Y ELABORACION" (TERMINA)  =====================-->
+
 <!-- FAVICON-->
 
 
@@ -111,27 +155,27 @@
 				</div>
 				<div class="clear"></div>
 				<div class="texto-articulos-izquierda">
-					<p>* Texto que explica que la cara y la contrata cara nunca son iguales.</p>
-					<p>COMPLETA LA COLECCIÓN</p>
+					<p><br><br></p>
 				</div>
-				<div class="otros-articulos">
+				<!-- <div class="otros-articulos">
 					<a href="dorado-negro-italiano.php"><img src="img/productos/seduce-color/cartera-rk-seduce-color-0002.jpg"></a>
 					<a href="flores-encendidas-italiano.php"><img src="img/productos/seduce-color/cartera-rk-seduce-color-0003.jpg"></a>
 					<a href="flores-tonos-romanticos-rojos-azules.php"><img src="img/productos/seduce-color/cartera-rk-seduce-color-0004.jpg"></a>
 					<div class="clear"></div>
-				</div>
+				</div> -->
 				<a class="boton" href="javascript:history.back(-1);"><i class="fa fa-caret-left"></i>VOLVER</a>								
 			</div>
 			<div class="derecha-articulo">
 				<p class="titulo-derecha-articulo">FLORES DE VERANO</p>
 				<div class="descripcion-articulo">
-					<p>Un impresindible accesorio, pequeño con ganas de lucirse. Cuero blanco floreado, la estacion la eliges puede ser para cualquier lugar del mundo.<br>
-					Medidas: 15 x 20 y 15  (alto x largo y asa corta)<br>
-					Tapa con imantado boca principal.<br>
-					Asa corta de mano.<br>
-					Forro interior en tono color.<br>
-					2 bolcillos internos 1 con cierre<br>
-					Placa marca bronce.</p>
+					<p>15 x 20 x 15 <br>
+					(Alto x Largo x Alto Asa Corta)<br><br>
+					Un impresindible accesorio, pequeño con ganas de lucirse. Cuero blanco floreado, la estacion la eliges puede ser para cualquier lugar del mundo.<br><br>
+					- Tapa con imantado boca principal.<br>
+					- Asa corta de mano.<br>
+					- Forro interior en tono color.<br>
+					- 2 bolcillos internos 1 con cierre<br>
+					- Placa marca bronce.</p>
 					<p><span>S/ 300 Soles</span></p>
 					<div class="botones">
 						<a href="#solicitar"><i class="fa fa-shopping-cart"></i>COMPRAR</a>
@@ -142,10 +186,25 @@
 					</div> 
 				</div>
 				<div class="texto-articulo">
-					<p>
-						Cuidados del Producto.<br>
-						Tiempo de elaboración.
-					</p>
+					<div class="boton-mas-detalles" id="mas-cuidados"><a id="mas-detalles"><strong>Cuidados del Producto</strong> &nbsp;&nbsp;&nbsp;&nbsp;<img src="img/prensa/ver-mas.gif"></a></div>
+					<div style="display:none;" class="boton-mas-detalles" id="menos-cuidados"><a id="menos-detalles"><strong>Cuidados del Producto</strong> &nbsp;&nbsp;&nbsp;&nbsp;<img src="img/prensa/ver-menos.gif"></a></div>
+					<p style="display:none;" class="contenido-mostrar" id="cuidados-productos">Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ultrices mollis arcu non condimentum. Duis ex nisi, tristique sit amet mollis et, accumsan vel enim. Praesent iaculis ex ac ipsum viverra, et pellentesque libero varius. Proin porta id magna a elementum. Fusce condimentum quam eget vestibulum dictum. Ut tortor quam, consectetur et lacus sed, rhoncus sollicitudin erat.<br><br>
+
+					Aliquam elementum elit et quam lobortis, vitae molestie neque rutrum. Morbi vitae venenatis est, sed hendrerit ante. In hac habitasse platea dictumst. Suspendisse tincidunt odio ligula. In tincidunt sapien faucibus luctus commodo. Donec bibendum dui elit, vel maximus mauris fermentum a.<br><br>
+
+					Aliquam erat volutpat. Morbi venenatis luctus convallis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sed laoreet leo. Fusce lobortis vehicula interdum. Donec placerat finibus lacinia. Aliquam scelerisque a dolor sit amet ornare.</p>
+
+
+					<div class="boton-mas-detalles" id="mas-elaboracion"><a id="mas-detalles2"><strong>Tiempo de elaboración</strong> &nbsp;&nbsp;&nbsp;&nbsp;<img src="img/prensa/ver-mas.gif"></a></div>
+					<div style="display:none;" class="boton-mas-detalles" id="menos-elaboracion"><a id="menos-detalles2"><strong>Tiempo de elaboración</strong> &nbsp;&nbsp;&nbsp;&nbsp;<img src="img/prensa/ver-menos.gif"></a></div>
+					<p style="display:none;" class="contenido-mostrar" id="tiempo-elaboracion">Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ultrices mollis arcu non condimentum. Duis ex nisi, tristique sit amet mollis et, accumsan vel enim. Praesent iaculis ex ac ipsum viverra, et pellentesque libero varius. Proin porta id magna a elementum. Fusce condimentum quam eget vestibulum dictum. Ut tortor quam, consectetur et lacus sed, rhoncus sollicitudin erat.<br><br>
+
+					Aliquam elementum elit et quam lobortis, vitae molestie neque rutrum. Morbi vitae venenatis est, sed hendrerit ante. In hac habitasse platea dictumst. Suspendisse tincidunt odio ligula. In tincidunt sapien faucibus luctus commodo. Donec bibendum dui elit, vel maximus mauris fermentum a.<br><br>
+
+					Aliquam erat volutpat. Morbi venenatis luctus convallis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sed laoreet leo. Fusce lobortis vehicula interdum. Donec placerat finibus lacinia. Aliquam scelerisque a dolor sit amet ornare.</p>
+
+
+					<br><br>
 					<a href=""><i class="fa fa-mobile"></i>(511) 985 047 810</a>
 				</div>
 				<div class="formulario-articulo" id="solicitar">

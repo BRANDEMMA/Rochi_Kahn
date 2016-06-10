@@ -113,16 +113,7 @@
 						include 'carteras-viajeras.php';
 					?>
 				</li>
-				<li>
-					<?php
-						include 'carteras-princesa.php';
-					?>
-				</li>
-				<li>
-					<?php
-						include 'carteras-look.php';
-					?>
-				</li>
+				
 				<li>
 					<?php
 						include 'carteras-versatil.php';

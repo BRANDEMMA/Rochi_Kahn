@@ -4,7 +4,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-	<title>ROCHI KAHN</title>
+	<title>ROCHI KAHN - Seduce Color</title>
 
 <!--================== 	ENLACE HOJA DE ESTILOS (INICIA)  =====================-->
 
@@ -92,7 +92,7 @@
 			<script src="js/slider.js"></script>
 		</div>
 
-		<div class="titulo-productos"><img class="img-productos-1"src="img/productos/linea-circulo.gif"><p class="p-productos">EDICIÓN LIMITADA</p><img class="img-productos-2" src="img/productos/circulo.gif"></div>
+		<div class="titulo-productos"><img class="img-productos-1" src="img/productos/linea-circulo.gif"><p class="p-productos">EDICIÓN LIMITADA</p><img class="img-productos-2" src="img/productos/circulo.gif"></div>
 
 		<div class="contenedor-productos">
 			<ul id="accordion" class="accordion">
@@ -111,16 +111,7 @@
 						include 'carteras-viajeras.php';
 					?>
 				</li>
-				<li>
-					<?php
-						include 'carteras-princesa.php';
-					?>
-				</li>
-				<li>
-					<?php
-						include 'carteras-look.php';
-					?>
-				</li>
+				
 				<li>
 					<?php
 						include 'carteras-versatil.php';

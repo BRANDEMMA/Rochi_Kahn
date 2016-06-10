@@ -3,8 +3,8 @@
 
 <div class="contacto"><a name="contacto"></a>
 	<div class="titulo-contacto"><img class="img-contacto-1" src="img/contacto/linea-circulo4.gif"><p class="p-contacto">CONTÁCTANOS</p><img class="img-contacto-2" src="img/contacto/circulo.gif"></div>
-	<div class="texto-contacto"><img src="img/contacto/linea-corta.gif"><p>NOS ENCANTARÍA SABER DE USTED</p></div>
-	<div class="actualizaciones"><p>Síguenos en <a href="">Twitter</a>, <a href="">Facebook</a> o <a href="">Instagram +</a> para  más actualizaciones</p></div>
+	<div class="texto-contacto"><img src="img/contacto/linea-corta.gif"><p>MÁS QUE UNA COMPRA UNA EXPERIENCIA</p></div>
+	<div class="actualizaciones"><p>Síguenos en <a href="https://twitter.com/kahn_rochi" target="_blank">Twitter</a>, <a href="https://www.facebook.com/rochikahn/" target="_blank">Facebook</a> o <a href="https://www.instagram.com/rochi_kahn/" target="_blank">Instagram +</a> para  más actualizaciones</p></div>
 	<div class="formulario">
 		<form class="form-main" name="ajax-form" id="ajax-form" method="POST" action="enviar.php">
 			<div id="ajaxsuccess">*El Email ha sido enviado satisfactoriamente.*</div><br>

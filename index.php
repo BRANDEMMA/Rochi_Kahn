@@ -246,8 +246,7 @@
 						<li><a href="seduce-color.php#seduce-color-mostrar"><i class="fa fa-caret-right"></i>SEDUCE COLOR</a></li>
 						<li><a href="peru-de-lujo.php#peru-lujo-mostrar"><i class="fa fa-caret-right"></i>PERÚ DE LUJO</a></li>
 						<li><a href="viajeras.php#viajeras-mostrar"><i class="fa fa-caret-right"></i>VIAJERAS</a></li>
-						<li><a href="princesa.php#princesa-mostrar"><i class="fa fa-caret-right"></i>PRINCESA</a></li>
-						<li><a href="look-and-feel.php#look-and-feel-mostrar"><i class="fa fa-caret-right"></i>LOOK AND FEEL</a></li>
+						
 						<li><a href="versatil.php#versatil-mostrar"><i class="fa fa-caret-right"></i>VERSATIL</a></li>
 						<li><a href="intervenidas.php#intervenidas-mostrar"><i class="fa fa-caret-right"></i>INTERVENIDAS</a></li>
 						<li><a href="petit-ro.php#petit-mostrar"><i class="fa fa-caret-right"></i>PETIT Ro</a></li>
@@ -279,10 +278,10 @@
 							</ul>
 						</li>
 					</ul> -->
-					<ul>
+					<ul><br>
 						<li><a href="disena-tu-momento.php"><i class="fa fa-caret-right"></i>DISEÑA TU MOMENTO</a></li>
 						<li><a href="#"><i class="fa fa-caret-right"></i>MUESTRA PRIVADA</a></li>
-						<li><a href="#"><i class="fa fa-caret-right"></i>HECHA A LA MEDIDA</a></li>
+						<!-- <li><a href="#"><i class="fa fa-caret-right"></i>HECHA A LA MEDIDA</a></li>-->
 					</ul>
 					<script src="js/acordion.js"></script>
 				</div>
@@ -328,11 +327,13 @@
 
 				<div class="contenedor-cuadro-trayectoria">
 
-					<div class="cuadro-trayectoria"><a href="trayectoria-peru-moda-textiles.php#galeria-peru-moda-mostrar" style="text-decoration:none;color:black;"><img src="img/trayectoria/1/rk-trayectoria-arteymoda-thumbs.jpg"><p>PERÚ MODA Y TÉXTILES</p></a></div>
+					<div class="cuadro-trayectoria"><a href="trayectoria-peru-moda-textiles.php#galeria-peru-moda-mostrar" style="text-decoration:none;color:black;"><img src="img/trayectoria/1/rk-trayectoria-arteymoda-thumbs.jpg"><p>PERÚ: MODA Y TÉXTILES</p></a></div>
+
+					<div class="cuadro-trayectoria"><a href="trayectoria-arte-moda.php" style="text-decoration:none;color:black;"><img src="img/trayectoria/3/peru-moda-rk-2015-thumbs.jpg"><p>PASARELA MERCEDEZ BENZ PERÚ MODA</p></a></div>
 
 					<div class="cuadro-trayectoria"><a href="trayectoria-arte-moda.php#galeria-arte-moda-mostrar" style="text-decoration:none;color:black;"><img src="img/trayectoria/2/arteymoda-thumbs.jpg"><p>ARTE Y MODA</p></a></div>
 
-					<div class="cuadro-trayectoria"><a href="#" style="text-decoration:none;color:black;"><img src="img/trayectoria/3/peru-moda-rk-2015-thumbs.jpg"><p>PASARELA MERCEDEZ BENZ PERÚ MODA</p></a></div>
+					
 					
 					<div class="cuadro-trayectoria"><a href="trayectoria-pasarela-ethical.php#galeria-pasarela-ethical-mostrar" style="text-decoration:none;color:black;"><img src="img/trayectoria/4/ethical-rk-thumbs.jpg"><p>PASARELA ETHICAL FASHION PARIS</p></a></div>
 <!--
@@ -347,28 +348,30 @@
 			<!-- <div class="titulo-prensa"><img class="img-prensa-1" src="img/prensa/linea-circulo3.gif"><p class="p-prensa">PRENSA</p><img class="img-prensa-2" src="img/prensa/circulo-linea3.gif"></div> -->
 			<div class="rochi"><p>ROCHI KAHN</p></div>
 			<div class="contenido-prensa">
-				<video id="video1" poster="video/rk-video-principal.jpg" controls>
-					<source src="video/rochikahn.mp4"  type="video/mp4">
+				<!-- <video id="video1" poster="video/1/rk-video-principal.jpg" controls>
+					<source src="video/1/rochikahn.mp4"  type="video/mp4">
+					<source src="video/1/rochikahn.ogv"  type="video/ogv">
+					<source src="video/1/rochikahn.webm"  type="video/webm">
+				</video>-->
+
+				<video id="video1" poster="video/2/rk-video-pasarela-2014.jpg" controls>
+					<source src="video/2/peru-moda-rk.mp4"  type="video/mp4">
 				</video>
 
-				<video id="video2" style="display:none;" poster="video/2/empire-collection-thumbs.jpg" controls>
-					<source src="video/2/video2.mp4"  type="video/mp4">
+				<video id="video2" style="display:none;" poster="video/3/cajamarca-artesanos.jpg" controls>
+					<source src="video/3/artesanos-cajamarca.mp4"  type="video/mp4">
 				</video>
 
-				<video id="video3" style="display:none;" poster="video/3/bodayestilo-thumbs.jpg" controls>
-					<source src="video/3/video3.mp4"  type="video/mp4">
-				</video>
-
-				<video id="video4" style="display:none;" poster="video/2/empire-collection-thumbs.jpg" controls>
-					<source src="video/2/video2.mp4"  type="video/mp4">
+				<video id="video3" style="display:none;" poster="video/4/rk-video-empire-collection.jpg" controls>
+					<source src="video/4/video2.mp4"  type="video/mp4">
 				</video>
 				<div class="clear"></div>
 
 				<div class="contenedor-miniaturas-videos">
-					<img id="mostrar-video1" src="video/1/artesanos-cajamarca-thumbs.jpg">
-					<img id="mostrar-video2" src="video/2/empire-collection-thumbs.jpg">
-					<img id="mostrar-video3" src="video/3/bodayestilo-thumbs.jpg">
-					<img id="mostrar-video4" src="video/2/empire-collection-thumbs.jpg">
+					<!-- <img id="mostrar-video1" src="video/1/rk-video-thumbs.jpg">-->
+					<img id="mostrar-video1" src="video/2/rk-video-pasarela-thumbs.jpg">
+					<img id="mostrar-video2" src="video/3/artesanos-cajamarca-thumbs.jpg">
+					<img id="mostrar-video3" src="video/4/empire-collection-thumbs.jpg">
 				</div>
 
 				<!-- <div id="contenedor-slider-total">

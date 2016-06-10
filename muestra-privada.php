@@ -276,7 +276,7 @@
 			</div>
 		</div>
 		<div class="img-disena">
-			<img src="img/disena-tu-momento/diseno.jpg">
+			<img src="img/muestra-privada/muestra-privada.jpg">
 			<div class="texto-descriptivo">
 				<h5>Muestra Privada</h5>
 				<p>Rochi Kahn desarrolla y presenta el concepto  de Muestra Privada.
