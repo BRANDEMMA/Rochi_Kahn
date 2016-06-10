@@ -305,7 +305,8 @@
 		</div>
 		<div id="locacion">
 			<div class="presentacion">
-				<img id="mas-detalles-locacion-1" src="img/disena-tu-momento/velero-presentacion.jpg">
+			<!-- Reemplazar locacion-0 por locacion-1 cuando se active la galería -->
+				<img id="mas-detalles-locacion-0" src="img/disena-tu-momento/velero-presentacion.jpg">
 				<img id="mas-detalles-locacion-2" src="img/disena-tu-momento/traslado-presentacion.jpg">
 				<div class="texto-descriptivo2">
 					<h5>EL LUGAR</h5>
@@ -317,8 +318,12 @@
 		<div id="locacion-detalles">
 			<div class="titulo-locacion"><img class="img-locacion-1" src="img/disena-tu-momento/linea-circulo.gif"><p class="p-locacion">LA LOCACIÓN</p><img class="img-locacion-2" src="img/disena-tu-momento/circulo.gif"></div>
 			<ul id="accordion" class="accordion">
+
+
 						<li>
 							<div class="link"><i class="fa fa-caret-right"></i>VELERO</div>
+							
+						<!-- Reirar cuando la galeria este lista
 							<ul class="submenu" id="velero">
 								<li>
 									<div id="img-grande-velero">
@@ -335,24 +340,24 @@
 									</div>
 								</li>
 								<div class="clear"></div>
-							</ul>
-						</li>
+							</ul>-->
+						</li> 
 						<div class="clear"></div>
 						<li>
 							<div class="link"><i class="fa fa-caret-right"></i>HOTEL B</div>
 							<ul class="submenu" id="hotel">
 								<li>
 									<div id="img-grande-hotel">
-										<img id="img-presentacion-hotel-1" src="img/disena-tu-momento/hotel-b.jpg">
+										<img id="img-presentacion-hotel-1" src="img/disena-tu-momento/hotel-b-4.jpg">
 										<img id="img-presentacion-hotel-2" style="display:none" src="img/disena-tu-momento/hotel-b-2.jpg">
 										<img id="img-presentacion-hotel-3" style="display:none" src="img/disena-tu-momento/hotel-b-3.jpg">
-										<img id="img-presentacion-hotel-4" style="display:none" src="img/disena-tu-momento/hotel-b-4.jpg">
+										<img id="img-presentacion-hotel-4" style="display:none" src="img/disena-tu-momento/hotel-b.jpg">
 									</div>
 									<div id="img-miniatura-hotel">
-										<img id="img-miniatura-hotel-1" src="img/disena-tu-momento/traslado-miniatura.jpg">
+										<img id="img-miniatura-hotel-1" src="img/disena-tu-momento/traslado-miniatura4.jpg">
 										<img id="img-miniatura-hotel-2" src="img/disena-tu-momento/traslado-miniatura2.jpg">
 										<img id="img-miniatura-hotel-3" src="img/disena-tu-momento/traslado-miniatura3.jpg">
-										<img id="img-miniatura-hotel-4" src="img/disena-tu-momento/traslado-miniatura4.jpg">
+										<img id="img-miniatura-hotel-4" src="img/disena-tu-momento/traslado-miniatura.jpg">
 									</div>
 								</li>
 								<div class="clear"></div>

@@ -266,37 +266,30 @@
 			<div class="texto-consideraciones">
 				<div class="titulo-consideraciones"><img src="img/prensa/ver-menos.gif"><p>CONSIDERACIONES GENERALES</p></div>
 				<div class="p-consideraciones">
-					<p>
-						- Se realiza el diseño y reserva del servicio min 20 días antes de la fecha de celebración. (Tiempo de  elaboración y coordinación).<br><br>
-						-  El diseño es elegido de propuestas presentadas por Rochi Kahn, colores, cueros, pieles y texturas pueden   elegirse según  catálogo de la diseñadora. (Uno o varios diseños).<br><br>
-						- El traslado en un auto BMW.<br><br>
-						- El lugar elegido, ciudad (almuerzo o cena para dos) o alta mar (paquete especial 4 horas navegando, capacidad hasta 8 personas). 
-					</p>
+					<p>- Será elegido o reservado con un tiempo de 1 mes como mínimo.<br>
+					- Presenta una colección limitada de 15 diseños diferentes y estarán a la venta el día del evento.<br>
+				- La elección del servicio de Muestra Privada, considera la <strong>compra anticipada de un mínimo de 5 carteras</strong> de una muestra de 15 o la compra de paquetes de Hecho a la Medida o Diseña tu Momento. <br>
+				- El cliente podrá elegir de ciertos prototipos de diseño y la combinación de cueros color y texturas de las carteras que comprara.
+				- Puede atender grupos de min 20 personas y máximo de 60 personas.
+				</p>
 				</div>
 			</div>
 		</div>
 		<div class="img-disena">
 			<img src="img/muestra-privada/muestra-privada.jpg">
-			<div class="texto-descriptivo">
-				<h5>Muestra Privada</h5>
-				<p>Rochi Kahn desarrolla y presenta el concepto  de Muestra Privada.
-
-				</p>
-			</div>
+			
 			<div class="clear"></div>
-			<div id="ver-mas3"><a id="mas3"><p>CONSIDERACIONES GENERALES</p><img src="img/prensa/ver-mas.gif"></a></div>
-			<div id="ver-menos3"><a id="menos3"><p>CONSIDERACIONES GENERALES</p><img src="img/prensa/ver-menos.gif"></a></div>
-			<div id="texto-desarrollo1">
-				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc mattis quam sit amet lacus interdum porttitor. Nunc nec ex non enim mollis lobortis. Curabitur tristique varius diam non ullamcorper. Pellentesque vel ipsum id elit pharetra sagittis. Fusce et ultrices lectus. Fusce purus eros, malesuada eget bibendum eu, tempor non tortor. In hac habitasse platea dictumst. Proin ut turpis non neque lobortis porta. Donec fringilla ante et sem consequat venenatis id ac purus. In orci purus, tempus ac iaculis vitae, luctus at orci.<br><br>
-
-				Maecenas purus diam, sollicitudin vel scelerisque ac, posuere nec felis. Suspendisse mattis nisl sed dolor vestibulum vestibulum. Mauris pulvinar vel metus nec tempor. In mattis dignissim sem, ut euismod sapien fermentum ac. Vestibulum bibendum nisl sed velit sollicitudin interdum dictum a arcu. Mauris pharetra tellus at porta vehicula. Vestibulum ut nibh sed justo scelerisque tincidunt sit amet ut libero. Suspendisse maximus magna nunc, sit amet rhoncus nunc auctor eget. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.<br><br>
-
-				Suspendisse a ipsum non erat eleifend blandit vel et enim. Vivamus varius tellus eros, id aliquam neque ultricies nec. Suspendisse ultrices mauris in est laoreet pretium in a turpis. Ut vitae diam tincidunt, sodales mi ultricies, dictum orci. Aliquam nunc risus, aliquet eget justo a, dignissim sollicitudin lacus. Praesent pellentesque nisi tristique urna laoreet vulputate. Vestibulum eu enim bibendum, efficitur enim mollis, blandit sapien. Nam quis nulla porta, pharetra turpis eu, gravida ante. In facilisis pellentesque arcu non pretium. Fusce eros magna, congue nec ornare non, euismod eget lacus. Vivamus at commodo nisl.</p>
-			</div>
+			
 		</div>
 		<div class="img-disena espacio-up-down">
 
-			<p class="edicion">La experiencia de estar frente a una colección especialmente elaborada y presentada por la diseñadora, mostrado y compartiendo ciertos detalles del estilo y exclusividad de cada una de sus piezas.</p>
+
+		<p class="edicion">Rochi Kahn desarrolla y presenta el concepto  de <strong>Muestra Privada</strong>.
+
+
+</p><br>
+
+			<p class="edicion">La experiencia de estar frente a una colección especialmente elaborada y presentada por la diseñadora, mostrado y compartiendo ciertos detalles del estilo y exclusividad de cada una de sus piezas.</p><br>
 <p class="edicion">
 		Además de una mirada y conversatorio sobre la eleccion de este complemento, los tamaños, colores y combinaciones con nuestra vestimenta. Lo imponente de nuestra imagen según como lo combinamos y la interesante y a veces atrevida definición que podemos reflejar con la elección de los colores. <br><br>
 </p>
@@ -307,15 +300,12 @@
 		</div>
 		
 		<div class="galeria-disena">
-			<h3>Muestra Privada</h3>
-			<a href="img/disena-tu-momento/velero.jpg" data-lightbox="example-set"><img src="img/disena-tu-momento/velero.jpg"></a>
-			<a href="img/disena-tu-momento/velero.jpg" data-lightbox="example-set"><img src="img/disena-tu-momento/velero.jpg"></a>
-			<a href="img/disena-tu-momento/velero.jpg" data-lightbox="example-set"><img src="img/disena-tu-momento/velero.jpg"></a>
-			<a href="img/disena-tu-momento/velero.jpg" data-lightbox="example-set"><img src="img/disena-tu-momento/velero.jpg"></a>
-			<a href="img/disena-tu-momento/velero.jpg" data-lightbox="example-set"><img src="img/disena-tu-momento/velero.jpg"></a>
-			<a href="img/disena-tu-momento/velero.jpg" data-lightbox="example-set"><img src="img/disena-tu-momento/velero.jpg"></a>
-			<a href="img/disena-tu-momento/velero.jpg" data-lightbox="example-set"><img src="img/disena-tu-momento/velero.jpg"></a>
-			<a href="img/disena-tu-momento/velero.jpg" data-lightbox="example-set"><img src="img/disena-tu-momento/velero.jpg"></a>
+			<h3>MUESTRA PRIVADA</h3>
+			<a href="img/muestra-privada/mp1.jpg" data-lightbox="example-set"><img src="img/muestra-privada/mp1.jpg"></a>
+			<a href="img/muestra-privada/mp2.jpg" data-lightbox="example-set"><img src="img/muestra-privada/mp2.jpg"></a>
+			<a href="img/muestra-privada/mp3.jpg" data-lightbox="example-set"><img src="img/muestra-privada/mp3.jpg"></a>
+			<a href="img/muestra-privada/mp4.jpg" data-lightbox="example-set"><img src="img/muestra-privada/mp4.jpg"></a>
+			
 			<script src="js/lightbox-plus-jquery.min.js"></script>
 		</div>
 
