@@ -1,7 +1,7 @@
 <?php
 ?>
 
-					<div class="link"><i class="fa fa-caret-right"></i>INTERVENIDAS</div>
+					<div class="link"><i class="fa fa-caret-right"></i>INTERVENIDAS -  <span>"Puro arte"</span></div>
 					<ul class="submenu" id="intervenidas-mostrar">
 					<p class="edicion"></br>Una propuesta diferente,  en un solo concepto. Carteras diseñadas por Rochi Kahn e intervenidas por artistas, pintores que en dupla haran definitivamente de cada cartera una pieza unica. 
 					Pondremos a dispocion para nuestros clientes el preparar ciertos modelos por pedidos especiales y/o elegir de las esclusivas y limitadas ediciones que estaran trabajadas.</br></br>
