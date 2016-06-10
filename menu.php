@@ -5,7 +5,7 @@
 	<nav>
 		<ul>
 			<li><a href="index.php#izquierda-edicion">EDICIÓN LIMITADA</a></li>
-			<li><a href="index.php#derecha-experiencias">EXPERIENCIAS</a></li>
+			<li><a href="index.php#derecha-experiencias">MÁS QUE UNA COMPRA UNA EXPERIENCIA</a></li>
 			
 		</ul>
 	</nav>
@@ -17,7 +17,7 @@
 	<div class="continuacion">
 		<nav>
 			<ul>
-				<li><a href="index.php#trayectoria">TRAYECTORIA</a></li>
+				<li><a href="index.php#trayectoria">TRAYECTORIA Y MEDIOS</a></li>
 				<li><a href="#contacto">CONTACTO</a></li>
 			</ul>
 		</nav>
@@ -39,8 +39,8 @@
 	<nav class="menu">
 		<ul class="re">
 			<li><a href="index.php#izquierda-edicion">EDICIÓN LIMITADA</a></li>
-			<li><a href="index.php#derecha-experiencias">EXPERIENCIAS</a></li>
-			<li><a href="index.php#trayectoria">TRAYECTORIA</a></li>
+			<li><a href="index.php#derecha-experiencias">MÁS QUE UNA COMPRA UNA EXPERIENCIA</a></li>
+			<li><a href="index.php#trayectoria">TRAYECTORIA Y MEDIOS</a></li>
 			<li><a href="medios.php">MEDIOS</a></li>
 			<li><a href="#contacto">CONTACTO</a></li>
 		</ul>
