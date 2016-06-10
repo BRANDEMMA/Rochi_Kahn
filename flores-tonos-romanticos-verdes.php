@@ -4,7 +4,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-	<title>ROCHI KAHN</title>
+	<title>ROCHI KAHN - CARTERA - BOLSO FLORES TONOS ROMANTICOS VERDES</title>
 
 <!--================== 	ENLACE HOJA DE ESTILOS (INICIA)  =====================-->
 
@@ -192,23 +192,27 @@
 				<div class="texto-articulo">
 					<div class="boton-mas-detalles" id="mas-cuidados"><a id="mas-detalles"><strong>Cuidados del Producto</strong> &nbsp;&nbsp;&nbsp;&nbsp;<img src="img/prensa/ver-mas.gif"></a></div>
 					<div style="display:none;" class="boton-mas-detalles" id="menos-cuidados"><a id="menos-detalles"><strong>Cuidados del Producto</strong> &nbsp;&nbsp;&nbsp;&nbsp;<img src="img/prensa/ver-menos.gif"></a></div>
-					<p style="display:none;" class="contenido-mostrar" id="cuidados-productos">Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ultrices mollis arcu non condimentum. Duis ex nisi, tristique sit amet mollis et, accumsan vel enim. Praesent iaculis ex ac ipsum viverra, et pellentesque libero varius. Proin porta id magna a elementum. Fusce condimentum quam eget vestibulum dictum. Ut tortor quam, consectetur et lacus sed, rhoncus sollicitudin erat.<br><br>
+					<p style="display:none;" class="contenido-mostrar" id="cuidados-productos"><br>Todas y cada una de las carteras de Rochi Kahn son trabajadas por expertos artesanos utilizando refinados materiales, especialmente seleccionados por sus texturas, originalidad, colores y belleza. <br><br>
+				Conservar la apariencia de las carteras en los cueros, telares, fibras, naturales y sus aplicaciones en piedra, madera, espejo entre otros, requiere ser tratados muy delicadamente.<br><br>
+					<strong>- Guarde las carteras con cierto relleno y por separado, evite apilarlas.<br><br>
+					- Evite contacto con el agua o cualquier otro líquido.
+					- Evite la directa exposición a la luz y al calor.
+					- Minimice las marcas en el cuero evitando rozar el producto contra superficies filosas o ásperas.<br><br>
+					- Recuerde que cueros oscuros pueden desteñir si son rozados contra prendas de color claro y viceversa.<br><br>
+					- Para limpiar este producto utilice un paño suave y seco.</strong>
+<br><br>
 
-					Aliquam elementum elit et quam lobortis, vitae molestie neque rutrum. Morbi vitae venenatis est, sed hendrerit ante. In hac habitasse platea dictumst. Suspendisse tincidunt odio ligula. In tincidunt sapien faucibus luctus commodo. Donec bibendum dui elit, vel maximus mauris fermentum a.<br><br>
-
-					Aliquam erat volutpat. Morbi venenatis luctus convallis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sed laoreet leo. Fusce lobortis vehicula interdum. Donec placerat finibus lacinia. Aliquam scelerisque a dolor sit amet ornare.</p>
+					</p>
 
 
 					<div class="boton-mas-detalles" id="mas-elaboracion"><a id="mas-detalles2"><strong>Tiempo de elaboración</strong> &nbsp;&nbsp;&nbsp;&nbsp;<img src="img/prensa/ver-mas.gif"></a></div>
 					<div style="display:none;" class="boton-mas-detalles" id="menos-elaboracion"><a id="menos-detalles2"><strong>Tiempo de elaboración</strong> &nbsp;&nbsp;&nbsp;&nbsp;<img src="img/prensa/ver-menos.gif"></a></div>
-					<p style="display:none;" class="contenido-mostrar" id="tiempo-elaboracion">Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ultrices mollis arcu non condimentum. Duis ex nisi, tristique sit amet mollis et, accumsan vel enim. Praesent iaculis ex ac ipsum viverra, et pellentesque libero varius. Proin porta id magna a elementum. Fusce condimentum quam eget vestibulum dictum. Ut tortor quam, consectetur et lacus sed, rhoncus sollicitudin erat.<br><br>
-
-					Aliquam elementum elit et quam lobortis, vitae molestie neque rutrum. Morbi vitae venenatis est, sed hendrerit ante. In hac habitasse platea dictumst. Suspendisse tincidunt odio ligula. In tincidunt sapien faucibus luctus commodo. Donec bibendum dui elit, vel maximus mauris fermentum a.<br><br>
-
-					Aliquam erat volutpat. Morbi venenatis luctus convallis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sed laoreet leo. Fusce lobortis vehicula interdum. Donec placerat finibus lacinia. Aliquam scelerisque a dolor sit amet ornare.</p>
-
-
+					<p style="display:none;" class="contenido-mostrar" id="tiempo-elaboracion"><br>Cada cartera muchas veces es única y todas pertenecen a ediciones limitadas y numeradas, por esta razón y la personalización de sus diseños en materiales de composición pueden tomar cierto tiempo de elaboración y producción. <br><br>
+					<strong>Nuestro tiempo promedio son 20 días (puede ser antes o después) dependerá de la elección del material, el origen del mismo y el trabajo de su creación.</strong> <br><br>
+					Esta información será más precisa en el momento de la elección que hagan nuestros clientes.
 					<br><br>
+
+					
 					<a href=""><i class="fa fa-mobile"></i>(511) 985 047 810</a>
 				</div>
 				<div class="formulario-articulo" id="solicitar">
