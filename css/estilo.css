@@ -2287,6 +2287,9 @@ p.edicion{
 	.trayectoria-p{
 		width: 22%;
 	}
+	.izquierda-trayectoria{
+		padding-top: 2%;
+	}
 }
 @media(max-width: 970px){
 	.p-nueva{
@@ -2351,6 +2354,12 @@ p.edicion{
 	}
 	.galeria-disena img{
 		width: 28%;
+	}
+	.izquierda-trayectoria{
+		padding-top: 5%;
+	}
+	.izquierda-trayectoria p{
+		font-size: 0.8em;
 	}
 }
 @media(max-width: 850px){
@@ -2536,6 +2545,12 @@ p.edicion{
 	.logo2 #ver-mas2 a, .logo2 #ver-menos2 a{
 		width: 42%;
 	}
+	.cuadro-trayectoria{
+		width: 20%;
+	}
+	.izquierda-trayectoria{
+		padding-top: 2%;;
+	}
 }
 @media(max-width: 700px){
 	.img-productos-1{
@@ -2546,6 +2561,20 @@ p.edicion{
 	}
 	.trayectoria-p{
 		width: 28%;
+	}
+	.izquierda-trayectoria{
+		float: none;
+		margin: 0 auto;
+		padding-top: 2%;
+	    padding-right: 0;
+	    text-align: center;
+	    width: 70%;
+	}
+	.izquierda-trayectoria p{
+		font-size: 1em;
+	}
+	.derecha-trayectoria{
+		display: none;
 	}
 }
 @media(max-width: 692px){
@@ -2735,6 +2764,12 @@ p.edicion{
 	}
 	.trayectoria-p{
 		width: 36%;
+	}
+	.contenedor-cuadro-trayectoria{
+		flex-wrap: wrap;
+	}
+	.cuadro-trayectoria{
+		width: 30%;
 	}
 }
 @media(max-width: 537px){

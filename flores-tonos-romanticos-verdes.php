@@ -197,13 +197,13 @@
 				</div>
 				<div class="formulario-articulo" id="solicitar">
 					<p>SOLICÍTALA AHORA.</p>
-					<form class="form-main" name="ajax-form" id="ajax-form" method="POST" action="enviar.php">
+					<form class="form-main" name="ajax-form" id="ajax-form" method="POST" action="php/enviar-sc-01.php">
 						<div id="ajaxsuccess">*El Email ha sido enviado satisfactoriamente.*</div><br>
 						<label>NOMBRE</label><input name="nombre" id="nombre" type="text"><br>
 						<div class="error" id="err-nombre">*Por favor introduce tu nombre*</div><br>
 						<label>TELÉFONO</label><input name="telf" id="telefono" type="tel"><br>
 						<div class="error" id="err-telefono">*Por favor introduce tu número teléfonico*</div><br>
-						<label>EMAIL</label><input name="email" id="telefono" type="email"><br>
+						<label>EMAIL</label><input name="email" id="email" type="email"><br>
 						<div class="error" id="err-email">*Por favor introduce tu e-mail*</div>
 				       	<div class="error" id="err-emailvld">*El formato de E-mail no es valido*</div><br>
 						<label>MENSAJE</label><textarea name="mensaje" id="mensaje" rows="4"></textarea><br>
