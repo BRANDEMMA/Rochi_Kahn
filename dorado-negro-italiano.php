@@ -4,7 +4,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-	<title>ROCHI KAHN - Bolso - Cartera - DORADO Y NEGRO ITALIANO</title>
+	<title>ROCHI KAHN - BOLSO - CARTERA - DORADO Y NEGRO ITALIANO</title>
 
 <!--================== 	ENLACE HOJA DE ESTILOS (INICIA)  =====================-->
 
@@ -196,7 +196,7 @@
 				</div>
 				<div class="formulario-articulo" id="solicitar">
 					<p>SOLICÍTALA AHORA.</p>
-					<form class="form-main" name="ajax-form" id="ajax-form" method="POST" action="enviar.php">
+					<form class="form-main" name="ajax-form" id="ajax-form" method="POST" action="php/sc/enviar-sc-02.php">
 						<div id="ajaxsuccess">*El Email ha sido enviado satisfactoriamente.*</div><br>
 						<label>NOMBRE</label><input name="nombre" id="nombre" type="text"><br>
 						<div class="error" id="err-nombre">*Por favor introduce tu nombre*</div><br>
