@@ -178,9 +178,14 @@
 					<div class="botones">
 						<a href="#solicitar"><i class="fa fa-shopping-cart"></i>COMPRAR</a>
 						<a href=""><i class="fa fa-scissors" aria-hidden="true"></i>HACER</a>
-						<a href=""><i class="fa fa-facebook"></i></a>
-						<a href=""><i class="fa fa-twitter"></i></a>
-						<a href=""><i class="fa fa-whatsapp"></i></a>
+
+					
+
+
+						<a href="javascript:void( window.open('https://www.facebook.com/share.php?u=http%3A%2F%2Frochikahn.com%2Fdorado-negro-italiano.php&t=ROCHI%20KAHN%20-%20Bolso%20-%20Cartera%20-%20DORADO%20Y%20NEGRO%20ITALIANO', 'blank','scrollbars=yes,toolbar=no,width=700,height=500'))" target="_blank"><i class="fa fa-facebook"></i></a>
+						<a href="javascript:void( window.open('https://twitter.com/intent/tweet?text=ROCHI%20KAHN%20-%20Bolso%20-%20Cartera%20-%20DORADO%20Y%20NEGRO%20ITALIANO%20http%3A%2F%2Frochikahn.com%2Fdorado-negro-italiano.php&source=webclient', 'blank','scrollbars=yes,toolbar=no,width=700,height=500'))" target="_blank">
+						<i class="fa fa-twitter"></i></a>
+						<a href="whatsapp://send?text= http%3A%2F%2Frochikahn.com%2Fdorado-negro-italiano.php&t=ROCHI%20KAHN%20-%20Bolso%20-%20Cartera%20-%20DORADO%20Y%20NEGRO%20ITALIANO/" data-action="share/whatsapp/share"><i class="fa fa-whatsapp"></i></a>
 					</div> 
 				</div>
 				<div class="texto-articulo">
