@@ -182,8 +182,8 @@
 					- 3 bolcillos interinos, 1 con cierre.<br></p>
 					<p><span>S/ 1000 Soles</span></p>
 					<div class="botones">
-						<a href="#solicitar"><i class="fa fa-shopping-cart"></i>COMPRAR</a>
-						<a href=""><i class="fa fa-scissors" aria-hidden="true"></i>HACER</a>
+						<!--<a href="#solicitar"><i class="fa fa-shopping-cart"></i>COMPRAR</a>-->
+						<a href="#solicitar"><i class="fa fa-scissors" aria-hidden="true"></i>HACER</a>
 
 
 

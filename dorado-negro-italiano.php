@@ -176,8 +176,8 @@
 					- 3 bolcillos interinos, 1 con cierre.<br></p>
 					<p><span>S/ 1000 Soles</span></p>
 					<div class="botones">
-						<a href="#solicitar"><i class="fa fa-shopping-cart"></i>COMPRAR</a>
-						<a href=""><i class="fa fa-scissors" aria-hidden="true"></i>HACER</a>
+						<!--<a href="#solicitar"><i class="fa fa-shopping-cart"></i>COMPRAR</a>-->
+						<a href="#solicitar"><i class="fa fa-scissors" aria-hidden="true"></i>HACER</a>
 
 					
 
@@ -202,7 +202,7 @@
 						<div class="error" id="err-nombre">*Por favor introduce tu nombre*</div><br>
 						<label>TELÉFONO</label><input name="telf" id="telefono" type="tel"><br>
 						<div class="error" id="err-telefono">*Por favor introduce tu número teléfonico*</div><br>
-						<label>EMAIL</label><input name="email" id="telefono" type="email"><br>
+						<label>EMAIL</label><input name="email" id="email" type="email"><br>
 						<div class="error" id="err-email">*Por favor introduce tu e-mail*</div>
 				       	<div class="error" id="err-emailvld">*El formato de E-mail no es valido*</div><br>
 						<label>MENSAJE</label><textarea name="mensaje" id="mensaje" rows="4"></textarea><br>
