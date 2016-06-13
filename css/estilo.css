@@ -546,7 +546,10 @@ color: gray;
 	display: none;
 }
 
-
+.alinear-carteras{
+	display: flex;
+	flex-wrap: wrap;
+}
 
 .titulo-trayectoria-2{
 	background: url(../img/trayectoria/linea.gif);
