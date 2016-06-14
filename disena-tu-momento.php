@@ -270,6 +270,14 @@
 						Es un nuevo concepto, que involucra la experiencia de entregar y recibir un diseño de cartera o bolso hecho por Rochi Kahn como un regalo especial,  una propuesta diferente y única que permite sorprender a quien tu quieras.
 
 					</p>
+</div>
+				<div class="titulo-consideraciones">
+				<img src="img/prensa/ver-menos.gif"><p>CONSIDERACIONES GENERALES</p></div>
+						<div class="p-consideraciones">
+					<p>- Se realiza el diseño y reserva del servicio mínimo 20 días antes de la fecha de celebración. (Tiempo de  elaboración y coordinación).<br><br>
+						-  El diseño es elegido de propuestas presentadas por Rochi Kahn, colores, cueros, pieles y texturas pueden elegirse según catálogo de la diseñadora. (Uno o varios diseños).<br><br>
+						- El traslado es en un auto BMW.<br><br>
+						- El lugar elegido, ciudad (almuerzo o cena para dos) o alta mar (paquete especial 4 horas navegando, capacidad hasta 8 personas).</p>
 				</div>
 			</div>
 		</div>
@@ -277,21 +285,12 @@
 			<img src="img/disena-tu-momento/diseno.jpg">
 			<div class="texto-descriptivo">
 				<h5>EL DISEÑO</h5>
-				<p>El Diseño  personalizado de una Cartera o Bolso con los mejores cueros y pieles a eleccion del cliente con la diseñadora. 
-				Un regalo de unica y especial edicion.
+				<p>Una cartera personalizada elegida de la galería o elaborada por Rochi Kahn para esa persona especial. Un regalo de única y especial edición.
+
 				</p>
 			</div>
 			<div class="clear"></div>
-			<div id="ver-mas3"><a id="mas3"><p>CONSIDERACIONES GENERALES</p><img src="img/prensa/ver-mas.gif"></a></div>
-			<div id="ver-menos3"><a id="menos3"><p>CONSIDERACIONES GENERALES</p><img src="img/prensa/ver-menos.gif"></a></div>
-			<div id="texto-desarrollo1">
-				<p><br><br>
-						- Se realiza el diseño y reserva del servicio mínimo 20 días antes de la fecha de celebración. (Tiempo de  elaboración y coordinación).<br><br>
-						-  El diseño es elegido de propuestas presentadas por Rochi Kahn, colores, cueros, pieles y texturas pueden elegirse según catálogo de la diseñadora. (Uno o varios diseños).<br><br>
-						- El traslado es en un auto BMW.<br><br>
-						- El lugar elegido, ciudad (almuerzo o cena para dos) o alta mar (paquete especial 4 horas navegando, capacidad hasta 8 personas). 
-					</p>
-			</div>
+			
 		</div>
 
 	
@@ -299,7 +298,7 @@
 			<img src="img/disena-tu-momento/traslado.jpg">
 			<div class="texto-descriptivo">
 				<h5>EL TRASLADO</h5>
-				<p>De la persona que queremos sorprender abordo de un auto exclusivo para el momento BMW</p>
+				<p>De la persona que queremos sorprender abordo de un auto exclusivo para el momento.</p>
 			</div>
 			
 		</div>
@@ -310,7 +309,8 @@
 				<img id="mas-detalles-locacion-2" src="img/disena-tu-momento/traslado-presentacion.jpg">
 				<div class="texto-descriptivo2">
 					<h5>EL LUGAR</h5>
-					<p>Te ofrecemos dos opciones; en la ciudad  HOTEL B, en alta mar navegando en un Velero</p>
+					<p>Te ofrecemos dos exclusivas instalaciones; el Hotel B y 
+Belmond Miraflores Park‎.</p>
 				</div>
 			</div>
 			<div class="clear"></div>
