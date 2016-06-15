@@ -166,7 +166,7 @@
 					<a href="flores-encendidas-italiano.php"><img src="img/productos/seduce-color/cartera-rk-seduce-color-0003.jpg"></a>
 					<div class="clear"></div>
 				</div> -->
-				<a class="boton" href="javascript:history.back(-1);"><i class="fa fa-caret-left"></i>VOLVER</a>								
+				<a class="boton" href="peru-de-lujo.php#peru-lujo-mostrar"><i class="fa fa-caret-left"></i>VOLVER</a>								
 			</div>
 			<div class="derecha-articulo">
 				<p class="titulo-derecha-articulo">HANAQ PACHA</p>

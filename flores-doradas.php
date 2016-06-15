@@ -163,7 +163,7 @@
 					<a href="flores-tonos-romanticos-rojos-azules.php"><img src="img/productos/seduce-color/cartera-rk-seduce-color-0004.jpg"></a>
 					<div class="clear"></div>
 				</div> -->
-				<a class="boton" href="javascript:history.back(-1);"><i class="fa fa-caret-left"></i>VOLVER</a>								
+				<a class="boton" href="petit-ro.php#petit-mostrar"><i class="fa fa-caret-left"></i>VOLVER</a>								
 			</div>
 			<div class="derecha-articulo">
 				<p class="titulo-derecha-articulo">FLORES DORADAS</p>

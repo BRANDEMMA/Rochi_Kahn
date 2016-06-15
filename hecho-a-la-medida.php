@@ -266,12 +266,16 @@
 			<div class="texto-consideraciones">
 				<div class="titulo-consideraciones"><img src="img/prensa/ver-menos.gif"><p>CONSIDERACIONES GENERALES</p></div>
 				<div class="p-consideraciones">
-					<p>&#8226	Hecho a la Medida   es un servicio que atiende de manera individual y por citas. (reserva hasta  30 personas atendidas por semana,  (6 citas al dia). <br>
-					&#8226	Hecho a la Medida  es reservado con un  tiempo de 15 días min.<br>
-					&#8226	Cada cartera tiene un tiempo de elaboracion min de 15 dias y se entrega en el lugar que se indique.<br>
-					&#8226	La mayoría de los diseños llevan siempre un detalle que hará única muchas de sus piezas. Pueden llevar las iniciales o nombre de la persona.   (Edicion Mia Signature).<br>
-					&#8226	El lugar para este viaje creativo tiene varias opciones y asi facilitar a las clientas o personas que tomen la experiencia. (coordinacion previa).<br>
-				</p>
+					<p>&#8226	Hecho a la Medida   es un servicio que atiende de manera individual y por citas. (6 citas al día). <br>
+					&#8226	Hecho a la Medida  es reservado con un  tiempo de 15 días mínimo.<br>
+					&#8226	Cada cartera tiene un tiempo de elaboracion mínimo de 15 días y se entrega en el lugar que se indique.<br>
+					&#8226	La mayoría de los diseños llevan siempre un detalle que hará única muchas de sus piezas. Pueden llevar las iniciales o nombre de la persona.   (Edicion Mia Signature)<br>
+					&#8226	El lugar para este viaje creativo tiene varias opciones y asi facilitar a las clientas o personas que tomen la experiencia:<br>
+					&#8226	Holtel B – Barranco.<br>
+					&#8226	Belmond Miraflores Park – Miraflores.<br>
+					&#8226	Lugar de su preferencia, casa u oficina.<br>
+					&#8226	Privado de Rochi Kahn.
+					</p>
 				</div>
 			</div>
 		</div>

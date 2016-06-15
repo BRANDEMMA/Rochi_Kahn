@@ -166,14 +166,14 @@
 					<a href="flores-encendidas-italiano.php"><img src="img/productos/seduce-color/cartera-rk-seduce-color-0003.jpg"></a>
 					<div class="clear"></div>
 				</div> -->
-				<a class="boton" href="javascript:history.back(-1);"><i class="fa fa-caret-left"></i>VOLVER</a>								
+				<a class="boton" href="petit-ro.php#petit-mostrar"><i class="fa fa-caret-left"></i>VOLVER</a>								
 			</div>
 			<div class="derecha-articulo">
 				<p class="titulo-derecha-articulo">ANIMAL PRINT</p>
 				<div class="descripcion-articulo">
 					<p>15 x 20 x 40 cm<br>
 					(Alto x Largo x Alto Asa Corta)<br><br>
-					Lista para ser la pieza que te complete el look, bolsito de elegante piel pinetada en animal print. Cadena bronce larga.<br><br>
+					Lista para ser la pieza que te complete el look, bolsito de elegante piel pintada en animal print. Cadena bronce larga.<br><br>
 					- Tapa con imantado boca principal.<br>
 					- Asa larga.<br>
 					- Forro interior en tono color.<br>

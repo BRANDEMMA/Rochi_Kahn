@@ -166,7 +166,7 @@
 					<br><br>
 				</p>
 				</div>
-				<a class="boton" href="javascript:history.back(-1);"><i class="fa fa-caret-left"></i>VOLVER</a>								
+				<a class="boton" href="seduce-color.php#seduce-color-mostrar"><i class="fa fa-caret-left"></i>VOLVER</a>								
 			</div>
 			<div class="derecha-articulo">
 				<p class="titulo-derecha-articulo">FLORES Y TONOS ROMATICOS VERDES</p>
