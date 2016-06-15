@@ -286,6 +286,7 @@
 						</li>
 					</ul> -->
 					<ul><br>
+					<li><a href="hecho-a-la-medida.php"><i class="fa fa-caret-right"></i>HECHO A LA MEDIDA</a></li>
 						<li><a href="disena-tu-momento.php"><i class="fa fa-caret-right"></i>DISEÑA TU MOMENTO</a></li>
 						<li><a href="muestra-privada.php"><i class="fa fa-caret-right"></i>MUESTRA PRIVADA</a></li>
 						<!-- <li><a href="#"><i class="fa fa-caret-right"></i>HECHA A LA MEDIDA</a></li>-->
