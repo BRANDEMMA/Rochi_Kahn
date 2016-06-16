@@ -70,6 +70,9 @@
 				$('#video3').hide();
 				$('#video4')[0].pause();
 				$('#video4').hide();
+				$('#video5')[0].pause();
+				$('#video5').hide();
+
 				
 			});
 		});
@@ -85,6 +88,8 @@
 				$('#video3').hide();
 				$('#video4')[0].pause();
 				$('#video4').hide();
+				$('#video5')[0].pause();
+				$('#video5').hide();
 				
 			});
 		});
@@ -100,6 +105,8 @@
 				$('#video2').hide();
 				$('#video4')[0].pause();
 				$('#video4').hide();
+				$('#video5')[0].pause();
+				$('#video5').hide();
 				
 			});
 		});
@@ -115,6 +122,25 @@
 				$('#video2').hide();
 				$('#video3')[0].pause();
 				$('#video3').hide();
+				$('#video5')[0].pause();
+				$('#video5').hide();
+			
+			});
+		});
+	</script>
+
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$('#mostrar-video5').on('click', function(){
+				$('#video5').show();
+				$('#video1')[0].pause();
+				$('#video1').hide();
+				$('#video2')[0].pause();
+				$('#video2').hide();
+				$('#video3')[0].pause();
+				$('#video3').hide();
+				$('#video4')[0].pause();
+				$('#video4').hide();
 			
 			});
 		});
@@ -271,7 +297,7 @@
 			<div id="derecha-experiencias">
 				<div class="espacio-experiencias"></div>
 				<div class="menu-experiencias">
-					<div class="titulo-experiencias"><img class="img-experiencias-1" src="img/index/linea-circulo.gif"><p class="p-experiencias">EXPERIENCIAS</p><img class="img-experiencias-2" src="img/index/circulo.jpg"></div>
+					<div class="titulo-experiencias"><img class="img-experiencias-1" src="img/index/linea-circulo.gif"><p class="p-experiencias">EXPERIENCIAS DE COMPRA</p><img class="img-experiencias-2" src="img/index/circulo.jpg"></div>
 					<div class="clear"></div>
 					<!-- <ul id="accordion" class="accordion">
 						<li>
@@ -297,7 +323,7 @@
 		</div>
 		<div class="clear"></div>
 		<div class="trayectoria" id="trayectoria">
-			<div class="titulo-trayectoria-2"><div class="texto-titulo-trayectoria-2"><p>TRAYECTORIA</p></div></div>
+			<div class="titulo-trayectoria-2"><div class="texto-titulo-trayectoria-2"><p>TRAYECTORIA Y MEDIOS</p></div></div>
 			
 			<div class="rochi"><p>ROCHI KAHN</p></div>
 			<div class="contenido-trayectoria">
@@ -376,6 +402,9 @@
 				<video id="video4" style="display:none;" poster="video/5/rk-video-madre-dios.jpg" controls>
 					<source src="video/5/madre-de-dios.mp4"  type="video/mp4">
 				</video>
+				<video id="video5" style="display:none;" poster="video/6/guerreras-rk.jpg" controls>
+					<source src="video/6/guerreras.mp4"  type="video/mp4">
+				</video>
 				<div class="clear"></div>
 
 				<div class="contenedor-miniaturas-videos">
@@ -384,6 +413,7 @@
 					<img id="mostrar-video2" src="video/3/artesanos-cajamarca-thumbs.jpg">
 					<img id="mostrar-video3" src="video/4/empire-collection-thumbs.jpg">
 					<img id="mostrar-video4" src="video/5/rk-video-madre-dios-thumbs.jpg">
+					<img id="mostrar-video5" src="video/6/guerreras-rk-thumbs.jpg">
 				</div>
 
 				<!-- <div id="contenedor-slider-total">
