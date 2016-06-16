@@ -388,7 +388,11 @@
 					<source src="video/1/rochikahn.webm"  type="video/webm">
 				</video>-->
 
-				<video id="video1" poster="video/2/rk-video-pasarela-2014.jpg" controls>
+				<video id="video5" poster="video/6/guerreras-rk.jpg" controls>
+					<source src="video/6/guerreras.mp4"  type="video/mp4">
+				</video>
+
+				<video id="video1" style="display:none;" poster="video/2/rk-video-pasarela-2014.jpg" controls>
 					<source src="video/2/peru-moda-rk.mp4"  type="video/mp4">
 				</video>
 
@@ -402,18 +406,15 @@
 				<video id="video4" style="display:none;" poster="video/5/rk-video-madre-dios.jpg" controls>
 					<source src="video/5/madre-de-dios.mp4"  type="video/mp4">
 				</video>
-				<video id="video5" style="display:none;" poster="video/6/guerreras-rk.jpg" controls>
-					<source src="video/6/guerreras.mp4"  type="video/mp4">
-				</video>
 				<div class="clear"></div>
 
 				<div class="contenedor-miniaturas-videos">
 					<!-- <img id="mostrar-video1" src="video/1/rk-video-thumbs.jpg">-->
+					<img id="mostrar-video5" src="video/6/guerreras-rk-thumbs.jpg">
 					<img id="mostrar-video1" src="video/2/rk-video-pasarela-thumbs.jpg">
 					<img id="mostrar-video2" src="video/3/artesanos-cajamarca-thumbs.jpg">
 					<img id="mostrar-video3" src="video/4/empire-collection-thumbs.jpg">
 					<img id="mostrar-video4" src="video/5/rk-video-madre-dios-thumbs.jpg">
-					<img id="mostrar-video5" src="video/6/guerreras-rk-thumbs.jpg">
 				</div>
 
 				<!-- <div id="contenedor-slider-total">
