@@ -118,6 +118,26 @@
 							include 'galeria-pasarela-ethical.php'
 						?>
 					</li>
+					<li>
+						<?php
+							include 'peru-moda-y-textiles.php'
+						?>
+					</li>
+					<li>
+						<?php
+							include 'pasarela-mercedez-benz-2014.php'
+						?>
+					</li>
+					<li>
+						<?php
+							include 'galeria-arte-moda.php'
+						?>
+					</li>
+					<li>
+						<?php
+							include 'galeria-pasarela-ethical.php'
+						?>
+					</li>
 				</ul>
 				<script src="js/acordion.js"></script>
 			</div>

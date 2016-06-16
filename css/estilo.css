@@ -682,6 +682,19 @@ color: gray;
 	padding-left:6%;
 	padding-right:6%;
 }
+.contenedor-btn-ver-galeria{
+	margin-top: 2%;
+	text-align: center;
+	width: 100%;
+}
+.btn-ver-galeria{
+	border: 1px solid black;
+	color: black;
+	font-family: "calibri_light";
+	margin: 0 auto;
+	padding: 5px 10px;
+	text-decoration: none;
+}
 /*--============    ESTILOS DE TRAYECTORIA (FIN)  ============--*/
 
 /*--============    ESTILOS DE PRENSA (INICIO)  ============--*/

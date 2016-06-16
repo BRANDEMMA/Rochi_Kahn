@@ -374,7 +374,9 @@
 					<div class="cuadro-trayectoria"><a href="trayectoria-lanzamiento-rochi.php#galeria-lanzamiento-rochi-mostrar" style="text-decoration:none;color:black;"><img src="img/trayectoria/5/rk-lanzamiento-marca-thumbs.jpg"><p>LANZAMIENTO ROCHI KAHN</p></a></div>
 -->
 				</div>
-				
+				<div class="contenedor-btn-ver-galeria">
+				<a  class="btn-ver-galeria" href="trayectoria-peru-moda-textiles.php">Ver Todos</a>
+				</div>
 			</div>
 		</div>
 		<div class="prensa">
