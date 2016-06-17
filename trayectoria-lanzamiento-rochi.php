@@ -100,26 +100,6 @@
 				<ul id="accordion" class="accordion">
 					<li>
 						<?php
-							include 'galeria-peru-moda.php'
-						?>
-					</li>
-					<li>
-						<?php
-							include 'galeria-arte-moda.php'
-						?>
-					</li>
-					<li>
-						<?php
-							include 'galeria-pasarela-ethical.php'
-						?>
-					</li>
-					<li>
-						<?php
-							include 'galeria-lanzamiento-rochi.php'
-						?>
-					</li>
-					<li>
-						<?php
 							include 'peru-moda-y-textiles.php'
 						?>
 					</li>
@@ -136,6 +116,26 @@
 					<li>
 						<?php
 							include 'galeria-pasarela-ethical.php'
+						?>
+					</li>
+					<li>
+						<?php
+							include 'cosas-lujo.php'
+						?>
+					</li>
+					<li>
+						<?php
+							include 'caretas.php'
+						?>
+					</li>
+					<li>
+						<?php
+							include 'republica.php'
+						?>
+					</li>
+					<li>
+						<?php
+							include 'latina-creacion.php'
 						?>
 					</li>
 				</ul>

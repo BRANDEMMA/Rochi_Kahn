@@ -1,8 +1,8 @@
 <?php
 ?>
-	<div class="link"><i class="fa fa-caret-right"></i>PASARELA ETHICAL FASHION PARIS</div>
+	<div class="link"><i class="fa fa-caret-right"></i>PASARELA ETHICAL FASHION</div>
 	<ul class="submenu" id="galeria-pasarela-ethical-mostrar">
-		<div class="titulo-galeria-trayectoria"><img src="img/contacto/linea-corta.gif"><p>PERÚ MODA 2014</p></div>
+		<div class="titulo-galeria-trayectoria"><img src="img/contacto/linea-corta.gif"><p>PARIS</p></div>
 		<div class="img-trayectoria-galeria">
 			<img src="img/trayectoria/4/ethical-rk-1.jpg">
 		</div>

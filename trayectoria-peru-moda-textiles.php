@@ -4,7 +4,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-	<title>ROCHI KAHN - TRAYECTORIA</title>
+	<title>ROCHI KAHN - TRAYECTORIA Y MEDIOS</title>
 
 <!--================== 	ENLACE HOJA DE ESTILOS (INICIA)  =====================-->
 
@@ -120,22 +120,22 @@
 					</li>
 					<li>
 						<?php
-							include 'peru-moda-y-textiles.php'
+							include 'cosas-lujo.php'
 						?>
 					</li>
 					<li>
 						<?php
-							include 'pasarela-mercedez-benz-2014.php'
+							include 'caretas.php'
 						?>
 					</li>
 					<li>
 						<?php
-							include 'galeria-arte-moda.php'
+							include 'republica.php'
 						?>
 					</li>
 					<li>
 						<?php
-							include 'galeria-pasarela-ethical.php'
+							include 'latina-creacion.php'
 						?>
 					</li>
 				</ul>
