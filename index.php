@@ -64,13 +64,13 @@
 		$(document).ready(function(){
 			$('#mostrar-video1').on('click', function(){
 				$('#video1').show();
-				$('#video2')[0].pause();
+				// $('#video2')[0].pause();
 				$('#video2').hide();
-				$('#video3')[0].pause();
+				// $('#video3')[0].pause();
 				$('#video3').hide();
-				$('#video4')[0].pause();
+				// $('#video4')[0].pause();
 				$('#video4').hide();
-				$('#video5')[0].pause();
+				// $('#video5')[0].pause();
 				$('#video5').hide();
 
 				
@@ -82,13 +82,13 @@
 		$(document).ready(function(){
 			$('#mostrar-video2').on('click', function(){
 				$('#video2').show();
-				$('#video1')[0].pause();
+				// $('#video1')[0].pause();
 				$('#video1').hide();
-				$('#video3')[0].pause();
+				// $('#video3')[0].pause();
 				$('#video3').hide();
-				$('#video4')[0].pause();
+				// $('#video4')[0].pause();
 				$('#video4').hide();
-				$('#video5')[0].pause();
+				// $('#video5')[0].pause();
 				$('#video5').hide();
 				
 			});
@@ -99,13 +99,13 @@
 		$(document).ready(function(){
 			$('#mostrar-video3').on('click', function(){
 				$('#video3').show();
-				$('#video1')[0].pause();
+				// $('#video1')[0].pause();
 				$('#video1').hide();
-				$('#video2')[0].pause();
+				// $('#video2')[0].pause();
 				$('#video2').hide();
-				$('#video4')[0].pause();
+				// $('#video4')[0].pause();
 				$('#video4').hide();
-				$('#video5')[0].pause();
+				// $('#video5')[0].pause();
 				$('#video5').hide();
 				
 			});
@@ -116,13 +116,13 @@
 		$(document).ready(function(){
 			$('#mostrar-video4').on('click', function(){
 				$('#video4').show();
-				$('#video1')[0].pause();
+				// $('#video1')[0].pause();
 				$('#video1').hide();
-				$('#video2')[0].pause();
+				// $('#video2')[0].pause();
 				$('#video2').hide();
-				$('#video3')[0].pause();
+				// $('#video3')[0].pause();
 				$('#video3').hide();
-				$('#video5')[0].pause();
+				// $('#video5')[0].pause();
 				$('#video5').hide();
 			
 			});
@@ -133,13 +133,13 @@
 		$(document).ready(function(){
 			$('#mostrar-video5').on('click', function(){
 				$('#video5').show();
-				$('#video1')[0].pause();
+				// $('#video1')[0].pause();
 				$('#video1').hide();
-				$('#video2')[0].pause();
+				// $('#video2')[0].pause();
 				$('#video2').hide();
-				$('#video3')[0].pause();
+				// $('#video3')[0].pause();
 				$('#video3').hide();
-				$('#video4')[0].pause();
+				// $('#video4')[0].pause();
 				$('#video4').hide();
 			
 			});
@@ -390,29 +390,17 @@
 					<source src="video/1/rochikahn.webm"  type="video/webm">
 				</video>-->
 
-				<video id="video5" poster="video/6/guerreras-rk.jpg" controls>
-					<source src="video/6/guerreras.mp4"  type="video/mp4">
-				</video>
+				<a href="https://www.facebook.com/rochikahn/videos/1044953458893274/" target="_blank"><img id="video1" src="video/2/rk-video-pasarela-2014.jpg"></a>
+				<a href="https://www.facebook.com/rochikahn/videos/1044930615562225/" target="_blank"><img id="video2" style="display:none;" src="video/3/cajamarca-artesanos.jpg"></a>
 
-				<video id="video1" style="display:none;" poster="video/2/rk-video-pasarela-2014.jpg" controls>
-					<source src="video/2/peru-moda-rk.mp4"  type="video/mp4">
-				</video>
+				<a href="https://www.facebook.com/rochikahn/videos/1044937075561579/" target="_blank"><img id="video3" style="display:none;" src="video/4/rk-video-empire-collection.jpg"></a>
 
-				<video id="video2" style="display:none;" poster="video/3/cajamarca-artesanos.jpg" controls>
-					<source src="video/3/artesanos-cajamarca.mp4"  type="video/mp4">
-				</video>
-
-				<video id="video3" style="display:none;" poster="video/4/rk-video-empire-collection.jpg" controls>
-					<source src="video/4/video2.mp4"  type="video/mp4">
-				</video>
-				<video id="video4" style="display:none;" poster="video/5/rk-video-madre-dios.jpg" controls>
-					<source src="video/5/madre-de-dios.mp4"  type="video/mp4">
-				</video>
+				<a href="https://www.youtube.com/watch?v=197Byq9vY24" target="_blank"><img id="video4" style="display:none;" src="video/5/rk-video-madre-dios.jpg"></a>
 				<div class="clear"></div>
 
 				<div class="contenedor-miniaturas-videos">
 					<!-- <img id="mostrar-video1" src="video/1/rk-video-thumbs.jpg">-->
-					<img id="mostrar-video5" src="video/6/guerreras-rk-thumbs.jpg">
+					<!-- <img id="mostrar-video5" src="video/6/guerreras-rk-thumbs.jpg"> -->
 					<img id="mostrar-video1" src="video/2/rk-video-pasarela-thumbs.jpg">
 					<img id="mostrar-video2" src="video/3/artesanos-cajamarca-thumbs.jpg">
 					<img id="mostrar-video3" src="video/4/empire-collection-thumbs.jpg">

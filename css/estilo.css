@@ -748,6 +748,9 @@ color: gray;
 	margin-top: 2%;
 	width: 95%;
 }
+.contenido-prensa img{
+	width: 100%;
+}
 .contenido-prensa video{
 	width: 100%;
 }
