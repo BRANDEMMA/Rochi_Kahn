@@ -361,9 +361,11 @@
 
 				<div class="contenedor-cuadro-trayectoria">
 
+					<div class="cuadro-trayectoria"><a href="#" style="text-decoration:none;color:black;"><img src="img/trayectoria/1/rk-trayectoria-arteymoda-thumbs.jpg"><p>BACKSTAGE - VIDEO MARCA COMING SOON</p></a></div>
+
 					<div class="cuadro-trayectoria"><a href="trayectoria-peru-moda-textiles.php#galeria-peru-moda-mostrar" style="text-decoration:none;color:black;"><img src="img/trayectoria/1/rk-trayectoria-arteymoda-thumbs.jpg"><p>PERÚ: MODA Y TÉXTILES</p></a></div>
 
-					<div class="cuadro-trayectoria"><a href="trayectoria-arte-moda.php" style="text-decoration:none;color:black;"><img src="img/trayectoria/3/peru-moda-rk-2015-thumbs.jpg"><p>PASARELA MERCEDEZ BENZ PERÚ MODA</p></a></div>
+					<div class="cuadro-trayectoria"><a href="trayectoria-arte-moda.php#galeria-arte-moda-mostrar" style="text-decoration:none;color:black;"><img src="img/trayectoria/3/peru-moda-rk-2015-thumbs.jpg"><p>PASARELA MERCEDEZ BENZ PERÚ MODA</p></a></div>
 
 					<div class="cuadro-trayectoria"><a href="trayectoria-arte-moda.php#galeria-arte-moda-mostrar" style="text-decoration:none;color:black;"><img src="img/trayectoria/2/arteymoda-thumbs.jpg"><p>ARTE Y MODA</p></a></div>
 

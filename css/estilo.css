@@ -2183,6 +2183,9 @@ p.edicion{
 	.texto-descriptivo{
 		top: 41px;
 	}
+	.texto-titulo-trayectoria-2{
+		width: 30%;
+	}
 }
 @media(max-width: 1162px){
 	#izquierda-edicion .titulo-edicion .p-edicion{
@@ -2322,6 +2325,9 @@ p.edicion{
 	.fecha-nueva img{
 		padding-left: 45%;
 	}
+	.texto-titulo-trayectoria-2{
+		width: 35%;
+	}
 }
 @media(max-width: 940px){
 	.rochi p{
@@ -2390,9 +2396,6 @@ p.edicion{
 	#izquierda-edicion .titulo-edicion .p-edicion{
 		width: 70%;
 	}
-	.texto-titulo-trayectoria-2{
-		width: 25%;
-	}
 	.texto-titulo-prensa-2{
 		width: 25%;
 	}
@@ -2416,6 +2419,9 @@ p.edicion{
 @media(max-width: 815px){
 	.titulo-locacion .p-locacion{
 		width: 35%;
+	}
+	.texto-titulo-trayectoria-2{
+		width: 40%;
 	}
 }
 @media(max-width: 802px){
@@ -2572,6 +2578,9 @@ p.edicion{
 	.izquierda-trayectoria{
 		padding-top: 2%;;
 	}
+	.texto-titulo-trayectoria-2{
+		width: 50%;
+	}
 }
 @media(max-width: 700px){
 	.img-productos-1{
@@ -2612,9 +2621,6 @@ p.edicion{
 @media(max-width: 690px){
 	#izquierda-edicion .titulo-edicion .p-edicion{
 		width: 75%;
-	}
-	.texto-titulo-trayectoria-2{
-		width: 27%;
 	}
 	.img-experiencias-1{
 		margin-left: -60px;
@@ -2660,9 +2666,6 @@ p.edicion{
 @media(max-width: 645px){
 	#izquierda-edicion .titulo-edicion .p-edicion{
 		width: 80%;
-	}
-	.texto-titulo-trayectoria-2{
-		width: 30%;
 	}
 	#derecha-experiencias .titulo-experiencias .p-experiencias{
 		width: 80%;
@@ -2715,9 +2718,6 @@ p.edicion{
 	#derecha-experiencias .titulo-experiencias .p-experiencias{
 		width: 85%;
 	}
-	.texto-titulo-trayectoria-2{
-		width: 32%;
-	}
 	.img-productos-1{
 		margin-left: -80px;
 	}
@@ -2731,6 +2731,9 @@ p.edicion{
 	}
 	.logo2 img{
 		width: 35%;
+	}
+	.texto-titulo-trayectoria-2{
+		width: 60%;
 	}
 }
 @media(max-width: 570px){
@@ -2837,7 +2840,7 @@ p.edicion{
 		padding-top: 20%;
 	}
 	.texto-titulo-trayectoria-2{
-		width: 37%;
+		width: 70%;
 	}
 	#derecha-experiencias .titulo-experiencias .p-experiencias{
 		width: 100%;
@@ -3015,9 +3018,6 @@ p.edicion{
 		margin-bottom: 0;
 		width: 30%;
 	}
-	.texto-titulo-trayectoria-2{
-		width: 40%;
-	}
 	.izquierda-trayectoria{
 		padding-top: 0;
 	}
@@ -3030,7 +3030,7 @@ p.edicion{
 		padding-top: 25%;
 	}
 	.texto-titulo-trayectoria-2{
-		width: 42%;
+		width: 80%;
 	}
 	.rochi{
 		width: 28%;
@@ -3094,9 +3094,6 @@ p.edicion{
 	#izquierda-edicion .titulo-edicion .p-edicion{
 		width: 65%;
 	}
-	.texto-titulo-trayectoria-2{
-		width: 48%;
-	}
 	.rochi{
 		width: 30%;
 	}
@@ -3141,9 +3138,6 @@ p.edicion{
 	}
 }
 @media(max-width: 330px){
-	.texto-titulo-trayectoria-2{
-		width: 50%;
-	}
 	.texto-titulo-prensa-2{
 		width: 35%;
 	}
@@ -3159,6 +3153,9 @@ p.edicion{
 	.p-productos{
 		width: 75%;
 	}
+	.texto-titulo-trayectoria-2{
+		width: 85%;
+	}
 }
 @media(max-width: 326px){
 	.logo2 #ver-mas2 a, .logo2 #ver-menos2 a{
@@ -3168,9 +3165,6 @@ p.edicion{
 @media(max-width: 320px){
 	#derecha-experiencias p{
 		letter-spacing: 0.4em;
-	}
-	.texto-titulo-trayectoria-2{
-		width: 53%;
 	}
 	.texto-titulo-prensa-2{
 		width: 37%;
