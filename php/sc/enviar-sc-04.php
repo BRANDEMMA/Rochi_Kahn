@@ -12,7 +12,7 @@
 
 //Mensaje Recepción de Pedido
 @$mensaje=
-"Quiero hacer la cartera CARTERA FLORES Y TONOS ROMANTICOS ROJOS Y AZULES\n\n
+"Quiero hacer la CARTERA FLORES Y TONOS ROMANTICOS ROJOS Y AZULES\n\n
 Nombre: $nombre\n\n
 Teléfono: $telefono\n\n
 E-mail: $email \n\n

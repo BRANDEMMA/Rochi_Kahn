@@ -2449,6 +2449,12 @@ p.edicion{
 	.logo2 #ver-mas2 a, .logo2 #ver-menos2 a{
 		width: 38%;
 	}
+	.izquierda-articulo{
+		width: 100%;
+	}
+	.derecha-articulo{
+		width: 100%;
+	}
 }
 @media(max-width: 768px){
 	.titulo-edicion{
@@ -3053,6 +3059,12 @@ p.edicion{
 	.trayectoria-p{
 		width: 55%;
 	}
+	.formulario-articulo form input{
+		width: 55%;
+	}
+	.formulario-articulo form textarea{
+		width: 56.5%;
+	}
 }
 @media(max-width: 399px){
 	.titulo-locacion .p-locacion{
@@ -3171,6 +3183,9 @@ p.edicion{
 	}
 	.espacio-experiencias{
 		padding-top: 45%;
+	}
+	.pie-pagina img{
+		margin-bottom: -5px;
 	}
 }
 @media(max-width: 316px){

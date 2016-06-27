@@ -4,7 +4,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-	<title>ROCHI KAHN</title>
+	<title>ROCHI KAHN - BOLSO - CARTERA RAIMI</title>
 
 <!--================== 	ENLACE HOJA DE ESTILOS (INICIA)  =====================-->
 
@@ -180,11 +180,11 @@
 					- 3 bolcillos internos, 1 con cierre.</p>
 					<p><span>S/ 1400 Soles</span></p>
 					<div class="botones">
-						<a href="#solicitar"><i class="fa fa-shopping-cart"></i>COMPRAR</a>
-						<a href=""><i class="fa fa-scissors" aria-hidden="true"></i>HACER</a>
-						<a href=""><i class="fa fa-facebook"></i></a>
-						<a href=""><i class="fa fa-twitter"></i></a>
-						<a href=""><i class="fa fa-whatsapp"></i></a>
+						<!-- <a href="#solicitar"><i class="fa fa-shopping-cart"></i>COMPRAR</a> -->
+						<a href="#solicitar"><i class="fa fa-scissors" aria-hidden="true"></i>HACER</a>
+						<a href="javascript:void( window.open('https://www.facebook.com/share.php?u='+document.URL, 'blank','scrollbars=yes,toolbar=no,width=700,height=500'))"><i class="fa fa-facebook"></i></a>
+						<a href="javascript:void( window.open('https://twitter.com/intent/tweet?text='+document.title+'%20'+document.URL, 'blank','scrollbars=yes,toolbar=no,width=700,height=500'))"><i class="fa fa-twitter"></i></a>
+						<a href="javascript:window.location.href=('whatsapp://send?text='+document.title+'%20'+document.URL)" data-action="share/whatsapp/share"><i class="fa fa-whatsapp"></i></a>
 					</div> 
 				</div>
 				<div class="texto-articulo">
@@ -195,7 +195,7 @@
 				</div>
 				<div class="formulario-articulo" id="solicitar">
 					<p>SOLICÍTALA AHORA.</p>
-					<form class="form-main" name="ajax-form" id="ajax-form" method="POST" action="enviar.php">
+					<form class="form-main" name="ajax-form" id="ajax-form" method="POST" action="php/pl/enviar-pl-06.php">
 						<div id="ajaxsuccess">*El Email ha sido enviado satisfactoriamente.*</div><br>
 						<label>NOMBRE</label><input name="nombre" id="nombre" type="text"><br>
 						<div class="error" id="err-nombre">*Por favor introduce tu nombre*</div><br>

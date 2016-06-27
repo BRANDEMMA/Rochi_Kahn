@@ -12,7 +12,7 @@
 
 //Mensaje Recepción de Pedido
 @$mensaje=
-"Quiero hacer la cartera FLORES ENCENDIDAS ITALIANO\n\n
+"Quiero hacer la CARTERA FLORES ENCENDIDAS ITALIANO\n\n
 Nombre: $nombre\n\n
 Teléfono: $telefono\n\n
 E-mail: $email \n\n

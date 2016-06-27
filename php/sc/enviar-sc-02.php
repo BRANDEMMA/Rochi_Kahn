@@ -12,7 +12,7 @@
 
 //Mensaje Recepción de Pedido
 @$mensaje=
-"Quiero hacer la cartera Dorado Y Negro Italiano\n\n
+"Quiero hacer la CARTERA DORADO Y NEGRO ITALIANO\n\n
 Nombre: $nombre\n\n
 Teléfono: $telefono\n\n
 E-mail: $email \n\n

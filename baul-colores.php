@@ -1,4 +1,4 @@
-<!DOCTYPE HTML>
+ <!DOCTYPE HTML>
 <html>
 
 <head>
@@ -184,11 +184,11 @@
 					- Placa marca niquel o bronce.</p>
 					<p><span>S/ 1000 Soles</span></p>
 					<div class="botones">
-						<a href="#solicitar"><i class="fa fa-shopping-cart"></i>COMPRAR</a>
-						<a href=""><i class="fa fa-scissors" aria-hidden="true"></i>HACER</a>
-						<a href=""><i class="fa fa-facebook"></i></a>
-						<a href=""><i class="fa fa-twitter"></i></a>
-						<a href=""><i class="fa fa-whatsapp"></i></a>
+						<!-- <a href="#solicitar"><i class="fa fa-shopping-cart"></i>COMPRAR</a> -->
+						<a href="#solicitar"><i class="fa fa-scissors" aria-hidden="true"></i>HACER</a>
+						<a href="javascript:void( window.open('https://www.facebook.com/share.php?u='+document.URL, 'blank','scrollbars=yes,toolbar=no,width=700,height=500'))"><i class="fa fa-facebook"></i></a>
+						<a href="javascript:void( window.open('https://twitter.com/intent/tweet?text='+document.title+'%20'+document.URL, 'blank','scrollbars=yes,toolbar=no,width=700,height=500'))"><i class="fa fa-twitter"></i></a>
+						<a href="javascript:window.location.href=('whatsapp://send?text='+document.title+'%20'+document.URL)" data-action="share/whatsapp/share"><i class="fa fa-whatsapp"></i></a>
 					</div> 
 				</div>
 				<div class="texto-articulo">
@@ -199,7 +199,7 @@
 				</div>
 				<div class="formulario-articulo" id="solicitar">
 					<p>SOLICÍTALA AHORA.</p>
-					<form class="form-main" name="ajax-form" id="ajax-form" method="POST" action="enviar.php">
+					<form class="form-main" name="ajax-form" id="ajax-form" method="POST" action="php/vs/enviar-vs-01.php">
 						<div id="ajaxsuccess">*El Email ha sido enviado satisfactoriamente.*</div><br>
 						<label>NOMBRE</label><input name="nombre" id="nombre" type="text"><br>
 						<div class="error" id="err-nombre">*Por favor introduce tu nombre*</div><br>

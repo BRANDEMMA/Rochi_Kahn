@@ -182,10 +182,10 @@
 
 
 
-						<a href="javascript:void( window.open('https://www.facebook.com/share.php?u=http%3A%2F%2Frochikahn.com%2Fflores-encendidas-italiano.php&t=ROCHI%20KAHN%20-%20BOLSO%20-%20CARTERA%20-%20FLORES%20ENCENDIDAS%20ITALIANO', 'blank','scrollbars=yes,toolbar=no,width=700,height=500'))" target="_blank"><i class="fa fa-facebook"></i></a>
-						<a href="javascript:void( window.open('https://twitter.com/intent/tweet?text=ROCHI%20KAHN%20-%20BOLSO%20-%20CARTERA%20-%20FLORES%20ENCENDIDAS%20ITALIANO%20http%3A%2F%2Frochikahn.com%2Fflores-encendidas-italiano.php&source=webclient', 'blank','scrollbars=yes,toolbar=no,width=700,height=500'))" target="_blank">
+						<a href="javascript:void( window.open('https://www.facebook.com/sharer/sharer.php?u='+document.URL, 'blank','scrollbars=yes,toolbar=no,width=700,height=500'))"><i class="fa fa-facebook"></i></a>
+						<a href="javascript:void( window.open('https://twitter.com/intent/tweet?text='+document.title+'%20'+document.URL, 'blank','scrollbars=yes,toolbar=no,width=700,height=500'))">
 						<i class="fa fa-twitter"></i></a>
-						<a href="whatsapp://send?text=http%3A%2F%2Frochikahn.com%2Fflores-encendidas-italiano.php&t=ROCHI%20KAHN%20-%20BOLSO%20-%20CARTERA%20-%20FLORES%20ENCENDIDAS%20ITALIANO" data-action="share/whatsapp/share"><i class="fa fa-whatsapp"></i></a>
+						<a href="javascript:window.location.href=('whatsapp://send?text='+document.title+'%20'+document.URL)" data-action="share/whatsapp/share"><i class="fa fa-whatsapp"></i></a>
 					</div> 
 				</div>
 				<div class="texto-articulo">

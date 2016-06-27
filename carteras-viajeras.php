@@ -3,10 +3,10 @@
 
 					<div class="link"><i class="fa fa-caret-right"></i>VIAJERAS - <span>"Para el mundo"</span></div>
 					<ul class="submenu" id="viajeras-mostrar">
-					<p class="edicion"></br>Rochi Kahn, presenta su linea viajera, aquella que ira creciendo en sus versiones y que hoy muestra un diseño que se deja llevar contigo y lucir,  ademas de tener cerca lo que mas necesitas.</br></br>
-					Todas y cada una de las piezas desarrolladas pertenecen a una edición limitada de pedidos y replicas.
-
-					</p>
+					<div class="alinear-carteras">
+						<p class="edicion"></br>Rochi Kahn, presenta su linea viajera, aquella que ira creciendo en sus versiones y que hoy muestra un diseño que se deja llevar contigo y lucir,  ademas de tener cerca lo que mas necesitas.</br></br>
+						Todas y cada una de las piezas desarrolladas pertenecen a una edición limitada de pedidos y replicas.
+						</p>
 						<li>
 							<a href="piel-colores.php"><img src="img/productos/viajera/cartera-rk-viajera-0001.jpg">
 								<p class="titulo-articulo-producto">PIEL Y COLORES</p>
@@ -55,6 +55,7 @@
 								<i class="fa fa-caret-right" style="transform:none;font-size:0.8em;float:left;margin-right:5px;"></i><p class="subtitulo-articulo-producto">008RK-V</p>
 							</a>
 						</li>
+					</div>
 					</ul>
 					<div class="clear"></div>
 
