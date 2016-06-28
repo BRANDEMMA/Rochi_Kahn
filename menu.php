@@ -41,7 +41,6 @@
 			<li><a href="index.php#izquierda-edicion">EDICIÓN LIMITADA</a></li>
 			<li><a href="index.php#derecha-experiencias">MÁS QUE UNA COMPRA UNA EXPERIENCIA</a></li>
 			<li><a href="index.php#trayectoria">TRAYECTORIA Y MEDIOS</a></li>
-			<li><a href="medios.php">MEDIOS</a></li>
 			<li><a href="#contacto">CONTACTO</a></li>
 		</ul>
 	</nav>
